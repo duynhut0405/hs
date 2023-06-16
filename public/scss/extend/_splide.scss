@@ -1,0 +1,182 @@
+.splide, .splide__slide {
+    position: relative;
+    outline: none;
+}
+.splide__track {
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+}
+
+
+.splide__list {
+    margin: 0!important;
+    padding: 0!important;
+    width: -webkit-max-content;
+    width: max-content;
+    will-change: transform;
+}
+
+.splide.is-active .splide__list {
+    display: flex;
+}
+
+.splide__slide {
+    box-sizing: border-box;
+    list-style-type: none!important;
+    margin: 0;
+    flex-shrink: 0;
+}
+
+.splide--draggable>.splide__track>.splide__list>.splide__slide {
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.splide__arrows { 
+  z-index: 2;
+    position: absolute;
+    left: 0;
+    right: 0;
+    @if($nav_position == 0 ){ 
+      top : 0;
+    }@else if($nav_position == 1 ){ 
+      top: 50%;
+      
+    }@else {
+      bottom:0; 
+    }
+    &>.splide__arrow {
+      position: absolute; cursor: pointer;
+      text-align: center;   @extend .tss;
+      width:$nav_item_size; 
+      height: $nav_item_size; 
+      cursor: pointer;
+
+      @if($nav_item_shadow!=n) {
+        box-shadow:$nav_item_shadow;   
+      }
+
+      @if($nav_item_border_width!=n) {
+        line-height: $nav_item_size - $nav_item_border_width*2;   
+      }@else{
+        line-height: $nav_item_size;   
+      }
+
+      font-size: $nav_item_fs; 
+      border-radius: $nav_item_radius; 
+      background-color: $nav_item_bg;
+      color: $nav_item_color;
+      @if($nav_item_border_width != n) {
+        border:$nav_item_border_width solid $nav_item_border_color;
+      }@else {
+        border:none;
+      }
+
+      @include transition(0.3s);
+      
+      @if($nav_position == 1 ){
+        @include translateY (-50%); 
+      }
+
+      &[disabled] {
+        opacity: 0.3;
+      }
+
+
+
+      &:hover { 
+        @if($nav_item_hover_color != n){
+          color: $nav_item_hover_color; 
+        }
+        @if($nav_item_hover_bg != n){
+          background-color: $nav_item_hover_bg; 
+        }
+        @if($nav_item_hover_border_color != n and $nav_item_border_width != n) {
+          border-color: $nav_item_hover_border_color;
+        }
+      } 
+      svg { display: none; }
+      i {  line-height: inherit; }
+      &:nth-child(1) { left: $nav_item_space;  }
+      &:nth-child(2) { right: $nav_item_space;  }
+      //&.disabled { opacity: 0.5}
+    }
+} 
+
+
+  .splide__pagination { 
+    padding: 0; position: absolute;    
+
+    @if($dots_positon == 0) {
+       position: relative; padding-top: 20px; padding-bottom: 20px; 
+    }@else if($dots_positon == 1) {
+      bottom: $dots_space;   
+    }@else if($dots_positon == 3) {
+      left: $dots_space; @include middleY; 
+      &>div{display: block !important; margin:$dots_item_mg 0; &>span{ margin:0 !important; }}
+    }@else if($dots_positon == 4) {
+      right: $dots_space;  @include middleY; left: auto !important; 
+      &>div{display: block !important; margin:$dots_item_mg 0; &>span{ margin:0 !important; }}
+    }@else {
+      top: $dots_space;    
+    }
+
+    @if($dots_assign == 0) {
+      left: $dots_space;   text-align: left;
+    }@else if($dots_assign == 1) {
+      text-align: center; 
+      @if($dots_positon != 0) {
+        @include middleX; 
+      }
+    }@else { 
+      right: $dots_space; text-align: right;
+    }
+
+    &>li { 
+      display: inline-block;    border: none;    background: none; 
+      button {
+        display: block;   -webkit-backface-visibility: visible;        @extend .tss;
+        width: $dots_item_size;
+        height: $dots_item_size;
+        margin: 0 $dots_item_mg;
+        border-radius: $dots_item_radius; 
+        background-color: $dots_item_color ;
+        cursor: pointer;
+        @if($dots_item_border == 0) {
+          border: none;
+        }@else {
+          border:1px solid $dots_item_border_color;
+        }
+        &.is-active ,&:hover{
+          background-color: $dots_item_hover_color; border-color: $dots_item_hover_border_color 
+        }
+      }
+
+    } 
+  }  
+
+.splide-per { 
+  .splide__pagination {
+    counter-reset: slides-num;
+  }
+  .splide__pagination li {
+    display: inline-block;     line-height: normal;
+    counter-increment: slides-num; position: relative; width: 20px; height: 20px;
+    margin:0 10px;
+    button {
+      width: 100%; height: 100%; border:none; background-color: #EEEEEE; border-radius: 5px; text-align: center; line-height: 20px;
+      &:before {
+        content:  counter(slides-num); 
+        display: inline-block;
+      }
+      &.is-active {
+        background-color: $cl1; color: #fff;
+      }
+
+    }
+  }
+}
+
+
+

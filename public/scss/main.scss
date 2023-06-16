@@ -1,0 +1,34 @@
+$assets : '..';
+@import "variables";   
+
+@import "/Applications/MAMP/htdocs/__html/assets/scss/__LIB2/library"; 
+//@import "../../../__ahtml/assets/scss/__LIB/library";     
+
+//@import "extend/icomoon";
+
+@import "themes/include"; 
+ 
+@import "extend/slick";
+@import "themes/theme"; 
+
+@import "themes/home";  
+@import "themes/blog"; 
+
+@import "product/shop";
+
+@import "product/user";
+@import "product/login";
+
+
+// @import "product/category";
+// @import "product/detail";
+
+// @import "themes/compare"; 
+
+// @import "themes/news";  
+// @import "themes/form";  
+// @import "user/khue";  
+
+@import "layout/footers";
+@import "layout/responsive";              
+

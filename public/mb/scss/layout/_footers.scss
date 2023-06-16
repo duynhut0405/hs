@@ -1,0 +1,99 @@
+
+#footer-mb {
+	background-color: #fff; border-radius: 8px 8px 0 0;  
+	position: fixed; bottom: 0; left: 0; right: 0;
+	text-align: center;     z-index: 1000; box-shadow: 0px -5px 5px 0 rgba(0, 0, 0, 0.1); 
+	padding: 10px 0; height: 60px;
+
+	@include min768 {
+		display: none;
+	}
+
+	.col-3 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 20%;
+	    flex: 0 0 20%;
+	    max-width: 20%;
+	}
+	.item {
+		display: inline-block; 
+		i { display: inline-block;  }
+		.img { 
+		    position: relative;
+		    line-height: normal;
+		    height: 22px;
+		    display: block;
+		    margin-bottom: 3px;
+		    font-size: 21px;
+		    color: #8B99A5;
+
+		}
+		.name { display: block; font-size: 12px; line-height: 13px;}
+
+		&.active {
+			color: $cl1;
+			.img { color: inherit; }
+		}
+	}
+
+	.user {
+		margin:0 auto; width: 22px; height: 22px; position: relative;
+
+		.badge {
+		    width: 16px;
+		    height: 16px;
+		    right: -5px;
+		    bottom: -5px;
+		    z-index: 4;
+		}
+
+	}
+
+	.avatar {
+		width: 22px; height: 22px;
+	}
+}
+
+
+
+
+#copyright { 
+    line-height: 24px; padding: 10px 0; font-size: 12px;
+    border-top:1px solid #EEEEEE; position: relative;
+
+    @include min768 {
+    	.list-social {
+    		@include middleY; right: 0;
+    	}
+    }
+
+} 
+
+
+// Back to top
+#back-top{
+  background-color: transparent; border-radius: 100%;    font-weight: 600; font-size: 10px;
+  bottom:100px;color:#333333;cursor:pointer;display:block; height:40px; width:40px; position:fixed; right: 5px;
+  text-align:center;text-decoration:none; opacity: 0; visibility: hidden; z-index:1040; background-color: #fff;
+  box-shadow:0px 6px 14px rgba(#914744,0.14);
+  @include flex;
+  span { display: block;}
+  i { display: block; text-align: center; line-height: 12px;}
+  @extend .tss;
+  &:hover {
+    background-color: $cl1; color: #fff;
+  }
+  &.show{ opacity: 1; visibility: visible;}
+
+
+  @include min992 {
+  	height:54px; width:54px;  right: 20px; font-size: 13px;
+  }
+}
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+import React, {useEffect, useState} from 'react'
+import t from '../../../translation'
+import CategoryProduct from '../ProductBox/CategoryProduct'
+import api from '../../../services/api'
+import Link from 'next/link'
+
+const paintURL = "gach-op-lat/gach-op-tuong";
+const data = 178;
+
+function CategoryGachProducts({}) {
+  const [products, setProducts] = useState([]);
+  const [configPrice, setConfigPrice] = useState(null);
+
+  useEffect(async () => {
+    try {
+      // const result1 = await api.get(`/service/rewrite/entity/${paintURL}`);
+      // console.log("result1", result1);
+      // data = result[0].data || null;
+      // allMenu = result[1].data[0].menuItems || null;
+      let initParams = `searchCriteria[filterGroups][0][filters][0][field]=cat&searchCriteria[filterGroups][0][filters][0][value]=44`;
+      initParams += `&searchCriteria[filterGroups][0][filters][1}][field]=p&searchCriteria[filterGroups][0][filters][1}][value]=1`;
+      const result = await api.get(`service/products?${initParams}&limit=6`);
+      if (result.status == 200) {
+        setProducts(result.data.search_result.items);
+        setConfigPrice(result.data.config[0]);
+      }
+    } catch (error) {
+      console.log(error);
+    }
+  }, [data]);
+
+  return (
+    <section className="r2 sec-tb mb-30 border-bottom">
+      <div className=" entry-head lazy-hidden ef ef-tx-t">
+        <h2 className="ht">Sản phẩm Gạch</h2>
+        <Link href={`/${paintURL.replace(".html", "")}`}>
+          <a href={`/${paintURL.replace(".html", "")}`} className="viewall">
+            Xem tất cả danh mục sản phẩm <i className="icon-arrow-2"></i>
+          </a>
+        </Link>
+      </div>
+      <div className="row  list-item list-p-1">
+        {products.length != 0 &&
+          products.map((item, index) => (
+            <div className="col-lg-2  col-4 " key={index}>
+              <CategoryProduct data={item} configPrice={configPrice} />
+            </div>
+          ))}
+      </div>
+    </section>
+  );
+}
+
+export default CategoryGachProducts

@@ -1,0 +1,24 @@
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  only:
+    - develop
+  tags:
+    - nondocker
+  before_script:
+    - export PATH=$PATH:/usr/local/bin
+    - export DOT=":"
+    - export PORT=8000
+  script:
+    - rsync -a . /opt/hoasenhome.vn/
+    - cd /opt/hoasenhome.vn && cp ./next.config.js.dev ./next.config.js
+    - cd /opt/hoasenhome.vn/pages && sed -i 's/magento2.mangoads.com.vn/admin-hoasen.mangoads.com.vn/g' '[...category].js'
+    - cd /opt/hoasenhome.vn && npm install
+    - cd /opt/hoasenhome.vn && npm run build
+    - echo "Delete hoasenhome.vn"
+    - cd /opt/hoasenhome.vn && pm2 delete -s hoasenhome.vn || $DOT
+    - echo "Start hoasenhome.vn"
+    - cd /opt/hoasenhome.vn && pm2 start npm --name hoasenhome.vn -- start -p $PORT
+    #- cd /opt/hoasenhome.vn && pm2 restart hoasenhome.vn

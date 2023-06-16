@@ -1,0 +1,464 @@
+.sec-filter {
+  background-color: #FAFAFA;position: relative;
+    z-index: 99;
+  padding-top: 10px; padding-bottom: 10px;
+
+
+
+.toggleClass {
+    .toggle {
+      display: block; height: 30px; border:1px solid #C0C0C0;border-radius: 5px;
+      min-width: 100px;     padding: 0 20px; background-color: #fff;    color: #696969;
+      vertical-align: middle; line-height: 28px;      cursor: pointer;white-space: nowrap; position: relative;
+      &:after { right: 5px; }
+
+      &:hover {
+        border-color: $cl1; color: $cl1;
+      }
+    }
+}
+
+
+
+    form.item-group {
+      background-color: #fff; border-radius: 5px;  border:1px solid #EEEEEE;
+
+      select { width: 130px; border:none; background-color: transparent; height: 30px;}
+
+      input { width: 100%; height: 30px; border:none; background-color: transparent; }
+      button {
+        width: 30px; height: 30px; border:none; background-color: transparent;  cursor: pointer;
+        @include middleY; right: 0;
+        i{ @include middle; }
+        &:hover { color: $cl1; }
+      }
+      .item-group-content {
+        &:before {
+          content: ""; height: 20px; width: 1px; @include middleY; left: 0; background-color: #EEEEEE;
+        }
+
+
+      }
+
+      input:focus ~ .autocomplete {
+        margin-top: 5px; opacity: 1; visibility: visible; 
+      }
+    }
+
+    .list-item-filter {
+      >.item { display: inline-block;    margin-left: 10px; vertical-align: middle; }
+    }
+
+
+    .item-form-to {
+      .dropdown-content {
+        width: 270px;  padding:15px;
+      }
+
+      .input { width: 100%; height: 30px;}
+
+      .price-form-to {
+        margin:0 -20px 20px -20px !important; position: relative;
+
+        >div{
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+
+
+
+        >.text { @include middle; }
+
+      }
+      .items {
+        overflow: hidden; 
+
+
+        .val {
+          background-color: #F2F2F2; margin:0 10px 10px 0; cursor: pointer; min-width: 100px; text-align: center;
+          float: left; line-height: 30px; border-radius:30px; padding:0 10px;          @extend .tss;
+          &:last-child { margin-right: 0; }
+          &:hover, &.active { background-color: $cl1; color: #fff;}
+        }
+      }
+    }
+
+    .item-orther {
+      .dropdown-content {
+        width: 410px; right: 0; left: auto; padding:15px;
+      }
+      .items {
+        overflow: hidden; margin-bottom: 20px;
+        .title { 
+          overflow: hidden; margin-bottom: 10px; position: relative; //color: #696969;
+          .clear { 
+            @include middleY; right: 0; color: $cl1; cursor: pointer;
+            &:hover { color: $cl2; }
+          }
+        }
+        .val {
+          background-color: #F2F2F2; margin:0 10px 10px 0; cursor: pointer;
+          float: left; line-height: 30px; border-radius:30px; padding:0 17px;          @extend .tss;
+          &:last-child { margin-right: 0; }
+          &:hover, &.active { background-color: $cl1; color: #fff;}
+        }
+      }
+    }
+
+  .toggleClass.active {
+    .dropdown-content { margin-top: 10px;} 
+  }  
+
+
+}
+
+.top-heading {
+  position: relative;
+  .entry-head {
+    max-width: none;
+  }  
+  .orders {
+    line-height: 30px; @include flex;margin-bottom: 20px;
+    
+
+    @include min768 {
+      right: 0; position: absolute; top: 0;
+    }
+
+    .select { height: 30px; min-width: 100px; margin-left: 5px;}
+
+    .views {
+      @include flex; margin-left: 20px;
+    }
+    .view-grid {
+      display: inline-block; margin-left: 15px;
+      &.active { color: $cl1; }
+    }
+    .view-map {
+       margin-left: 15px;
+      border-radius: 5px; 
+      border: 1px solid #D3D3D3;
+      line-height: 28px;
+      padding:0 10px;
+      display: inline-block;
+      overflow: hidden;
+      i {
+          margin-left: 5px;
+          font-size: 20px;
+          line-height: normal;
+          float: right;
+          margin-top: 3px;
+      }
+
+      &:hover,&.active { color:#fff; background-color: $cl1; border-color: $cl1;}
+    }
+
+    @include max767 {
+      .item>.title { display: none; }
+      .view-map  {
+        margin-left: 5px;
+      }
+
+      .btn {
+          min-width: inherit;
+          margin-left: 5px;
+          padding:0 10px;
+      }
+
+    }
+
+  }  
+}
+
+
+.page-project {
+  @include min1200 {
+    .row {
+      >.content { flex: 0 0 80%;  max-width: 80%;    }
+      >.sidebar { flex: 0 0 20%;  max-width: 20%;    }
+    }
+  }
+
+
+
+
+
+}
+
+.list-p-4 {
+
+
+  .status {
+    position: absolute; left: 10px; top: 10px; z-index: 3;
+
+  } 
+
+  .item {
+    //background-color: #fff; box-shadow: 0 0 10px rgba(#000,0.2); border-radius: 8px; overflow: hidden;
+    height: 100%;
+    padding-bottom: 45px; position: relative;
+    &.is-save {
+      .title2 { margin-right: 35px; } 
+    }
+  }
+  .img {
+    margin: 8px 8px 20px; border-radius: 8px; position: relative; overflow: hidden;
+    [class*=tRes]:before {
+      background: linear-gradient(0deg, rgba(0,0,0,0.4) 0%, rgba(#000,0.001) 60%);
+    }
+    .title {
+      position: absolute; bottom: 0;  left: 0; right: 0; z-index: 4;
+      margin:0 !important; padding:10px !important; color: #fff;
+    }
+  }
+ 
+  .divtext {
+    padding:0 12px; position: relative;
+
+    .title2 {
+      line-height: 25px; color: $cl1; display: block; margin-bottom: 10px;
+      .tRes {
+       width: 25px; height: 25px; border:1px solid $cl1; border-radius: 100%;    float: left;    margin-right: 10px;
+       img { border-radius: 100%;  }
+      }
+    }
+  }
+
+  .title {
+    color: $cl2; font-weight: 700;     margin-bottom: 10px;
+    &:hover { color: $cl1; }
+  }
+  .desc {
+    margin-bottom: 10px;
+  }
+
+  .bottom {
+    border-top:1px solid #EEEEEE; line-height: 24px;
+    padding:10px; display: block; color: $cl1; position: absolute; bottom: 0; left: 0; right: 0;
+    >img {
+      float: left; height: 24px; width: 24px; margin-right: 10px;
+    }
+    &:hover {
+      color: $cl2;
+
+    }
+  }
+
+
+
+  .bds {
+    border-top:1px solid #EEEEEE; padding:10px; display: none; clear:both;
+    .gtitle {
+      position: relative; margin-bottom: 5px;
+      >a { 
+        @include middleY; right: 0; color: $cl1;
+        i { font-size: 11px; }
+        &:hover { color: $cl2; }
+      }
+    }
+
+
+      &-img { width: 80px; }
+      &-title {
+        height: 38px; margin:0;
+        &:hover { color: $cl1; }
+      }
+      .btnsave {
+          right: 5px;
+          top: 5px;
+      }
+
+    .item-group {
+      height: 80px; overflow: hidden;
+      border-radius: 5px; border:1px solid #EEEEEE;
+
+
+
+      &-content {
+        padding-top: 3px; line-height: normal;
+      }
+
+      &.is-save {
+        .title { margin-right: 35px; }
+      }
+    }
+  }
+
+
+
+}
+
+
+.sidebar {
+  .widget {
+    margin-bottom: 30px;
+  }
+
+  .widget-content {
+
+  }
+
+  .widget-title {
+    background-color: $cl2; color: #fff;
+    padding:10px; margin:0;
+  }
+
+}
+
+.widget-menu {
+  ul.menu{
+    list-style: none; margin:10px 0; padding:0;    max-height: 288px;    overflow-y: auto; 
+  }
+  li { 
+    display: block;
+    &:hover,&.active {
+      >a { color: $cl1}
+    }
+  }
+  a {
+    display: block; padding:5px 10px;
+  }
+}
+
+
+
+
+.project-map {
+  .container, .col-map {
+  //  position: static;
+  }
+  #map { 
+    @include min1400 {  right: -50px  }
+  }
+
+  .top-content {
+    overflow: hidden; position: relative;
+    .mode-views {
+      display: flex; position: absolute; bottom: 22px; right: 0;
+      label { 
+        margin-left: 20px; @extend .tss; cursor: pointer;
+        &.active,&:hover { color: $cl1; }
+      }
+    }
+  }
+
+
+
+  @include min992max1199 {
+    #colContent {flex: 0 0 58%;  max-width: 58%;}
+    .col-map {flex: 0 0 42%;  max-width: 42%;}
+  }
+
+  @include min992 {
+    #map {position: absolute; right: -15px; top:0;  bottom: 0; left: 15px;  height: auto; }
+    .list-content {
+      padding:10px; margin-left: -10px;margin-right: -10px;
+      height: calc(100% - 160px);
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+  }
+
+  @include max991 {
+    #colContent { height: auto !important; }
+    #map { height: 300px !important; margin: 30px 0; }
+  }
+
+
+
+
+}
+
+#viewList:checked {
+  & ~ .list-p-2 {
+    >div  {
+      flex: 0 0 100%;
+      max-width: 100%;    
+    }
+    .item {
+      padding:0;
+    }
+
+    .img {
+      float: left; width: 45%; 
+    }
+    .divtext {
+      margin: 10px 0 0; overflow:hidden; 
+    }
+    .bottom { clear: both;  }
+
+  }
+
+  & ~ .list-p-4 {
+
+    >div  {
+      flex: 0 0 100%;
+      max-width: 100%;    
+    }
+    .item {
+      padding:0;
+    }
+
+    .img {
+      float: left; width: 45%; 
+    }
+    .divtext {
+      margin: 10px 0 0; overflow:hidden; 
+    }
+    .bottom {
+      display: none;
+    }
+
+    .bds { display: block; }
+
+  }
+
+
+
+  & ~ .list-agent {
+
+    >div  {
+      flex: 0 0 100%;
+      max-width: 100%;    
+    }
+    .item {
+       overflow: hidden; padding:10px;
+
+       &:before {
+        content: ""; @include middleX; top: 0; bottom: 0; background-color: #EEEEEE; width: 1px;
+       }
+    }
+
+    .user {
+      >.badge { display: none;}
+    }
+
+    .name {
+        padding: 0 5px 5px;
+        .level { display: inline-block; margin-top: 5px;}
+    }
+
+
+    .top {
+      float: left; width: 48%; margin-right: 4%;
+    }
+    .bottom {
+      overflow: hidden;
+    }
+
+
+  }
+
+}
+
+
+.gm-style-iw button {
+  display: none !important;
+}
+
+
+#content__scroll {
+  >.content {
+    margin-bottom: 30px;
+  }
+}

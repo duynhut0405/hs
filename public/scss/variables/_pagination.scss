@@ -1,0 +1,23 @@
+//PAGINATION V0
+	//UL
+	$pg0_ul_padding:n;
+	$pg0_ul_align:center; // left - right - center
+
+		//Item
+		$pg0_i_font : n;
+		$pg0_i_weight : n;
+		$pg0_i_size : 20px;
+		$pg0_i_fs : n;
+		$pg0_i_color: n;
+		$pg0_i_bg: transparent;
+		$pg0_i_radius: 5px;
+		$pg0_i_border: n;
+		$pg0_i_border_color: $cl1;
+			$pg0_i_arr_fs : 11px;
+
+		// active
+		$pg0_i_a_color: #fff;
+		$pg0_i_a_bg: $cl1;
+		$pg0_i_a_border_color:n;
+
+

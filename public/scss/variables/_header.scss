@@ -1,0 +1,68 @@
+$header:70px; 
+$header-md:60px; 
+$header-sm:60px;  
+$header-xs:60px;       
+
+$sticky:n; 
+$sticky-md:n;  
+$sticky-sm:n; 
+
+$logo-sticky : $sticky - 10; 
+$logo-sticky-md : $sticky-md - 10; 
+$logo-sticky-sm : $sticky-sm - 10; 
+
+// Logo  
+$logo-img : $header - 8; 
+$logo-img-md : $header-md - 5;  
+$logo-img-sm : $header-sm - 5; 
+$logo-img-xs : $header-xs - 5; 
+
+
+$hd_bg : #fff;
+$hd_color :n;  
+$hd_zindex : 1000; 
+
+
+$hd_border : n; 
+$hd_border_color : #000;  
+$hd_shadow : n; 
+
+	// Fixe
+	$hd_fix_shadow : 0 0 2px rgba(0,0,0,0.15); 
+	$hd_fix_bg : n;
+	$hd_fix_border_color : #000;   
+
+
+
+// Toggle Search
+
+$ts_bd:rgba(0,0,0,0.1); 
+$ts_bg:#fff;
+$ts_h:50px;
+$ts_w:250px;
+$ts_t:90%;
+$ts_mg_t:20px;
+$ts_align:right;
+$ts_space:-20px;
+$ts_radius:0 0 5px 5px;
+
+	$ts_tog_s:30px; //n
+	$ts_tog_lh:30px; //n
+	$ts_tog_fs:20px; //n	
+	$ts_tog_cl:#878787; //n	
+	$ts_tog_ac_cl:$cl1; //n	
+
+	$ts_input_fs:100%;
+	$ts_btn_fs:20px;
+	$ts_btn_cl: inherit ;
+
+	$ts_ac_btn_cl:$cl1;
+	$ts_ac_toggle_i:"\e90f";
+
+	$ts_ar:1; //1-0
+	$ts_ar_s:10px;	
+	$ts_ar_align:right;
+	$ts_ar_space:24px;	
+	$ts_ar_Y:-100%;	
+
+	

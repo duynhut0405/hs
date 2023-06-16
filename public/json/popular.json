@@ -1,0 +1,17 @@
+{
+  "totalRecords": 1,
+  "items": [
+    {
+      "query_id": "365",
+      "query_text": "sơn",
+      "num_results": "236",
+      "popularity": "2310",
+      "redirect": null,
+      "store_id": "1",
+      "display_in_terms": "1",
+      "is_active": "1",
+      "is_processed": "0",
+      "updated_at": "2022-06-01 06:38:50"
+    }
+  ]
+}

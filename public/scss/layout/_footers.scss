@@ -1,0 +1,126 @@
+// .widget-menu-mb {
+// 	position: relative;
+// 	>input { position: absolute; left: 0; top: 0; opacity: 0; }
+// 	.widget-title { display: block; }
+// 	>ul.menu {
+// 		overflow: hidden; @extend .tss;
+// 	}
+// 	@include max767 {
+// 		margin:0 0 10px !important;
+
+// 		.widget-title {
+// 			box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); margin-bottom: 0 !important;
+// 			padding:10px; border-radius: 5px; position: relative;
+// 			&:after {
+// 				font-family: 'icomoon' !important;    content: "\e93d"; @include middleY; right: 10px;
+// 				color: $cl1;
+// 			}
+// 		}
+// 		>ul.menu {
+// 			max-height: 0; 
+// 		}
+// 		>input:checked {
+// 			& ~ .widget-title:after  {     content: "\e930"; }
+// 			& ~ ul.menu {
+// 				padding-top: 10px; padding-bottom: 10px; max-height: 300vh;
+// 			}
+
+// 		}
+
+// 	}
+
+// }
+
+
+#footer {
+
+	background-color: #FAFAFA;
+	//border-top:1px solid $cl1;
+
+	.widget { margin-bottom: 30px; }
+
+	.widget-about {
+		max-width: 305px;
+		>div { margin-bottom: 10px; }
+	}
+
+
+
+	.widget-title {
+		font-size: 100%; font-weight: 700; display: block;    margin-bottom: 15px; color: $cl3;
+	}
+	a:hover {
+		color: $cl1;
+		&>a { color: $cl2}
+	}
+	ul.menu { 
+		list-style: none; 
+		li { 
+			
+			& + li { margin-top: 10px; }
+			&[class*="current"], &:hover {
+				&>a { color: $cl1}
+			}
+		}
+		a { 
+			display: block; 
+
+
+
+		}
+
+	}
+
+	.logo {
+		margin-bottom: 10px; display: block; 
+	}
+
+
+
+
+
+
+}
+
+#copyright { 
+    line-height: 24px; padding: 10px 0; font-size: 12px;
+    border-top:1px solid #EEEEEE; position: relative;
+
+    @include min768 {
+    	.list-social {
+    		@include middleY; right: 0;
+    	}
+    }
+
+} 
+
+
+// Back to top
+
+
+#back-top{
+  background-color: transparent; border-radius: 100%;    font-weight: 600; font-size: 10px;
+  bottom:100px;color:#333333;cursor:pointer;display:block; height:40px; width:40px; position:fixed; right: 5px;
+  text-align:center;text-decoration:none; opacity: 0; visibility: hidden; z-index:1040; background-color: #fff;
+  box-shadow:0px 6px 14px rgba(#914744,0.14);
+  @include flex;
+  span { display: block;}
+  i { display: block; text-align: center; line-height: 12px;}
+  @extend .tss;
+  &:hover {
+    background-color: $cl1; color: #fff;
+  }
+  &.show{ opacity: 1; visibility: visible;}
+
+
+  @include min992 {
+  	height:54px; width:54px;  right: 20px; font-size: 13px;
+  }
+}
+
+
+
+
+
+
+

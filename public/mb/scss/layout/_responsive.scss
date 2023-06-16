@@ -1,0 +1,9 @@
+.container { max-width: 100% !important;}
+@include max359 {
+	.col-xs-4 {
+	    -webkit-box-flex: 0;
+	    -ms-flex: 0 0 33.33333%;
+	    flex: 0 0 33.33333%;
+	    max-width: 33.33333%;		
+	}
+}

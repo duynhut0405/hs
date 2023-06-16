@@ -1,0 +1,90 @@
+$assets : '..';
+
+// DEFAULT
+$cl1: #8C110A;
+$cl2: #6C2C25;
+$cl3: #555555;
+
+$cl4: #C0C0C0; 
+$cl5: #1A5B7E;
+$cl6: #5497f4;  
+
+
+$cl10 : #FEB53E; // yellow
+
+$section_pd : 30px; 
+$section_pd_mb : 30px; 
+$space-list-item : 20px;  
+
+$effect : 1;
+$effect_delay :0.1;
+
+
+
+
+
+// $h1 : 1.875rem;
+// $h2 : 1.875rem;
+// $h3 : 1.5rem;
+// $h4 : 1.25rem;
+// $h5 : 1.125rem;
+// $h6 : 1rem;
+
+
+$h1 : 30px; 
+$h2 : 24px;
+$h3 : 22px;
+$h4 : 18px;
+$h5 : 16px;
+$h6 : 100%;
+
+
+
+// Font 
+$font1 : 'Montserrat', sans-serif;;
+$font2 : 'Quicksand', sans-serif;
+$font3 : 'Roboto', sans-serif;
+$font4 : 'Poppins', sans-serif;
+
+:root {
+  // Body
+  --body-fs: 14px; //0.875rem; 
+  --body-bg-color: #fff;
+  --body-font: #{$font1};
+  --body-color: #555555;   
+  --body-line-height: 1.42857143;
+
+  //Heading
+  --h1: #{$h1};
+  --h2: #{$h2};
+  --h3: #{$h3};
+  --h4: #{$h4};
+  --h5: #{$h5};
+  --h6: #{$h6};
+
+  //Color
+  --cl1: #{$cl1};
+  --cl2: #{$cl2};
+  --cl3: #{$cl3};
+
+
+  // Menu
+}
+
+
+
+@import "variables/header";
+@import "variables/menu";
+@import "variables/form";
+@import "variables/slider";
+@import "variables/tabs";
+@import "variables/pagination";   
+@import "variables/thumb";   
+@import "variables/sub";   
+@import "variables/extend";
+
+//@import "variables/*";
+
+
+
+

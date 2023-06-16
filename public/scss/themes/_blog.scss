@@ -1,0 +1,226 @@
+.list-b-1 {
+
+  .item {
+    border-radius: 5px; color: #fff;
+
+    &:before {
+      background: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%, rgba(#000,0.001) 60%);
+    }
+    .divtext{
+      position: absolute; bottom: 0; left: 0; right: 0;  z-index: 3;   padding:10px;  
+      .title {        margin:0; font-weight: 600;      }
+    }
+    &:hover {
+      color: $cl1;
+    }
+    &+.item {
+      margin-top: 20px;
+    }
+  }
+
+
+}
+
+.list-b-2 {
+  .item {
+    border-radius: 5px; color: #fff; 
+    &:before {
+      background: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%, rgba(#000,0.001) 60%);
+    }
+    .divtext{
+      position: absolute; bottom: 0; left: 0; right: 0;  z-index: 3;   padding:10px 10px 20px;   text-align: center;
+      .title {        margin:0; font-weight: 600;  font-size: 20px;    }
+    }
+    &:hover {
+      color: $cl1;
+    }
+    &+.item {
+      margin-top: 20px;
+    }
+  }
+}
+
+
+
+.list-b-3 {
+  .item {
+    border-radius: 5px;  border:1px solid rgba(#000,0.15);height: 100%;
+
+    .desc {
+      padding: 20px;  border-bottom: 1px solid #EEEEEE;
+    }
+
+    .user {
+      overflow: hidden; padding: 20px;
+      .avatar { 
+        float: left; width: 50px; border-radius: 100%; margin-right: 15px; margin-top: 3px; 
+        img {border-radius: 100%;}
+      }
+      .divtext{
+        overflow: hidden;
+      }
+
+      .t1 { font-weight: 500;}
+      .t2 { color: #999999; }
+    }
+
+
+  }
+}
+
+
+
+.list-b-4 {
+  .item {
+    height: 100%;
+    .img{
+      .btn {
+        @include middle; z-index: 3; opacity: 0;
+      }
+
+    }
+    .divtext { padding:15px; }
+    .title {   font-weight: 500; margin-bottom: 10px;     }
+    .date { font-size: 12px; color: #999999;     font-weight: 300;}
+
+    &:hover  {
+      .img {
+        &:before { background-color: rgba(#000,0.7); }
+        .btn { opacity: 1; }
+      }
+    }
+
+
+  }
+}
+
+
+.list-b-5 {
+  .item {
+    border-radius: 5px; display: block; height: 100%;
+
+    .divtext{
+      padding:15px;   text-align: center;
+      .title {        margin:0;     }
+    }
+    &:hover {
+      color: $cl1;
+    }
+
+  }
+}
+
+
+
+.list-b-6 {
+  .item {
+    display: block;  
+    .img {
+      margin-bottom: 15px;
+    }
+    .divtext{
+      text-align: center;
+      .title {        margin:0;     }
+    }
+    &:hover {
+      color: $cl1;
+    }
+  }
+}
+
+
+.list-b-7 {
+  .item-group {
+
+    &-addon {  width: 280px; }
+
+    .img {
+      border-radius: 5px;
+    }
+
+    .title {   
+      margin-bottom: 10px;     
+      &:hover { color: $cl1; }
+    }
+    .date { font-size: 12px; color: #999999;     font-weight: 300;}
+
+    // &:hover  {
+    //   .img {
+    //     img { transform: scale(1.2); }
+    //   }
+    // }
+
+
+    border-bottom: 1px solid #EEEEEE;  margin-bottom: 20px; padding-bottom: 20px;
+
+
+  }
+}
+
+.list-b-8 {
+  .item-group {
+    &-addon {  width: 85px; }
+    .img {  border-radius: 5px; }
+    .title {   
+      &:hover { color: $cl1; }
+    }
+    border-bottom: 1px solid #EEEEEE;   padding: 20px;
+  }
+}
+
+
+.sidebar-blog {
+  .widget {
+    margin-bottom: 30px;
+  }
+}
+
+.page-blog-detail {
+  .maincontent {
+    position: relative; padding-left: 100px;
+    .tools {
+      position: absolute; left: 0; top: 0; width: 60px;
+      .item {
+
+        display: block; text-align: center; margin-bottom: 20px; cursor: pointer;
+        i { 
+          width: 50px; height: 50px; color: #fff; font-size: 26px; position: relative;
+          display: block; margin:0 auto; border-radius: 100%; background-color: #C0C0C0;
+          @extend .tss;
+          &:before { @include middle; }
+
+          &.icon-fb:not(:hover) {
+            background-color: #3B5998;
+          }
+        }
+
+        span { display: block; font-size: 12px; color: #555555;}
+
+        &:hover {
+          i { background-color: $cl1; }
+        }
+      }
+    }
+  }
+
+
+  .copied {
+    border-radius: 5px; border:1px solid #B9E6FF; padding:10px 20px;margin-bottom: 30px;
+    background-color: #D7EDF9;  position: relative; display:none; //max-height: 0; opacity: 0; overflow: hidden;
+    .close {
+      @include middleY; right: 10px; width: 16px; height: 16px; @extend .tss; cursor: pointer;
+      border-radius: 100%; background-color: #CECECE; border:1px solid #FAFAFA; font-size: 8px; color: #fff;
+      i {  @include middle;      }
+
+      &:hover { background-color: $cl1; border-color: $cl1; }
+    }
+
+    &.active {
+      display: block;
+      //padding:10px 20px; opacity: 1; max-height: 200px; 
+    }
+  }
+}
+
+
+

@@ -1,0 +1,23 @@
+ul.menu-user-info {
+  list-style: none;
+  border-top: 1px solid #EEEEEE;
+  border-bottom: 1px solid #EEEEEE;
+  padding: 20px; }
+  ul.menu-user-info li + li {
+    margin-top: 10px; }
+  ul.menu-user-info a {
+    display: block;
+    position: relative;
+    padding: 5px 5px 5px 35px;
+    color: #696969; }
+    ul.menu-user-info a i {
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: #000;
+      background-color: #F9F9F9;
+      border-radius: 100%;
+      width: 30px;
+      height: 30px;
+      text-align: center;
+      line-height: 30px; }

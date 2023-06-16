@@ -1,0 +1,136 @@
+
+.wqualitys {
+      display: flex;    align-items: center; margin: 5px 0;
+     > .t1 { margin-right: 10px; line-height: normal; }
+}
+
+.qualitys {
+  display:flex; border-radius: 5px; border:1px solid #C0C0C0; background-color: #fff; width: 120px;
+  >*{
+    width: 40px; height: 30px;text-align: center;
+    line-height: 30px;
+  }
+  input { border:none; border-left: 1px solid #C0C0C0; border-right: 1px solid #C0C0C0 }
+  a:hover { color: $cl1; }
+
+}
+
+.page-cart {
+  padding-bottom: 50px;
+}
+
+
+.productListCart {
+  border-bottom: 1px solid #EEEEEE; margin-bottom: 0;
+
+  td,th {
+    padding:15px;
+  }
+  th:nth-child(2),
+  th:nth-child(3),
+  th:nth-child(4) {
+    width: 150px;
+  }
+
+  .price, .price-item  { font-weight: 600; font-size: 14px; }
+
+  .row-title {
+    background-color: #F0F0F0;
+    td {
+      padding-top: 6px; padding-bottom: 6px;
+    }
+  }
+
+  @include min768 {
+    td,th {
+      padding:20px;
+    }
+  }
+
+  label.checkbox { margin:0; }
+
+  
+
+}
+
+.box-cart-3 {
+  label.radio + label{
+    margin-top: 20px;
+  }
+}
+.box-cart-4 {
+  position: relative; 
+  .action { 
+    position: absolute; right: 20px; top:15px; 
+  }
+}
+
+.box-cart-5 {
+  display: none;
+  .box-title { padding:15px; margin:0;  }
+
+  .pd-15 { border-top: 1px solid #EEEEEE; }
+}
+
+.changeAddress {
+  .box-cart-4 { display: none; }
+  .box-cart-5 { display: block; }
+
+}
+
+.widget-total-cart {
+  .widget-title {
+    padding:15px; margin: 0;
+  }
+  .items {
+    padding:15px; border-top: 1px solid #EEEEEE;
+    &+.items {
+      
+
+    }
+  }
+  .r1 {
+    overflow: hidden; text-align: right;
+    &+.r1 {
+      margin-top: 10px;
+    }
+  }
+  .input,.btn { width: 100%; }
+
+  .coupons {
+    .title {
+      position: relative;
+
+      .code {
+        @include middleY; right: 0; font-weight: normal; color: #999999;
+      }
+    }
+
+    &:not(.active) {
+      .extend { display: none; }
+    }
+
+  }
+}
+
+
+.page-success {
+  padding-bottom: 60px;
+
+
+}
+
+
+.w-final-price {
+    background-color: #F6F6F6;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 1001;
+    -webkit-box-shadow: 0px -5px 5px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0px -5px 5px 0 rgba(0, 0, 0, 0.1);
+    padding: 10px 15px;
+
+}

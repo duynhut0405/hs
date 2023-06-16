@@ -1,0 +1,117 @@
+.qualitys {
+  display:flex; border-radius: 5px; border:1px solid #C0C0C0; background-color: #fff; width: 120px;
+  >*{
+    width: 40px; height: 30px;text-align: center;
+    line-height: 30px;
+  }
+  input { border:none; border-left: 1px solid #C0C0C0; border-right: 1px solid #C0C0C0 }
+  a:hover { color: $cl1; }
+
+}
+
+
+.productListCart {
+  border-bottom: 1px solid #EEEEEE; margin-bottom: 0;
+  th:nth-child(2),
+  th:nth-child(3),
+  th:nth-child(4) {
+    width: 150px;
+  }
+
+  .price, .price-item  { font-weight: 500; }
+
+  .row-title {
+    background-color: #F0F0F0;
+    td {
+      padding-top: 6px; padding-bottom: 6px;
+    }
+  }
+
+  @include min768 {
+    td,th {
+      padding:20px;
+    }
+  }
+
+  label.checkbox { margin:0; }
+
+  
+
+}
+
+.box-cart-3 {
+  label.radio + label{
+    margin-top: 20px;
+  }
+}
+.box-cart-4 {
+  position: relative; 
+  .action { 
+    position: absolute; right: 20px; top:10px; 
+    a:hover {
+      color: $cl1;
+    }
+  }
+}
+
+.box-cart-5 {
+  display: none;
+  .box-title-2+.pd-20 {
+      padding-top: 20px;
+  }
+  .pd-20 { border-top: 1px solid #EEEEEE; }
+}
+
+.changeAddress {
+  .box-cart-4 { display: none; }
+  .box-cart-5 { display: block; }
+
+}
+
+.widget-total-cart {
+  .widget-title {
+    padding:15px; margin: 0;
+  }
+  .items {
+    padding:15px; border-top: 1px solid #EEEEEE;
+    &+.items {
+      
+
+    }
+  }
+  .r1 {
+    overflow: hidden; text-align: right;
+    &+.r1 {
+      margin-top: 10px;
+    }
+  }
+  .input,.btn { width: 100%; }
+
+  .coupons {
+    .title {
+      position: relative;
+
+      .code {
+        @include middleY; right: 0; font-weight: normal; color: #999999;
+      }
+    }
+
+    &:not(.active) {
+      .extend { display: none; }
+    }
+
+  }
+}
+
+
+.page-success {
+  .container {
+    max-width: 770px;
+  }
+  .widget-total-cart {
+     border-top: 1px solid #EEEEEE;  border-bottom: 1px solid #EEEEEE;  padding:20px 20px 0;
+     .items, .title { padding-left: 0; padding-right: 0; }
+  }
+}
+
+

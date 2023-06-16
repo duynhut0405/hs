@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="21px" viewBox="0 0 12 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/logo-fb-simple</title>
+    <defs>
+        <path d="M3.51842618,21 L3.49090909,11.4545455 L0,11.4545455 L0,7.63636364 L3.49090909,7.63636364 L3.49090909,5.25 C3.49090909,1.7073 5.49671564,0 8.38615855,0 C9.77023418,0 10.9597702,0.112703182 11.3064349,0.163084091 L11.3064349,3.86541273 L9.30245236,3.86640545 C7.73101091,3.86640545 7.42674327,4.68313364 7.42674327,5.88163227 L7.42674327,7.63636364 L12,7.63636364 L10.2545455,11.4545455 L7.42674327,11.4545455 L7.42674327,21 L3.51842618,21 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MB-Footer" transform="translate(-18.000000, -487.000000)">
+            <g id="Group-7" transform="translate(18.000000, 487.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Icon/logo-fb-simple" fill="#C5C5C5" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

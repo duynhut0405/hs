@@ -1,0 +1,92 @@
+.page-compare {
+  background-color: #F9FAFB;
+}
+
+.wcompare {
+  position: relative; overflow: hidden;
+  .item {
+    padding-bottom: 80px; position: relative; height: 100%; background-color: #fff;
+    border-radius: 5px; overflow: hidden;
+
+    .remove {
+      position: absolute; right: 10px; top: 10px;
+      background-color: rgba(#000,0.5); color: #fff; border:1px solid #fff; border-radius: 100%;
+      width: 25px; height: 25px; text-align: center; line-height: 25px; z-index: 3;
+      font-size: 12px; @extend .tss; cursor: pointer;
+
+      &:hover {
+        color: $cl1; border-color: $cl1;
+      }
+    }
+    .wimg {
+      min-height: 250px;
+    }
+    .img {
+      margin-bottom: 15px;
+    }
+    .title {
+      color: $cl3; padding:0 15px; margin-bottom: 15px;
+    }
+    .price {
+      color: #E94545; font-weight: 700;
+    }
+    .divtext {
+      list-style: none; margin: 0 10px; padding:15px 0;
+      border-top: 1px solid #F1F0F0;
+      li {
+        &+li {
+          margin-top: 10px;
+        }
+
+        
+
+        @include min768 {
+          &:nth-child(10) { height: 60px; }
+        }
+      }
+    }
+    .bottom {
+      position: absolute; left: 10px; right: 10px; bottom: 0;
+      padding: 20px 0; text-align: center;
+      border-top: 1px solid #F1F0F0;
+    }
+
+    @include max767 { 
+      .wimg {
+        min-height: 150px;
+      }      
+    }
+  }
+  .wcontent {
+    overflow: hidden;
+  }
+  .gtitle { 
+    //position: absolute; left: 0; top: 0; 
+
+    width: 180px; color: #8B99A5; float: left;
+    .item {
+      background-color: transparent;
+    }
+    .divtext { 
+      border-color: transparent; 
+      li:nth-child(1) { padding:4px 0; }
+      
+    }
+    .bottom { display: none; }
+  }
+
+  .add-item {
+    height: 100%; border:1px dashed $cl1; background-color: #fff;border-radius: 5px; cursor: pointer;
+    color: $cl1; @extend .tss;
+    .text {
+      @include middleY; left: 0; right: 0; text-align: center; padding:0 15px;
+      i {
+        font-size: 50px; display: inline-block; margin-bottom: 10px;
+      }
+    }
+
+    &:hover {
+      border-color: $cl2;
+    }
+  }
+}

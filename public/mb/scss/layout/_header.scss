@@ -1,0 +1,121 @@
+#header {
+  color: #696969;
+  box-shadow: 0 0 5px rgba(#000,0.2);
+
+  .group-header-left {
+    @include middleY; left: 15px;
+
+  .back {
+      color: #999999;
+      display: block;
+      line-height: 40px;
+      margin-right: 10px;
+      float: left;
+  }
+
+
+  }
+  .group-header { 
+    >.item {  padding-left: 0;}
+    i:before 
+    {
+      display: block;
+    }
+
+    .item-menu {
+      padding-left: 15px; font-size: 7px;
+    }
+
+
+  }
+
+
+  .language{
+    .toggle img { max-height: 20px;}
+  }
+
+  .btnLogin {
+    display: flex;
+    overflow: hidden;
+    height: 30px;
+    align-items: center;
+
+
+    i { margin-right: 5px; }
+    .img {
+      margin-right: 5px; width: 30px;
+    }
+
+    
+  }
+
+  .dropdown-content {
+    min-width: 250px;
+  }
+  .active {
+    .dropdown-content {
+      margin-top: 14px; border:none;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+  }
+
+
+  .form-search-header {
+    font-size: 12px; overflow: hidden;
+  }
+
+}
+
+
+
+
+    .form-search-header {
+      position: relative;
+
+      select { width: 130px;; height: 40px; font-size: 12px;}
+      .loadcity {
+        display: block; border:1px solid #D7D7D7; min-width: 150px; border-radius: 5px;   line-height: 38px; height: 40px;display: inline-block;
+        vertical-align: middle; position: relative; padding: 0 25px 0 10px;
+        &:after {
+          position: absolute;     content: "\e900";   font-family: 'icomoon' !important;
+          right: 10px; top: 50%;    line-height: normal;    font-size: 10px;    transform: translateY(-50%) rotate(90deg);
+        }
+      }
+
+
+
+      input, .spaninput { width: 100%; height: 40px; border:none; background-color: #F6F6F6;border-radius: 5px; padding:0 15px;}
+      button {
+        width: 30px; height: 30px; border:none; background-color: transparent;  cursor: pointer;
+        @include middleY; right: 0;
+        i{ @include middle; }
+        &:hover { color: $cl1; }
+      }
+
+      .item-group-addon {
+        .t1 { display: inline-block; margin-right: 10px;        vertical-align: middle;  font-size: 12px;}
+      }
+      .item-group-content {
+      }
+
+
+
+
+
+      input:focus ~ .autocomplete {
+      //  margin-top: 5px; opacity: 1; visibility: visible;
+      }
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+

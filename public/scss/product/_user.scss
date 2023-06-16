@@ -1,0 +1,183 @@
+  .box-product {
+    .box-title {
+      padding-bottom:0; margin:0;
+    }
+    .item {
+      padding:20px;
+      &+.item {
+        border-top: 1px solid #EEEEEE;
+      }
+    }    
+  }
+
+
+.group-product {
+  .group-title { background-color: #F0F0F0; font-weight: 500; padding:10px 20px; }
+}  
+
+.widget-user-info {
+  .uname {
+    overflow: hidden;padding:20px;
+    .img {
+        background-color: #D8D8D8;
+        width: 40px;
+        height: 40px;
+        border-radius: 100%;
+        margin-right: 10px;
+        float: left;
+        position: relative;
+        overflow: hidden;
+    }
+    .text {
+        overflow: hidden;
+        .t1 { font-weight: 700 }
+        .t2 { font-size: 12px; }
+    }
+  }
+}
+
+ul.menu-user-info {
+  list-style: none; border-top: 1px solid #EEEEEE;    padding:20px;
+  li + li {
+    margin-top: 10px;
+  }
+  li {
+    &.active {
+      a { font-weight: 700; }
+    }
+  }
+  a { 
+    display: block; position: relative;
+    padding: 5px 5px 5px 30px; color: #696969;
+    i {
+      position: absolute; top: 7px; left: 0; color: #000; font-size: 16px; 
+      //background-color: #F9F9F9; border-radius: 100%;
+      //width: 30px; height: 30px; text-align: center; line-height: 30px;
+    }
+    &:hover { color: $cl1; }
+  }
+}
+
+
+.select {
+  &.style-2 {
+    background-color: #F6F6F6; border-color: #F6F6F6;
+  }
+}
+.page-user-info {
+  .box-shadow {
+    margin-bottom: 20px;
+  }
+  .box-title {
+    padding:20px; margin:0;
+    &.bd {
+      border-bottom: 1px solid #EEEEEE;
+    }
+  }
+  .box-menu {
+    list-style: none; margin:0; overflow: hidden;
+    li { 
+      float: left; width: 50%; 
+      &.active {
+        a { border-color: $cl1; }
+      }
+    }
+    a { 
+      display: flex; width: 100%; height: 65px; border-bottom: 1px solid #EEEEEE;     align-items: center;    justify-content: center;
+      font-size: 16px; font-weight: 700;
+    }
+
+  }
+
+
+
+
+  .box-info {
+   > .item {
+      padding:20px;
+      .title { }
+      .edit { 
+        color: $cl1; 
+        &:hover { color: $cl2 }
+      }
+      div + div { margin-top: 5px; }
+      &+.item {
+
+        border-top: 1px solid #EEEEEE;
+      }
+    }
+  }
+
+
+
+}
+
+
+
+.input { 
+  width: 100%;  
+  &.style-2 { background-color: #F6F6F6; border-color: #F6F6F6;}
+
+}
+.select { width: 100%;  }
+.btn { min-width: 170px; }
+
+.input-title  {
+  margin-bottom: 5px; position: relative;
+  .link-right {
+    @include middleY; right: 0; 
+  }
+}
+
+
+.box-edit {
+  overflow: hidden;
+  .input {background-color: #F6F6F6; border-color: #F6F6F6;}
+}
+
+
+.table-responsive {
+  &.box-shadow {
+    overflow-x: auto;
+  }
+}
+
+
+.table-order {
+  min-width: 700px;
+  th { border-top:none; }
+  th,td { padding:15px; }
+  a { 
+    color: $cl1;
+    &:hover { color: $cl2; }
+  }
+}
+
+
+ul.table-1 {
+  list-style: none; display: table;    width: 100%;
+  li {
+    display: table-row;
+    >div {  display: table-cell;  padding:5px 0;}
+    >div:first-child { width: 240px; max-width: 30%; padding-right: 20px;}
+    
+  }
+}
+
+
+.box-order-detail-3 {
+  .pd-20 + .pd-20 {
+    border-top:1px solid #EEEEEE;
+  }
+}
+
+.page-user-address {
+  .wbtn { padding-top: 0 }
+}
+
+
+.box-confirm {
+  .pd-20  {
+    border-bottom:1px solid #EEEEEE;
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="20px" viewBox="0 0 10 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Account/Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login-Screen" transform="translate(-527.000000, -480.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(425.000000, 470.000000)">
+                <g id="facebook-(2)" transform="translate(102.000000, 10.000000)">
+                    <path d="M9.98225377,6.82043651 L6.23890861,6.82043651 L6.23890861,4.34027778 C6.23890861,3.65575397 6.79791482,3.10019841 7.48669033,3.10019841 L8.73447205,3.10019841 L8.73447205,2.72374715e-13 L6.23890861,2.72374715e-13 L6.23890861,2.72374715e-13 C4.17133429,2.72374715e-13 2.49556344,1.66542659 2.49556344,3.7202381 L2.49556344,6.82043651 L1.6480644e-13,6.82043651 L1.6480644e-13,9.92063492 L2.49556344,9.92063492 L2.49556344,19.8412698 L6.23890861,19.8412698 L6.23890861,9.92063492 L8.73447205,9.92063492 L9.98225377,6.82043651 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

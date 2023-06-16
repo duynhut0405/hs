@@ -1,0 +1,87 @@
+const webpack = require("webpack");
+require("dotenv").config();
+const withImages = require("next-images");
+const withVideos = require("next-videos");
+const redirectData = require('./redirect.json');
+const nextConfig = {
+  publicRuntimeConfig: {
+    GOOGLE_MAP_KEY: process.env.GOOGLE_MAP_KEY,
+  },
+  poweredByHeader: false,
+  webpack(config, options) {
+    config.node = {
+      fs: "empty",
+    };
+
+    config.module.rules.push({
+      test: /\.(png|jpg|gif|svg)$/,
+      use: {
+        loader: "url-loader",
+        options: {
+          limit: 100000,
+          publicPath: "/_next/static",
+          outputPath: "../public/static/images/",
+          name: "[name].[ext]",
+        },
+      },
+    });
+
+    config.module.rules.push({
+      test: /\.(eot|ttf|woff|woff2)$/,
+      use: {
+        loader: "url-loader",
+        options: {
+          limit: 100000,
+          publicPath: "/_next/static",
+          outputPath: "../public/static/fonts/",
+          name: "[name].[ext]",
+        },
+      },
+    });
+
+    return config;
+  },
+  withImages: withImages(),
+  withVideos: withVideos(),
+  withBundleAnalyzer: require("@next/bundle-analyzer")({
+    enabled: process.env.ANALYZE === "true",
+  }),
+  cssLoaderOptions: {
+    importLoaders: 1,
+    localIdentName: "[local]___[hash:base64:5]",
+  },
+  env: {
+    URL_NOTIFICATION: "https://hoasenhome.vn/",
+    DOMAIN_BASE: "https://admin.hoasenhome.vn",
+    DOMAIN_IMAGE: "https://cdn.hoasenhome.vn/",
+    DOMAIN_PRODUCT: "https://cdn.hoasenhome.vn/catalog/product/",
+    EMPTY_IMG: "https://admin.hoasenhome.vn/pub/media/catalog/product/cache/fa2b041f099710ccb95ab5f36aa218fd/placeholder/image.jpg",
+    MAX_NUMBER: 5,
+    NOTI_TOKEN: "dxxfgvmg8dps2af7m0soo7iyehfx8d23",
+    INTEGRATE_TOKEN: "wym2xk7jpenm7xa89aorsz84updxd4zo",
+    FACEBOOK_APP_ID: "143069357464676",
+    GOOGLE_CLIENT_ID: "144252740079-8no33cljir181tithgcce5efgfapqn0r.apps.googleusercontent.com",
+    DOMAIN_NEXT_JS: "https://hoasen-pc.mangoads.com.vn/",
+    PRODUCT_BASE_API: "https://admin.hoasenhome.vn/rest/V1/products/",
+    BASE_API: "https://admin.hoasenhome.vn/rest/V1/",
+    CATEGORY_BASE_API: "https://admin.hoasenhome.vn/rest/V1/categories/",
+    BEARER: "wym2xk7jpenm7xa89aorsz84updxd4zo",
+    INTRO_URL: "https://hoasengroup.vn/",
+    GOOGLE_ANALYTICS_ID: "G-ZHJPLDHQM0",
+    GOOGLE_TAG_ID: "GTM-56XVXBN",
+    GOOGLE_TAG_ID_2: "GTM-58ZZ54B",
+    CHANGE_DOMAIN_IMAGE: "https://cdn.hoasenhome.vn",
+    REPLACE_DOMAIN_IMAGE: "https://admin.hoasenhome.vn/pub/media",
+    GOOGLE_MAP_KEY: "AIzaSyD_oYQAea0Nrq4tA7JNpXpUH7GzxDySbfg",
+  },
+  images: {
+    domains: ['s3hsg.s3.cloud.cmctelecom.vn','cdn.hoasenhome.vn'],
+  },
+  experimental: { optimizeCss: true },
+  async redirects() {
+    let data = redirectData;
+    return data
+  },
+};
+
+module.exports = nextConfig;

@@ -1,0 +1,6786 @@
+[
+  {
+  "Code": "8093",
+  "HEXCODE": "#d92b2c"
+  },
+  {
+  "Code": "8094",
+  "HEXCODE": "#f18199"
+  },
+  {
+  "Code": "8095",
+  "HEXCODE": "#f89fb1"
+  },
+  {
+  "Code": "8096",
+  "HEXCODE": "#f5b2c3"
+  },
+  {
+  "Code": "8097",
+  "HEXCODE": "#f8c4d1"
+  },
+  {
+  "Code": "8098",
+  "HEXCODE": "#fad4df"
+  },
+  {
+  "Code": "8099",
+  "HEXCODE": "#fae6e8"
+  },
+  {
+  "Code": "8100",
+  "HEXCODE": "#fbf1f0"
+  },
+  {
+  "Code": "8101",
+  "HEXCODE": "#874a4f"
+  },
+  {
+  "Code": "8102",
+  "HEXCODE": "#a86d6f"
+  },
+  {
+  "Code": "8103",
+  "HEXCODE": "#b57d80"
+  },
+  {
+  "Code": "8104",
+  "HEXCODE": "#c89ba0"
+  },
+  {
+  "Code": "8105",
+  "HEXCODE": "#d8aeb2"
+  },
+  {
+  "Code": "8106",
+  "HEXCODE": "#ecc5c8"
+  },
+  {
+  "Code": "8107",
+  "HEXCODE": "#efd7d7"
+  },
+  {
+  "Code": "8108",
+  "HEXCODE": "#f8e9e4"
+  },
+  {
+  "Code": "8109",
+  "HEXCODE": "#8d4656"
+  },
+  {
+  "Code": "8110",
+  "HEXCODE": "#b26f78"
+  },
+  {
+  "Code": "8111",
+  "HEXCODE": "#c1828a"
+  },
+  {
+  "Code": "8112",
+  "HEXCODE": "#cb8f9b"
+  },
+  {
+  "Code": "8113",
+  "HEXCODE": "#e3b1ba"
+  },
+  {
+  "Code": "8114",
+  "HEXCODE": "#f1cacf"
+  },
+  {
+  "Code": "8115",
+  "HEXCODE": "#f6dde1"
+  },
+  {
+  "Code": "8116",
+  "HEXCODE": "#f8e9e6"
+  },
+  {
+  "Code": "8117",
+  "HEXCODE": "#99002c"
+  },
+  {
+  "Code": "8118",
+  "HEXCODE": "#bf6976"
+  },
+  {
+  "Code": "8119",
+  "HEXCODE": "#d28c97"
+  },
+  {
+  "Code": "8120",
+  "HEXCODE": "#dfa7b0"
+  },
+  {
+  "Code": "8121",
+  "HEXCODE": "#ebbcc4"
+  },
+  {
+  "Code": "8122",
+  "HEXCODE": "#f2c7d0"
+  },
+  {
+  "Code": "8123",
+  "HEXCODE": "#f5d8dd"
+  },
+  {
+  "Code": "8124",
+  "HEXCODE": "#f8e4e5"
+  },
+  {
+  "Code": "8597",
+  "HEXCODE": "#734633"
+  },
+  {
+  "Code": "8598",
+  "HEXCODE": "#a37254"
+  },
+  {
+  "Code": "8599",
+  "HEXCODE": "#b8896b"
+  },
+  {
+  "Code": "8600",
+  "HEXCODE": "#c2957e"
+  },
+  {
+  "Code": "8601",
+  "HEXCODE": "#d1ae9a"
+  },
+  {
+  "Code": "8602",
+  "HEXCODE": "#e2c1a2"
+  },
+  {
+  "Code": "8603",
+  "HEXCODE": "#edd7c0"
+  },
+  {
+  "Code": "8604",
+  "HEXCODE": "#f5e4d4"
+  },
+  {
+  "Code": "8605",
+  "HEXCODE": "#a75643"
+  },
+  {
+  "Code": "8606",
+  "HEXCODE": "#a9694d"
+  },
+  {
+  "Code": "8607",
+  "HEXCODE": "#c3836a"
+  },
+  {
+  "Code": "8608",
+  "HEXCODE": "#d6a28c"
+  },
+  {
+  "Code": "8609",
+  "HEXCODE": "#e3b79e"
+  },
+  {
+  "Code": "8610",
+  "HEXCODE": "#e8c2ad"
+  },
+  {
+  "Code": "8611",
+  "HEXCODE": "#f4cfbc"
+  },
+  {
+  "Code": "8612",
+  "HEXCODE": "#f3dbcf"
+  },
+  {
+  "Code": "8613",
+  "HEXCODE": "#8d5139"
+  },
+  {
+  "Code": "8614",
+  "HEXCODE": "#a85f4c"
+  },
+  {
+  "Code": "8615",
+  "HEXCODE": "#b87b68"
+  },
+  {
+  "Code": "8616",
+  "HEXCODE": "#c79481"
+  },
+  {
+  "Code": "8617",
+  "HEXCODE": "#d5a798"
+  },
+  {
+  "Code": "8618",
+  "HEXCODE": "#e2bfab"
+  },
+  {
+  "Code": "8619",
+  "HEXCODE": "#e2bfab"
+  },
+  {
+  "Code": "8620",
+  "HEXCODE": "#f9e7db"
+  },
+  {
+  "Code": "8621",
+  "HEXCODE": "#884636"
+  },
+  {
+  "Code": "8622",
+  "HEXCODE": "#975e4b"
+  },
+  {
+  "Code": "8623",
+  "HEXCODE": "#a86d5d"
+  },
+  {
+  "Code": "8624",
+  "HEXCODE": "#cca093"
+  },
+  {
+  "Code": "8625",
+  "HEXCODE": "#deb49e"
+  },
+  {
+  "Code": "8626",
+  "HEXCODE": "#e9c5b5"
+  },
+  {
+  "Code": "8627",
+  "HEXCODE": "#fadcd1"
+  },
+  {
+  "Code": "8628",
+  "HEXCODE": "#f8e4db"
+  },
+  {
+  "Code": "8629",
+  "HEXCODE": "#913f29"
+  },
+  {
+  "Code": "8630",
+  "HEXCODE": "#ae6449"
+  },
+  {
+  "Code": "8631",
+  "HEXCODE": "#c67e66"
+  },
+  {
+  "Code": "8632",
+  "HEXCODE": "#d99c87"
+  },
+  {
+  "Code": "8633",
+  "HEXCODE": "#e6aa90"
+  },
+  {
+  "Code": "8634",
+  "HEXCODE": "#f1c8b4"
+  },
+  {
+  "Code": "8635",
+  "HEXCODE": "#f9e2d2"
+  },
+  {
+  "Code": "8636",
+  "HEXCODE": "#faf2e7"
+  },
+  {
+  "Code": "8637",
+  "HEXCODE": "#7b463e"
+  },
+  {
+  "Code": "8638",
+  "HEXCODE": "#986353"
+  },
+  {
+  "Code": "8639",
+  "HEXCODE": "#a86a55"
+  },
+  {
+  "Code": "8640",
+  "HEXCODE": "#c49289"
+  },
+  {
+  "Code": "8641",
+  "HEXCODE": "#d7a697"
+  },
+  {
+  "Code": "8642",
+  "HEXCODE": "#e1b7a7"
+  },
+  {
+  "Code": "8643",
+  "HEXCODE": "#f3d3c8"
+  },
+  {
+  "Code": "8644",
+  "HEXCODE": "#f4d9ce"
+  },
+  {
+  "Code": "8645",
+  "HEXCODE": "#6f4b3d"
+  },
+  {
+  "Code": "8646",
+  "HEXCODE": "#85675d"
+  },
+  {
+  "Code": "8647",
+  "HEXCODE": "#9e7e73"
+  },
+  {
+  "Code": "8648",
+  "HEXCODE": "#ab9389"
+  },
+  {
+  "Code": "8649",
+  "HEXCODE": "#bda59b"
+  },
+  {
+  "Code": "8650",
+  "HEXCODE": "#d2bcae"
+  },
+  {
+  "Code": "8651",
+  "HEXCODE": "#ddc9c0"
+  },
+  {
+  "Code": "8652",
+  "HEXCODE": "#f0e2d9"
+  },
+  {
+  "Code": "8653",
+  "HEXCODE": "#614d42"
+  },
+  {
+  "Code": "8654",
+  "HEXCODE": "#7c635c"
+  },
+  {
+  "Code": "8655",
+  "HEXCODE": "#957a6f"
+  },
+  {
+  "Code": "8656",
+  "HEXCODE": "#b39f98"
+  },
+  {
+  "Code": "8657",
+  "HEXCODE": "#c6b4aa"
+  },
+  {
+  "Code": "8658",
+  "HEXCODE": "#cdbfb6"
+  },
+  {
+  "Code": "8659",
+  "HEXCODE": "#dbcdc4"
+  },
+  {
+  "Code": "8660",
+  "HEXCODE": "#eae0d6"
+  },
+  {
+  "Code": "8661",
+  "HEXCODE": "#735145"
+  },
+  {
+  "Code": "8662",
+  "HEXCODE": "#8f675d"
+  },
+  {
+  "Code": "8663",
+  "HEXCODE": "#a47f79"
+  },
+  {
+  "Code": "8664",
+  "HEXCODE": "#bda59b"
+  },
+  {
+  "Code": "8665",
+  "HEXCODE": "#cfb7ad"
+  },
+  {
+  "Code": "8666",
+  "HEXCODE": "#dbc7be"
+  },
+  {
+  "Code": "8667",
+  "HEXCODE": "#e3cec9"
+  },
+  {
+  "Code": "8668",
+  "HEXCODE": "#f1e0d8"
+  },
+  {
+  "Code": "8669",
+  "HEXCODE": "#94433f"
+  },
+  {
+  "Code": "8670",
+  "HEXCODE": "#ae5a4f"
+  },
+  {
+  "Code": "8671",
+  "HEXCODE": "#ba7067"
+  },
+  {
+  "Code": "8672",
+  "HEXCODE": "#d28f86"
+  },
+  {
+  "Code": "8673",
+  "HEXCODE": "#ebb2a7"
+  },
+  {
+  "Code": "8674",
+  "HEXCODE": "#f4c4b8"
+  },
+  {
+  "Code": "8675",
+  "HEXCODE": "#f2d4cc"
+  },
+  {
+  "Code": "8676",
+  "HEXCODE": "#f6e7e2"
+  },
+  {
+  "Code": "8677",
+  "HEXCODE": "#9b3b3d"
+  },
+  {
+  "Code": "8678",
+  "HEXCODE": "#b36a63"
+  },
+  {
+  "Code": "8679",
+  "HEXCODE": "#be736e"
+  },
+  {
+  "Code": "8680",
+  "HEXCODE": "#c98c89"
+  },
+  {
+  "Code": "8681",
+  "HEXCODE": "#d99f9e"
+  },
+  {
+  "Code": "8682",
+  "HEXCODE": "#eec3bd"
+  },
+  {
+  "Code": "8683",
+  "HEXCODE": "#f5dcd8"
+  },
+  {
+  "Code": "8684",
+  "HEXCODE": "#f5e8e2"
+  },
+  {
+  "Code": "8685",
+  "HEXCODE": "#743031"
+  },
+  {
+  "Code": "8125",
+  "HEXCODE": "#a6213c"
+  },
+  {
+  "Code": "8126",
+  "HEXCODE": "#d86b95"
+  },
+  {
+  "Code": "8127",
+  "HEXCODE": "#e38db2"
+  },
+  {
+  "Code": "8128",
+  "HEXCODE": "#f7b7d1"
+  },
+  {
+  "Code": "8129",
+  "HEXCODE": "#f8c9d9"
+  },
+  {
+  "Code": "8130",
+  "HEXCODE": "#f9d3e0"
+  },
+  {
+  "Code": "8131",
+  "HEXCODE": "#fadce6"
+  },
+  {
+  "Code": "8132",
+  "HEXCODE": "#f9e9ea"
+  },
+  {
+  "Code": "8133",
+  "HEXCODE": "#99354d"
+  },
+  {
+  "Code": "8134",
+  "HEXCODE": "#bf6990"
+  },
+  {
+  "Code": "8135",
+  "HEXCODE": "#e1a3bc"
+  },
+  {
+  "Code": "8136",
+  "HEXCODE": "#e0afc4"
+  },
+  {
+  "Code": "8137",
+  "HEXCODE": "#fddae1"
+  },
+  {
+  "Code": "8138",
+  "HEXCODE": "#fddae1"
+  },
+  {
+  "Code": "8139",
+  "HEXCODE": "#fde4ea"
+  },
+  {
+  "Code": "8140",
+  "HEXCODE": "#fef0f0"
+  },
+  {
+  "Code": "8141",
+  "HEXCODE": "#90456c"
+  },
+  {
+  "Code": "8142",
+  "HEXCODE": "#b87799"
+  },
+  {
+  "Code": "8143",
+  "HEXCODE": "#c58daa"
+  },
+  {
+  "Code": "8144",
+  "HEXCODE": "#dbb4c7"
+  },
+  {
+  "Code": "8145",
+  "HEXCODE": "#ebc8dc"
+  },
+  {
+  "Code": "8146",
+  "HEXCODE": "#efd3e1"
+  },
+  {
+  "Code": "8147",
+  "HEXCODE": "#f3dfe8"
+  },
+  {
+  "Code": "8148",
+  "HEXCODE": "#feebef"
+  },
+  {
+  "Code": "8149",
+  "HEXCODE": "#b54470"
+  },
+  {
+  "Code": "8150",
+  "HEXCODE": "#d17daf"
+  },
+  {
+  "Code": "8151",
+  "HEXCODE": "#de99c5"
+  },
+  {
+  "Code": "8152",
+  "HEXCODE": "#e6aad0"
+  },
+  {
+  "Code": "8153",
+  "HEXCODE": "#efc0e0"
+  },
+  {
+  "Code": "8154",
+  "HEXCODE": "#f6d0e9"
+  },
+  {
+  "Code": "8155",
+  "HEXCODE": "#f5daeb"
+  },
+  {
+  "Code": "8156",
+  "HEXCODE": "#faeef0"
+  },
+  {
+  "Code": "8157",
+  "HEXCODE": "#9d3e66"
+  },
+  {
+  "Code": "8158",
+  "HEXCODE": "#d183b7"
+  },
+  {
+  "Code": "8159",
+  "HEXCODE": "#d99cc6"
+  },
+  {
+  "Code": "8160",
+  "HEXCODE": "#e0a9d1"
+  },
+  {
+  "Code": "8161",
+  "HEXCODE": "#ecc1df"
+  },
+  {
+  "Code": "8162",
+  "HEXCODE": "#f0cee7"
+  },
+  {
+  "Code": "8163",
+  "HEXCODE": "#f2e2ec"
+  },
+  {
+  "Code": "8164",
+  "HEXCODE": "#fef5f6"
+  },
+  {
+  "Code": "8165",
+  "HEXCODE": "#7a3d5f"
+  },
+  {
+  "Code": "8166",
+  "HEXCODE": "#b07f9f"
+  },
+  {
+  "Code": "8167",
+  "HEXCODE": "#cc9fc0"
+  },
+  {
+  "Code": "8168",
+  "HEXCODE": "#d7aed0"
+  },
+  {
+  "Code": "8169",
+  "HEXCODE": "#e6c6de"
+  },
+  {
+  "Code": "8170",
+  "HEXCODE": "#eccce3"
+  },
+  {
+  "Code": "8171",
+  "HEXCODE": "#eed3e6"
+  },
+  {
+  "Code": "8172",
+  "HEXCODE": "#efe2e9"
+  },
+  {
+  "Code": "7101",
+  "HEXCODE": "#733e5c"
+  },
+  {
+  "Code": "7102",
+  "HEXCODE": "#ae6499"
+  },
+  {
+  "Code": "7103",
+  "HEXCODE": "#cc8fb8"
+  },
+  {
+  "Code": "7104",
+  "HEXCODE": "#dda7cb"
+  },
+  {
+  "Code": "7105",
+  "HEXCODE": "#f5c5df"
+  },
+  {
+  "Code": "7106",
+  "HEXCODE": "#ffd7e9"
+  },
+  {
+  "Code": "7107",
+  "HEXCODE": "#fde9ea"
+  },
+  {
+  "Code": "7108",
+  "HEXCODE": "#fff1f1"
+  },
+  {
+  "Code": "7109",
+  "HEXCODE": "#774675"
+  },
+  {
+  "Code": "7110",
+  "HEXCODE": "#be77b3"
+  },
+  {
+  "Code": "7111",
+  "HEXCODE": "#cf8ec4"
+  },
+  {
+  "Code": "7112",
+  "HEXCODE": "#daa5d1"
+  },
+  {
+  "Code": "7113",
+  "HEXCODE": "#f4c2e5"
+  },
+  {
+  "Code": "7114",
+  "HEXCODE": "#f6cee8"
+  },
+  {
+  "Code": "7115",
+  "HEXCODE": "#fee6f4"
+  },
+  {
+  "Code": "7116",
+  "HEXCODE": "#fcf0f2"
+  },
+  {
+  "Code": "7117",
+  "HEXCODE": "#664560"
+  },
+  {
+  "Code": "7118",
+  "HEXCODE": "#85637e"
+  },
+  {
+  "Code": "7119",
+  "HEXCODE": "#94728b"
+  },
+  {
+  "Code": "7120",
+  "HEXCODE": "#b595ad"
+  },
+  {
+  "Code": "7121",
+  "HEXCODE": "#caafc2"
+  },
+  {
+  "Code": "7122",
+  "HEXCODE": "#e7c1d8"
+  },
+  {
+  "Code": "7123",
+  "HEXCODE": "#f5d3ec"
+  },
+  {
+  "Code": "7124",
+  "HEXCODE": "#f8e9ec"
+  },
+  {
+  "Code": "7125",
+  "HEXCODE": "#6b426e"
+  },
+  {
+  "Code": "7126",
+  "HEXCODE": "#a471a9"
+  },
+  {
+  "Code": "7127",
+  "HEXCODE": "#af84b1"
+  },
+  {
+  "Code": "7128",
+  "HEXCODE": "#bb98b9"
+  },
+  {
+  "Code": "7129",
+  "HEXCODE": "#d1aecc"
+  },
+  {
+  "Code": "7130",
+  "HEXCODE": "#e7c1da"
+  },
+  {
+  "Code": "7131",
+  "HEXCODE": "#f3d3e8"
+  },
+  {
+  "Code": "7132",
+  "HEXCODE": "#fbe1ec"
+  },
+  {
+  "Code": "7133",
+  "HEXCODE": "#7d5087"
+  },
+  {
+  "Code": "7134",
+  "HEXCODE": "#a579b4"
+  },
+  {
+  "Code": "7135",
+  "HEXCODE": "#c89cd9"
+  },
+  {
+  "Code": "7136",
+  "HEXCODE": "#deb9ed"
+  },
+  {
+  "Code": "7137",
+  "HEXCODE": "#f1cbfe"
+  },
+  {
+  "Code": "7138",
+  "HEXCODE": "#f1d1f8"
+  },
+  {
+  "Code": "7139",
+  "HEXCODE": "#f4dded"
+  },
+  {
+  "Code": "7140",
+  "HEXCODE": "#faebee"
+  },
+  {
+  "Code": "7141",
+  "HEXCODE": "#654c61"
+  },
+  {
+  "Code": "7142",
+  "HEXCODE": "#8a7089"
+  },
+  {
+  "Code": "7143",
+  "HEXCODE": "#d23939"
+  },
+  {
+  "Code": "7144",
+  "HEXCODE": "#c2b1c1"
+  },
+  {
+  "Code": "7145",
+  "HEXCODE": "#e1c8db"
+  },
+  {
+  "Code": "7146",
+  "HEXCODE": "#e1d1de"
+  },
+  {
+  "Code": "7147",
+  "HEXCODE": "#f3e4eb"
+  },
+  {
+  "Code": "7148",
+  "HEXCODE": "#fef5f6"
+  },
+  {
+  "Code": "7149",
+  "HEXCODE": "#603b66"
+  },
+  {
+  "Code": "7150",
+  "HEXCODE": "#956fa8"
+  },
+  {
+  "Code": "7151",
+  "HEXCODE": "#b99ec7"
+  },
+  {
+  "Code": "7152",
+  "HEXCODE": "#d6bde4"
+  },
+  {
+  "Code": "7153",
+  "HEXCODE": "#e8ccf5"
+  },
+  {
+  "Code": "7154",
+  "HEXCODE": "#ebdbe8"
+  },
+  {
+  "Code": "7155",
+  "HEXCODE": "#f3e1ed"
+  },
+  {
+  "Code": "7156",
+  "HEXCODE": "#fef1fa"
+  },
+  {
+  "Code": "7157",
+  "HEXCODE": "#775399"
+  },
+  {
+  "Code": "7158",
+  "HEXCODE": "#9c79bd"
+  },
+  {
+  "Code": "7159",
+  "HEXCODE": "#b89dd2"
+  },
+  {
+  "Code": "7160",
+  "HEXCODE": "#c9afde"
+  },
+  {
+  "Code": "7161",
+  "HEXCODE": "#dfc3f3"
+  },
+  {
+  "Code": "7162",
+  "HEXCODE": "#efdaf9"
+  },
+  {
+  "Code": "7163",
+  "HEXCODE": "#f2e1f4"
+  },
+  {
+  "Code": "7164",
+  "HEXCODE": "#faf0f9"
+  },
+  {
+  "Code": "8173",
+  "HEXCODE": "#633d4c"
+  },
+  {
+  "Code": "8174",
+  "HEXCODE": "#ae8293"
+  },
+  {
+  "Code": "8175",
+  "HEXCODE": "#bf9dae"
+  },
+  {
+  "Code": "8176",
+  "HEXCODE": "#d7b7c4"
+  },
+  {
+  "Code": "8177",
+  "HEXCODE": "#e2c6d4"
+  },
+  {
+  "Code": "8178",
+  "HEXCODE": "#eed9e2"
+  },
+  {
+  "Code": "8179",
+  "HEXCODE": "#f5e9ed"
+  },
+  {
+  "Code": "8180",
+  "HEXCODE": "#fef8f8"
+  },
+  {
+  "Code": "8181",
+  "HEXCODE": "#66435b"
+  },
+  {
+  "Code": "8182",
+  "HEXCODE": "#b897a8"
+  },
+  {
+  "Code": "8183",
+  "HEXCODE": "#b897a8"
+  },
+  {
+  "Code": "8184",
+  "HEXCODE": "#c8a9b8"
+  },
+  {
+  "Code": "8185",
+  "HEXCODE": "#d4b8c6"
+  },
+  {
+  "Code": "8186",
+  "HEXCODE": "#e1c7d2"
+  },
+  {
+  "Code": "8187",
+  "HEXCODE": "#ebd8de"
+  },
+  {
+  "Code": "8188",
+  "HEXCODE": "#faeeee"
+  },
+  {
+  "Code": "8189",
+  "HEXCODE": "#61485b"
+  },
+  {
+  "Code": "8190",
+  "HEXCODE": "#87687a"
+  },
+  {
+  "Code": "8191",
+  "HEXCODE": "#987d8c"
+  },
+  {
+  "Code": "8192",
+  "HEXCODE": "#a78ea1"
+  },
+  {
+  "Code": "8193",
+  "HEXCODE": "#c2adbc"
+  },
+  {
+  "Code": "8194",
+  "HEXCODE": "#d5c0c9"
+  },
+  {
+  "Code": "8195",
+  "HEXCODE": "#ddccd4"
+  },
+  {
+  "Code": "8196",
+  "HEXCODE": "#ebdbde"
+  },
+  {
+  "Code": "8197",
+  "HEXCODE": "#572f4a"
+  },
+  {
+  "Code": "8198",
+  "HEXCODE": "#836275"
+  },
+  {
+  "Code": "8199",
+  "HEXCODE": "#978090"
+  },
+  {
+  "Code": "8200",
+  "HEXCODE": "#a68da0"
+  },
+  {
+  "Code": "8201",
+  "HEXCODE": "#c0acb8"
+  },
+  {
+  "Code": "8202",
+  "HEXCODE": "#d4bcca"
+  },
+  {
+  "Code": "8203",
+  "HEXCODE": "#ecd8e1"
+  },
+  {
+  "Code": "8204",
+  "HEXCODE": "#faf2f0"
+  },
+  {
+  "Code": "8205",
+  "HEXCODE": "#604856"
+  },
+  {
+  "Code": "8206",
+  "HEXCODE": "#857079"
+  },
+  {
+  "Code": "8207",
+  "HEXCODE": "#98848d"
+  },
+  {
+  "Code": "8208",
+  "HEXCODE": "#a4909b"
+  },
+  {
+  "Code": "8209",
+  "HEXCODE": "#c3b4b9"
+  },
+  {
+  "Code": "8210",
+  "HEXCODE": "#d7c8cf"
+  },
+  {
+  "Code": "8211",
+  "HEXCODE": "#ebdfe1"
+  },
+  {
+  "Code": "8212",
+  "HEXCODE": "#f5ebea"
+  },
+  {
+  "Code": "8213",
+  "HEXCODE": "#5a4a4d"
+  },
+  {
+  "Code": "8214",
+  "HEXCODE": "#867677"
+  },
+  {
+  "Code": "8215",
+  "HEXCODE": "#998b8b"
+  },
+  {
+  "Code": "8216",
+  "HEXCODE": "#b7abaf"
+  },
+  {
+  "Code": "8217",
+  "HEXCODE": "#c2b7bb"
+  },
+  {
+  "Code": "8218",
+  "HEXCODE": "#d4cbcc"
+  },
+  {
+  "Code": "8219",
+  "HEXCODE": "#e6dcdb"
+  },
+  {
+  "Code": "8220",
+  "HEXCODE": "#f3eeeb"
+  },
+  {
+  "Code": "8221",
+  "HEXCODE": "#615652"
+  },
+  {
+  "Code": "8222",
+  "HEXCODE": "#716766"
+  },
+  {
+  "Code": "8223",
+  "HEXCODE": "#87847f"
+  },
+  {
+  "Code": "8224",
+  "HEXCODE": "#a5a09c"
+  },
+  {
+  "Code": "8225",
+  "HEXCODE": "#bbb4ae"
+  },
+  {
+  "Code": "8226",
+  "HEXCODE": "#c8c1b9"
+  },
+  {
+  "Code": "8227",
+  "HEXCODE": "#d2cbc3"
+  },
+  {
+  "Code": "8228",
+  "HEXCODE": "#e8e3dd"
+  },
+  {
+  "Code": "8229",
+  "HEXCODE": "#594f50"
+  },
+  {
+  "Code": "8230",
+  "HEXCODE": "#675e63"
+  },
+  {
+  "Code": "8231",
+  "HEXCODE": "#7d7477"
+  },
+  {
+  "Code": "8232",
+  "HEXCODE": "#908b8f"
+  },
+  {
+  "Code": "8233",
+  "HEXCODE": "#a9a3a3"
+  },
+  {
+  "Code": "8234",
+  "HEXCODE": "#beb9b5"
+  },
+  {
+  "Code": "8235",
+  "HEXCODE": "#e2d8d9"
+  },
+  {
+  "Code": "8236",
+  "HEXCODE": "#f3f3eb"
+  },
+  {
+  "Code": "8237",
+  "HEXCODE": "#4d484e"
+  },
+  {
+  "Code": "8238",
+  "HEXCODE": "#6a6875"
+  },
+  {
+  "Code": "8239",
+  "HEXCODE": "#7d7a83"
+  },
+  {
+  "Code": "8240",
+  "HEXCODE": "#a6a4af"
+  },
+  {
+  "Code": "8241",
+  "HEXCODE": "#b8b7bf"
+  },
+  {
+  "Code": "8242",
+  "HEXCODE": "#c6c5cd"
+  },
+  {
+  "Code": "8243",
+  "HEXCODE": "#d4d2d7"
+  },
+  {
+  "Code": "8244",
+  "HEXCODE": "#e1dfe2"
+  },
+  {
+  "Code": "8245",
+  "HEXCODE": "#504f54"
+  },
+  {
+  "Code": "8246",
+  "HEXCODE": "#67676f"
+  },
+  {
+  "Code": "8247",
+  "HEXCODE": "#797981"
+  },
+  {
+  "Code": "8248",
+  "HEXCODE": "#888b94"
+  },
+  {
+  "Code": "8249",
+  "HEXCODE": "#a4a7ae"
+  },
+  {
+  "Code": "8250",
+  "HEXCODE": "#bebdc2"
+  },
+  {
+  "Code": "8251",
+  "HEXCODE": "#d2d3d5"
+  },
+  {
+  "Code": "8252",
+  "HEXCODE": "#dfe1e0"
+  },
+  {
+  "Code": "8253",
+  "HEXCODE": "#464648"
+  },
+  {
+  "Code": "8254",
+  "HEXCODE": "#666b71"
+  },
+  {
+  "Code": "8255",
+  "HEXCODE": "#787d83"
+  },
+  {
+  "Code": "8256",
+  "HEXCODE": "#9aa1a7"
+  },
+  {
+  "Code": "8257",
+  "HEXCODE": "#b1b6b9"
+  },
+  {
+  "Code": "8258",
+  "HEXCODE": "#c8cdd0"
+  },
+  {
+  "Code": "8259",
+  "HEXCODE": "#e1e3e0"
+  },
+  {
+  "Code": "8260",
+  "HEXCODE": "#f3f3f1"
+  },
+  {
+  "Code": "8261",
+  "HEXCODE": "#5b5a5f"
+  },
+  {
+  "Code": "7165",
+  "HEXCODE": "#4e366a"
+  },
+  {
+  "Code": "7166",
+  "HEXCODE": "#8063a6"
+  },
+  {
+  "Code": "7167",
+  "HEXCODE": "#b19fc7"
+  },
+  {
+  "Code": "7168",
+  "HEXCODE": "#b3a5c8"
+  },
+  {
+  "Code": "7169",
+  "HEXCODE": "#c4b8cc"
+  },
+  {
+  "Code": "7170",
+  "HEXCODE": "#decfe6"
+  },
+  {
+  "Code": "7171",
+  "HEXCODE": "#e2d5e6"
+  },
+  {
+  "Code": "7172",
+  "HEXCODE": "#fef5f8"
+  },
+  {
+  "Code": "7173",
+  "HEXCODE": "#5a495c"
+  },
+  {
+  "Code": "7174",
+  "HEXCODE": "#8b7792"
+  },
+  {
+  "Code": "7175",
+  "HEXCODE": "#988799"
+  },
+  {
+  "Code": "7176",
+  "HEXCODE": "#a796a8"
+  },
+  {
+  "Code": "7177",
+  "HEXCODE": "#c0b3c5"
+  },
+  {
+  "Code": "7178",
+  "HEXCODE": "#d0c5d5"
+  },
+  {
+  "Code": "7179",
+  "HEXCODE": "#e6dbe3"
+  },
+  {
+  "Code": "7180",
+  "HEXCODE": "#f3eaeb"
+  },
+  {
+  "Code": "7181",
+  "HEXCODE": "#55495d"
+  },
+  {
+  "Code": "7182",
+  "HEXCODE": "#72667a"
+  },
+  {
+  "Code": "7183",
+  "HEXCODE": "#968d9e"
+  },
+  {
+  "Code": "7184",
+  "HEXCODE": "#b7acbd"
+  },
+  {
+  "Code": "7185",
+  "HEXCODE": "#ceb7d1"
+  },
+  {
+  "Code": "7186",
+  "HEXCODE": "#ded1e3"
+  },
+  {
+  "Code": "7187",
+  "HEXCODE": "#ebdfeb"
+  },
+  {
+  "Code": "7188",
+  "HEXCODE": "#fcf5fc"
+  },
+  {
+  "Code": "7189",
+  "HEXCODE": "#594a61"
+  },
+  {
+  "Code": "7190",
+  "HEXCODE": "#7f708d"
+  },
+  {
+  "Code": "7191",
+  "HEXCODE": "#85798f"
+  },
+  {
+  "Code": "7192",
+  "HEXCODE": "#ac9fb3"
+  },
+  {
+  "Code": "7193",
+  "HEXCODE": "#c0b4c0"
+  },
+  {
+  "Code": "7194",
+  "HEXCODE": "#d6c8d9"
+  },
+  {
+  "Code": "7195",
+  "HEXCODE": "#ebdfeb"
+  },
+  {
+  "Code": "7196",
+  "HEXCODE": "#fdf0fa"
+  },
+  {
+  "Code": "7197",
+  "HEXCODE": "#625276"
+  },
+  {
+  "Code": "7198",
+  "HEXCODE": "#8d81a7"
+  },
+  {
+  "Code": "7199",
+  "HEXCODE": "#9489ab"
+  },
+  {
+  "Code": "7200",
+  "HEXCODE": "#a297b9"
+  },
+  {
+  "Code": "7201",
+  "HEXCODE": "#b0a5c5"
+  },
+  {
+  "Code": "7202",
+  "HEXCODE": "#d7cfe4"
+  },
+  {
+  "Code": "7203",
+  "HEXCODE": "#e6ddf0"
+  },
+  {
+  "Code": "7204",
+  "HEXCODE": "#f9f1fe"
+  },
+  {
+  "Code": "7205",
+  "HEXCODE": "#615499"
+  },
+  {
+  "Code": "7206",
+  "HEXCODE": "#766bb0"
+  },
+  {
+  "Code": "7207",
+  "HEXCODE": "#988dcf"
+  },
+  {
+  "Code": "7208",
+  "HEXCODE": "#b5aae4"
+  },
+  {
+  "Code": "7209",
+  "HEXCODE": "#d0cbf4"
+  },
+  {
+  "Code": "7210",
+  "HEXCODE": "#dedbfa"
+  },
+  {
+  "Code": "7211",
+  "HEXCODE": "#ebe5fd"
+  },
+  {
+  "Code": "7212",
+  "HEXCODE": "#f5f3fe"
+  },
+  {
+  "Code": "7213",
+  "HEXCODE": "#503f8d"
+  },
+  {
+  "Code": "7214",
+  "HEXCODE": "#7d7bc6"
+  },
+  {
+  "Code": "7215",
+  "HEXCODE": "#9494de"
+  },
+  {
+  "Code": "7216",
+  "HEXCODE": "#acade6"
+  },
+  {
+  "Code": "7217",
+  "HEXCODE": "#c2c2f4"
+  },
+  {
+  "Code": "7218",
+  "HEXCODE": "#d3d3ef"
+  },
+  {
+  "Code": "7219",
+  "HEXCODE": "#ebedf9"
+  },
+  {
+  "Code": "7220",
+  "HEXCODE": "#fafaf8"
+  },
+  {
+  "Code": "7221",
+  "HEXCODE": "#505573"
+  },
+  {
+  "Code": "7222",
+  "HEXCODE": "#696d93"
+  },
+  {
+  "Code": "7223",
+  "HEXCODE": "#7a7ea3"
+  },
+  {
+  "Code": "7224",
+  "HEXCODE": "#9092b9"
+  },
+  {
+  "Code": "7225",
+  "HEXCODE": "#b2aed1"
+  },
+  {
+  "Code": "7226",
+  "HEXCODE": "#c2c6e3"
+  },
+  {
+  "Code": "7227",
+  "HEXCODE": "#d7d9e8"
+  },
+  {
+  "Code": "7228",
+  "HEXCODE": "#f6f5fb"
+  },
+  {
+  "Code": "7229",
+  "HEXCODE": "#453d52"
+  },
+  {
+  "Code": "7230",
+  "HEXCODE": "#626180"
+  },
+  {
+  "Code": "7231",
+  "HEXCODE": "#9097aa"
+  },
+  {
+  "Code": "7232",
+  "HEXCODE": "#adafbb"
+  },
+  {
+  "Code": "7233",
+  "HEXCODE": "#c1c8d2"
+  },
+  {
+  "Code": "7234",
+  "HEXCODE": "#cfd5e1"
+  },
+  {
+  "Code": "7235",
+  "HEXCODE": "#e2e5ee"
+  },
+  {
+  "Code": "7236",
+  "HEXCODE": "#f1f3f2"
+  },
+  {
+  "Code": "7237",
+  "HEXCODE": "#3b4374"
+  },
+  {
+  "Code": "7238",
+  "HEXCODE": "#6569a6"
+  },
+  {
+  "Code": "7239",
+  "HEXCODE": "#858cd2"
+  },
+  {
+  "Code": "7240",
+  "HEXCODE": "#a2aad9"
+  },
+  {
+  "Code": "7241",
+  "HEXCODE": "#bbc0e6"
+  },
+  {
+  "Code": "7242",
+  "HEXCODE": "#ced3f0"
+  },
+  {
+  "Code": "7243",
+  "HEXCODE": "#e5e8fb"
+  },
+  {
+  "Code": "7244",
+  "HEXCODE": "#f6fafb"
+  },
+  {
+  "Code": "7245",
+  "HEXCODE": "#3c4185"
+  },
+  {
+  "Code": "7246",
+  "HEXCODE": "#4f5fb6"
+  },
+  {
+  "Code": "7247",
+  "HEXCODE": "#7896d4"
+  },
+  {
+  "Code": "7248",
+  "HEXCODE": "#99b3e6"
+  },
+  {
+  "Code": "7249",
+  "HEXCODE": "#b1c4ee"
+  },
+  {
+  "Code": "7250",
+  "HEXCODE": "#c9d7f2"
+  },
+  {
+  "Code": "7251",
+  "HEXCODE": "#dfe5f3"
+  },
+  {
+  "Code": "7252",
+  "HEXCODE": "#f3f5f4"
+  },
+  {
+  "Code": "7253",
+  "HEXCODE": "#424999"
+  },
+  {
+  "Code": "7254",
+  "HEXCODE": "#5b6faa"
+  },
+  {
+  "Code": "7255",
+  "HEXCODE": "#7b80d1"
+  },
+  {
+  "Code": "7256",
+  "HEXCODE": "#9aabe3"
+  },
+  {
+  "Code": "7257",
+  "HEXCODE": "#aeb8e9"
+  },
+  {
+  "Code": "7258",
+  "HEXCODE": "#bccbec"
+  },
+  {
+  "Code": "7259",
+  "HEXCODE": "#d2ddf1"
+  },
+  {
+  "Code": "7260",
+  "HEXCODE": "#dde3f1"
+  },
+  {
+  "Code": "7261",
+  "HEXCODE": "#425168"
+  },
+  {
+  "Code": "7262",
+  "HEXCODE": "#5c7190"
+  },
+  {
+  "Code": "7263",
+  "HEXCODE": "#7186a3"
+  },
+  {
+  "Code": "7264",
+  "HEXCODE": "#8599b2"
+  },
+  {
+  "Code": "7265",
+  "HEXCODE": "#97a9c1"
+  },
+  {
+  "Code": "7266",
+  "HEXCODE": "#a9b9d0"
+  },
+  {
+  "Code": "7267",
+  "HEXCODE": "#c8d2de"
+  },
+  {
+  "Code": "7268",
+  "HEXCODE": "#e0e5e8"
+  },
+  {
+  "Code": "7269",
+  "HEXCODE": "#1f4f99"
+  },
+  {
+  "Code": "7270",
+  "HEXCODE": "#6183b3"
+  },
+  {
+  "Code": "7271",
+  "HEXCODE": "#81a0cc"
+  },
+  {
+  "Code": "7272",
+  "HEXCODE": "#97afd1"
+  },
+  {
+  "Code": "7273",
+  "HEXCODE": "#a8bddc"
+  },
+  {
+  "Code": "7274",
+  "HEXCODE": "#b7cbe6"
+  },
+  {
+  "Code": "7275",
+  "HEXCODE": "#d2e1f4"
+  },
+  {
+  "Code": "7276",
+  "HEXCODE": "#eef3f6"
+  },
+  {
+  "Code": "7277",
+  "HEXCODE": "#3e569e"
+  },
+  {
+  "Code": "7278",
+  "HEXCODE": "#4576b9"
+  },
+  {
+  "Code": "7279",
+  "HEXCODE": "#789ae1"
+  },
+  {
+  "Code": "7280",
+  "HEXCODE": "#94b5e2"
+  },
+  {
+  "Code": "7281",
+  "HEXCODE": "#9abae3"
+  },
+  {
+  "Code": "7282",
+  "HEXCODE": "#bad2ec"
+  },
+  {
+  "Code": "7283",
+  "HEXCODE": "#d9e7f0"
+  },
+  {
+  "Code": "7284",
+  "HEXCODE": "#eef6f9"
+  },
+  {
+  "Code": "7285",
+  "HEXCODE": "#475770"
+  },
+  {
+  "Code": "7286",
+  "HEXCODE": "#627697"
+  },
+  {
+  "Code": "7287",
+  "HEXCODE": "#5c7091"
+  },
+  {
+  "Code": "7288",
+  "HEXCODE": "#8094b5"
+  },
+  {
+  "Code": "7289",
+  "HEXCODE": "#afbdd7"
+  },
+  {
+  "Code": "7290",
+  "HEXCODE": "#cbd5e1"
+  },
+  {
+  "Code": "7291",
+  "HEXCODE": "#e7eef4"
+  },
+  {
+  "Code": "7292",
+  "HEXCODE": "#eef3f6"
+  },
+  {
+  "Code": "7293",
+  "HEXCODE": "#3d4d66"
+  },
+  {
+  "Code": "7294",
+  "HEXCODE": "#4d7598"
+  },
+  {
+  "Code": "7295",
+  "HEXCODE": "#769aba"
+  },
+  {
+  "Code": "7296",
+  "HEXCODE": "#8badc8"
+  },
+  {
+  "Code": "7297",
+  "HEXCODE": "#a7c6db"
+  },
+  {
+  "Code": "7298",
+  "HEXCODE": "#bcd3e5"
+  },
+  {
+  "Code": "7299",
+  "HEXCODE": "#cadbe5"
+  },
+  {
+  "Code": "7300",
+  "HEXCODE": "#ebf3f5"
+  },
+  {
+  "Code": "7301",
+  "HEXCODE": "#3c4d67"
+  },
+  {
+  "Code": "7302",
+  "HEXCODE": "#4d6e8d"
+  },
+  {
+  "Code": "7303",
+  "HEXCODE": "#597a99"
+  },
+  {
+  "Code": "7304",
+  "HEXCODE": "#6e8daa"
+  },
+  {
+  "Code": "7305",
+  "HEXCODE": "#8faec3"
+  },
+  {
+  "Code": "7306",
+  "HEXCODE": "#aec8d9"
+  },
+  {
+  "Code": "7307",
+  "HEXCODE": "#c8d9e3"
+  },
+  {
+  "Code": "7308",
+  "HEXCODE": "#dce6e8"
+  },
+  {
+  "Code": "7309",
+  "HEXCODE": "#2f3f4f"
+  },
+  {
+  "Code": "7310",
+  "HEXCODE": "#537286"
+  },
+  {
+  "Code": "7311",
+  "HEXCODE": "#6a8799"
+  },
+  {
+  "Code": "7312",
+  "HEXCODE": "#7190a4"
+  },
+  {
+  "Code": "7313",
+  "HEXCODE": "#92acbd"
+  },
+  {
+  "Code": "7314",
+  "HEXCODE": "#b4cad7"
+  },
+  {
+  "Code": "7315",
+  "HEXCODE": "#c8d6df"
+  },
+  {
+  "Code": "7316",
+  "HEXCODE": "#d8e2e4"
+  },
+  {
+  "Code": "8686",
+  "HEXCODE": "#8a5c5c"
+  },
+  {
+  "Code": "8687",
+  "HEXCODE": "#9f7b7b"
+  },
+  {
+  "Code": "8688",
+  "HEXCODE": "#ba9c9a"
+  },
+  {
+  "Code": "8689",
+  "HEXCODE": "#d1b5b4"
+  },
+  {
+  "Code": "8690",
+  "HEXCODE": "#ddc5c3"
+  },
+  {
+  "Code": "8691",
+  "HEXCODE": "#eed6d2"
+  },
+  {
+  "Code": "8692",
+  "HEXCODE": "#f0deda"
+  },
+  {
+  "Code": "8693",
+  "HEXCODE": "#80393f"
+  },
+  {
+  "Code": "8694",
+  "HEXCODE": "#946869"
+  },
+  {
+  "Code": "8695",
+  "HEXCODE": "#a67c80"
+  },
+  {
+  "Code": "8696",
+  "HEXCODE": "#c1a1a4"
+  },
+  {
+  "Code": "8697",
+  "HEXCODE": "#d4b7b9"
+  },
+  {
+  "Code": "8698",
+  "HEXCODE": "#ddc3c6"
+  },
+  {
+  "Code": "8699",
+  "HEXCODE": "#eed8db"
+  },
+  {
+  "Code": "8700",
+  "HEXCODE": "#f3e1df"
+  },
+  {
+  "Code": "8701",
+  "HEXCODE": "#7d3f4e"
+  },
+  {
+  "Code": "8702",
+  "HEXCODE": "#a97782"
+  },
+  {
+  "Code": "8703",
+  "HEXCODE": "#ba929a"
+  },
+  {
+  "Code": "8704",
+  "HEXCODE": "#cfaeb5"
+  },
+  {
+  "Code": "8705",
+  "HEXCODE": "#e6bfc4"
+  },
+  {
+  "Code": "8706",
+  "HEXCODE": "#f0d1d6"
+  },
+  {
+  "Code": "8707",
+  "HEXCODE": "#f3d8dd"
+  },
+  {
+  "Code": "8708",
+  "HEXCODE": "#f3dfe1"
+  },
+  {
+  "Code": "8709",
+  "HEXCODE": "#794351"
+  },
+  {
+  "Code": "8710",
+  "HEXCODE": "#9c6b71"
+  },
+  {
+  "Code": "8711",
+  "HEXCODE": "#b68895"
+  },
+  {
+  "Code": "8712",
+  "HEXCODE": "#c5a2a9"
+  },
+  {
+  "Code": "8713",
+  "HEXCODE": "#d4b5bd"
+  },
+  {
+  "Code": "8714",
+  "HEXCODE": "#dabbc1"
+  },
+  {
+  "Code": "8715",
+  "HEXCODE": "#e7d1d3"
+  },
+  {
+  "Code": "8716",
+  "HEXCODE": "#f3e3e3"
+  },
+  {
+  "Code": "8717",
+  "HEXCODE": "#704358"
+  },
+  {
+  "Code": "8718",
+  "HEXCODE": "#8b6977"
+  },
+  {
+  "Code": "8719",
+  "HEXCODE": "#9a7684"
+  },
+  {
+  "Code": "8720",
+  "HEXCODE": "#ae8c9d"
+  },
+  {
+  "Code": "8721",
+  "HEXCODE": "#c7adb8"
+  },
+  {
+  "Code": "8722",
+  "HEXCODE": "#e1c6cf"
+  },
+  {
+  "Code": "8723",
+  "HEXCODE": "#f3e0e6"
+  },
+  {
+  "Code": "8724",
+  "HEXCODE": "#faebee"
+  },
+  {
+  "Code": "8725",
+  "HEXCODE": "#715059"
+  },
+  {
+  "Code": "8726",
+  "HEXCODE": "#8c6c77"
+  },
+  {
+  "Code": "8727",
+  "HEXCODE": "#a08388"
+  },
+  {
+  "Code": "8728",
+  "HEXCODE": "#ba9eac"
+  },
+  {
+  "Code": "8729",
+  "HEXCODE": "#cfb5be"
+  },
+  {
+  "Code": "8730",
+  "HEXCODE": "#d7c2c9"
+  },
+  {
+  "Code": "8731",
+  "HEXCODE": "#ebdbdc"
+  },
+  {
+  "Code": "8732",
+  "HEXCODE": "#f0e4e6"
+  },
+  {
+  "Code": "8733",
+  "HEXCODE": "#583144"
+  },
+  {
+  "Code": "8734",
+  "HEXCODE": "#866e6e"
+  },
+  {
+  "Code": "8735",
+  "HEXCODE": "#91767b"
+  },
+  {
+  "Code": "8736",
+  "HEXCODE": "#a6878c"
+  },
+  {
+  "Code": "8737",
+  "HEXCODE": "#b9a4a9"
+  },
+  {
+  "Code": "8738",
+  "HEXCODE": "#d7c3c5"
+  },
+  {
+  "Code": "8739",
+  "HEXCODE": "#e4d6d6"
+  },
+  {
+  "Code": "8740",
+  "HEXCODE": "#f5e7e4"
+  },
+  {
+  "Code": "8741",
+  "HEXCODE": "#634c46"
+  },
+  {
+  "Code": "8742",
+  "HEXCODE": "#77625f"
+  },
+  {
+  "Code": "8743",
+  "HEXCODE": "#8d797a"
+  },
+  {
+  "Code": "8744",
+  "HEXCODE": "#ae9a9b"
+  },
+  {
+  "Code": "8745",
+  "HEXCODE": "#c1aea8"
+  },
+  {
+  "Code": "8746",
+  "HEXCODE": "#d0beba"
+  },
+  {
+  "Code": "8747",
+  "HEXCODE": "#dbccc7"
+  },
+  {
+  "Code": "8748",
+  "HEXCODE": "#f0e7e2"
+  },
+  {
+  "Code": "8749",
+  "HEXCODE": "#5c4841"
+  },
+  {
+  "Code": "8750",
+  "HEXCODE": "#7b6862"
+  },
+  {
+  "Code": "8751",
+  "HEXCODE": "#847067"
+  },
+  {
+  "Code": "8752",
+  "HEXCODE": "#97847d"
+  },
+  {
+  "Code": "8753",
+  "HEXCODE": "#b1a099"
+  },
+  {
+  "Code": "8754",
+  "HEXCODE": "#cbbab2"
+  },
+  {
+  "Code": "8755",
+  "HEXCODE": "#d7cac1"
+  },
+  {
+  "Code": "8756",
+  "HEXCODE": "#e6dbd5"
+  },
+  {
+  "Code": "8757",
+  "HEXCODE": "#615040"
+  },
+  {
+  "Code": "8758",
+  "HEXCODE": "#79675b"
+  },
+  {
+  "Code": "8759",
+  "HEXCODE": "#8d7c6c"
+  },
+  {
+  "Code": "8760",
+  "HEXCODE": "#9a8a7d"
+  },
+  {
+  "Code": "8761",
+  "HEXCODE": "#b0a295"
+  },
+  {
+  "Code": "8762",
+  "HEXCODE": "#c7b9ac"
+  },
+  {
+  "Code": "8763",
+  "HEXCODE": "#dcd0c4"
+  },
+  {
+  "Code": "8764",
+  "HEXCODE": "#f6efe7"
+  },
+  {
+  "Code": "8765",
+  "HEXCODE": "#6e5038"
+  },
+  {
+  "Code": "8766",
+  "HEXCODE": "#786254"
+  },
+  {
+  "Code": "8767",
+  "HEXCODE": "#947e70"
+  },
+  {
+  "Code": "8768",
+  "HEXCODE": "#a59387"
+  },
+  {
+  "Code": "8769",
+  "HEXCODE": "#b9a79b"
+  },
+  {
+  "Code": "8770",
+  "HEXCODE": "#c7b7a7"
+  },
+  {
+  "Code": "8771",
+  "HEXCODE": "#ddd3c9"
+  },
+  {
+  "Code": "8772",
+  "HEXCODE": "#faf3eb"
+  },
+  {
+  "Code": "8773",
+  "HEXCODE": "#644938"
+  },
+  {
+  "Code": "8774",
+  "HEXCODE": "#7e685a"
+  },
+  {
+  "Code": "8775",
+  "HEXCODE": "#9e867a"
+  },
+  {
+  "Code": "8776",
+  "HEXCODE": "#b3a292"
+  },
+  {
+  "Code": "8777",
+  "HEXCODE": "#cabaab"
+  },
+  {
+  "Code": "8778",
+  "HEXCODE": "#d9c8b8"
+  },
+  {
+  "Code": "8779",
+  "HEXCODE": "#e6d8cd"
+  },
+  {
+  "Code": "8780",
+  "HEXCODE": "#f0e7de"
+  },
+  {
+  "Code": "7317",
+  "HEXCODE": "#21488d"
+  },
+  {
+  "Code": "7318",
+  "HEXCODE": "#307dc1"
+  },
+  {
+  "Code": "7319",
+  "HEXCODE": "#619fd8"
+  },
+  {
+  "Code": "7320",
+  "HEXCODE": "#8abbe6"
+  },
+  {
+  "Code": "7321",
+  "HEXCODE": "#97c5e7"
+  },
+  {
+  "Code": "7322",
+  "HEXCODE": "#b2d5eb"
+  },
+  {
+  "Code": "7323",
+  "HEXCODE": "#cfe3ec"
+  },
+  {
+  "Code": "7324",
+  "HEXCODE": "#eaf4f5"
+  },
+  {
+  "Code": "7325",
+  "HEXCODE": "#1a61a3"
+  },
+  {
+  "Code": "7326",
+  "HEXCODE": "#1884cc"
+  },
+  {
+  "Code": "7327",
+  "HEXCODE": "#509bd4"
+  },
+  {
+  "Code": "7328",
+  "HEXCODE": "#65a7d9"
+  },
+  {
+  "Code": "7329",
+  "HEXCODE": "#8ac5e7"
+  },
+  {
+  "Code": "7330",
+  "HEXCODE": "#aad2eb"
+  },
+  {
+  "Code": "7331",
+  "HEXCODE": "#c5dfec"
+  },
+  {
+  "Code": "7332",
+  "HEXCODE": "#e9f5f5"
+  },
+  {
+  "Code": "7333",
+  "HEXCODE": "#324661"
+  },
+  {
+  "Code": "7334",
+  "HEXCODE": "#517d9a"
+  },
+  {
+  "Code": "7335",
+  "HEXCODE": "#608ea8"
+  },
+  {
+  "Code": "7336",
+  "HEXCODE": "#7ca4bd"
+  },
+  {
+  "Code": "7337",
+  "HEXCODE": "#95b5ca"
+  },
+  {
+  "Code": "7338",
+  "HEXCODE": "#afccdc"
+  },
+  {
+  "Code": "7339",
+  "HEXCODE": "#d1e4eb"
+  },
+  {
+  "Code": "7340",
+  "HEXCODE": "#eaf4f5"
+  },
+  {
+  "Code": "7341",
+  "HEXCODE": "#34587a"
+  },
+  {
+  "Code": "7342",
+  "HEXCODE": "#4584af"
+  },
+  {
+  "Code": "7343",
+  "HEXCODE": "#659dc0"
+  },
+  {
+  "Code": "7344",
+  "HEXCODE": "#85b8d5"
+  },
+  {
+  "Code": "7345",
+  "HEXCODE": "#95c5dc"
+  },
+  {
+  "Code": "7346",
+  "HEXCODE": "#b6d7e6"
+  },
+  {
+  "Code": "7347",
+  "HEXCODE": "#d2e3ea"
+  },
+  {
+  "Code": "7348",
+  "HEXCODE": "#e9f5f5"
+  },
+  {
+  "Code": "7349",
+  "HEXCODE": "#16558b"
+  },
+  {
+  "Code": "7350",
+  "HEXCODE": "#008fd1"
+  },
+  {
+  "Code": "7351",
+  "HEXCODE": "#2ca2df"
+  },
+  {
+  "Code": "7352",
+  "HEXCODE": "#58aee1"
+  },
+  {
+  "Code": "7353",
+  "HEXCODE": "#7ac7f1"
+  },
+  {
+  "Code": "7354",
+  "HEXCODE": "#afdff3"
+  },
+  {
+  "Code": "7355",
+  "HEXCODE": "#d8f1f8"
+  },
+  {
+  "Code": "7356",
+  "HEXCODE": "#eff5f3"
+  },
+  {
+  "Code": "7357",
+  "HEXCODE": "#1a5982"
+  },
+  {
+  "Code": "7358",
+  "HEXCODE": "#1877a3"
+  },
+  {
+  "Code": "7359",
+  "HEXCODE": "#4a9dc5"
+  },
+  {
+  "Code": "7360",
+  "HEXCODE": "#7dbed4"
+  },
+  {
+  "Code": "7361",
+  "HEXCODE": "#8acae3"
+  },
+  {
+  "Code": "7362",
+  "HEXCODE": "#a6d9ee"
+  },
+  {
+  "Code": "7363",
+  "HEXCODE": "#cae8f0"
+  },
+  {
+  "Code": "7364",
+  "HEXCODE": "#dff2f6"
+  },
+  {
+  "Code": "7365",
+  "HEXCODE": "#324860"
+  },
+  {
+  "Code": "7366",
+  "HEXCODE": "#487185"
+  },
+  {
+  "Code": "7367",
+  "HEXCODE": "#6791a9"
+  },
+  {
+  "Code": "7368",
+  "HEXCODE": "#80a9bd"
+  },
+  {
+  "Code": "7369",
+  "HEXCODE": "#9abfd1"
+  },
+  {
+  "Code": "7370",
+  "HEXCODE": "#a9cad9"
+  },
+  {
+  "Code": "7371",
+  "HEXCODE": "#bfd7e1"
+  },
+  {
+  "Code": "7372",
+  "HEXCODE": "#deeced"
+  },
+  {
+  "Code": "8262",
+  "HEXCODE": "#65727a"
+  },
+  {
+  "Code": "8263",
+  "HEXCODE": "#707d85"
+  },
+  {
+  "Code": "8264",
+  "HEXCODE": "#7f909a"
+  },
+  {
+  "Code": "8265",
+  "HEXCODE": "#95a6ae"
+  },
+  {
+  "Code": "8266",
+  "HEXCODE": "#a9bcc3"
+  },
+  {
+  "Code": "8267",
+  "HEXCODE": "#c4d2d5"
+  },
+  {
+  "Code": "8268",
+  "HEXCODE": "#dae0e0"
+  },
+  {
+  "Code": "8269",
+  "HEXCODE": "#4a535a"
+  },
+  {
+  "Code": "8270",
+  "HEXCODE": "#576975"
+  },
+  {
+  "Code": "8271",
+  "HEXCODE": "#758b98"
+  },
+  {
+  "Code": "8272",
+  "HEXCODE": "#93a7b2"
+  },
+  {
+  "Code": "8273",
+  "HEXCODE": "#a8bac4"
+  },
+  {
+  "Code": "8274",
+  "HEXCODE": "#b7c8d0"
+  },
+  {
+  "Code": "8275",
+  "HEXCODE": "#cdd8de"
+  },
+  {
+  "Code": "8276",
+  "HEXCODE": "#dde5e7"
+  },
+  {
+  "Code": "8277",
+  "HEXCODE": "#4d5759"
+  },
+  {
+  "Code": "8278",
+  "HEXCODE": "#5f7175"
+  },
+  {
+  "Code": "8279",
+  "HEXCODE": "#798c92"
+  },
+  {
+  "Code": "8280",
+  "HEXCODE": "#90a1a8"
+  },
+  {
+  "Code": "8281",
+  "HEXCODE": "#a9bcc0"
+  },
+  {
+  "Code": "8282",
+  "HEXCODE": "#bdcdcd"
+  },
+  {
+  "Code": "7373",
+  "HEXCODE": "#005f85"
+  },
+  {
+  "Code": "7374",
+  "HEXCODE": "#0089b7"
+  },
+  {
+  "Code": "7375",
+  "HEXCODE": "#419ec7"
+  },
+  {
+  "Code": "7376",
+  "HEXCODE": "#6bb4d7"
+  },
+  {
+  "Code": "7377",
+  "HEXCODE": "#9cd3e7"
+  },
+  {
+  "Code": "7378",
+  "HEXCODE": "#b3ddeb"
+  },
+  {
+  "Code": "7379",
+  "HEXCODE": "#bee0ea"
+  },
+  {
+  "Code": "7380",
+  "HEXCODE": "#d8eaee"
+  },
+  {
+  "Code": "7381",
+  "HEXCODE": "#36444d"
+  },
+  {
+  "Code": "7382",
+  "HEXCODE": "#56727d"
+  },
+  {
+  "Code": "7383",
+  "HEXCODE": "#799ba5"
+  },
+  {
+  "Code": "7384",
+  "HEXCODE": "#96b3b9"
+  },
+  {
+  "Code": "7385",
+  "HEXCODE": "#a6c3c9"
+  },
+  {
+  "Code": "7386",
+  "HEXCODE": "#b7cbd2"
+  },
+  {
+  "Code": "7387",
+  "HEXCODE": "#c6d8dc"
+  },
+  {
+  "Code": "7388",
+  "HEXCODE": "#d9e5e5"
+  },
+  {
+  "Code": "7389",
+  "HEXCODE": "#274760"
+  },
+  {
+  "Code": "7390",
+  "HEXCODE": "#497b94"
+  },
+  {
+  "Code": "7391",
+  "HEXCODE": "#5c93a8"
+  },
+  {
+  "Code": "7392",
+  "HEXCODE": "#82afc2"
+  },
+  {
+  "Code": "7393",
+  "HEXCODE": "#93c0d3"
+  },
+  {
+  "Code": "7394",
+  "HEXCODE": "#abcdd9"
+  },
+  {
+  "Code": "7395",
+  "HEXCODE": "#bed9e0"
+  },
+  {
+  "Code": "7396",
+  "HEXCODE": "#d0e2e6"
+  },
+  {
+  "Code": "7397",
+  "HEXCODE": "#39545f"
+  },
+  {
+  "Code": "7398",
+  "HEXCODE": "#507683"
+  },
+  {
+  "Code": "7399",
+  "HEXCODE": "#628895"
+  },
+  {
+  "Code": "7400",
+  "HEXCODE": "#7097a6"
+  },
+  {
+  "Code": "7401",
+  "HEXCODE": "#90b2bc"
+  },
+  {
+  "Code": "7402",
+  "HEXCODE": "#a1c5d1"
+  },
+  {
+  "Code": "7403",
+  "HEXCODE": "#c1dae1"
+  },
+  {
+  "Code": "7404",
+  "HEXCODE": "#dfefef"
+  },
+  {
+  "Code": "7405",
+  "HEXCODE": "#006b8b"
+  },
+  {
+  "Code": "7406",
+  "HEXCODE": "#009bba"
+  },
+  {
+  "Code": "7407",
+  "HEXCODE": "#23accc"
+  },
+  {
+  "Code": "7408",
+  "HEXCODE": "#54b8d0"
+  },
+  {
+  "Code": "7409",
+  "HEXCODE": "#7fd1e7"
+  },
+  {
+  "Code": "7410",
+  "HEXCODE": "#a4deea"
+  },
+  {
+  "Code": "7411",
+  "HEXCODE": "#c5e6ed"
+  },
+  {
+  "Code": "7412",
+  "HEXCODE": "#e3f3f2"
+  },
+  {
+  "Code": "7413",
+  "HEXCODE": "#43656e"
+  },
+  {
+  "Code": "7414",
+  "HEXCODE": "#56858f"
+  },
+  {
+  "Code": "7415",
+  "HEXCODE": "#74a4ae"
+  },
+  {
+  "Code": "7416",
+  "HEXCODE": "#9dbec5"
+  },
+  {
+  "Code": "7417",
+  "HEXCODE": "#aacbd2"
+  },
+  {
+  "Code": "7418",
+  "HEXCODE": "#bdd5d9"
+  },
+  {
+  "Code": "7419",
+  "HEXCODE": "#d9e3e4"
+  },
+  {
+  "Code": "7420",
+  "HEXCODE": "#f5faf6"
+  },
+  {
+  "Code": "7421",
+  "HEXCODE": "#395c62"
+  },
+  {
+  "Code": "7422",
+  "HEXCODE": "#4d848b"
+  },
+  {
+  "Code": "7423",
+  "HEXCODE": "#699da8"
+  },
+  {
+  "Code": "7424",
+  "HEXCODE": "#91bcc3"
+  },
+  {
+  "Code": "7425",
+  "HEXCODE": "#a7ccd2"
+  },
+  {
+  "Code": "7426",
+  "HEXCODE": "#bedadd"
+  },
+  {
+  "Code": "7427",
+  "HEXCODE": "#cfe3e4"
+  },
+  {
+  "Code": "7428",
+  "HEXCODE": "#e8eeec"
+  },
+  {
+  "Code": "7429",
+  "HEXCODE": "#2e5365"
+  },
+  {
+  "Code": "7430",
+  "HEXCODE": "#0090a5"
+  },
+  {
+  "Code": "7431",
+  "HEXCODE": "#4eaec4"
+  },
+  {
+  "Code": "7432",
+  "HEXCODE": "#73bed1"
+  },
+  {
+  "Code": "7433",
+  "HEXCODE": "#86cedc"
+  },
+  {
+  "Code": "7434",
+  "HEXCODE": "#a4d8e3"
+  },
+  {
+  "Code": "7435",
+  "HEXCODE": "#bbe2e9"
+  },
+  {
+  "Code": "7436",
+  "HEXCODE": "#cfe9ea"
+  },
+  {
+  "Code": "7437",
+  "HEXCODE": "#01677d"
+  },
+  {
+  "Code": "7438",
+  "HEXCODE": "#0099a7"
+  },
+  {
+  "Code": "7439",
+  "HEXCODE": "#29b1bf"
+  },
+  {
+  "Code": "7440",
+  "HEXCODE": "#6cc6d1"
+  },
+  {
+  "Code": "7441",
+  "HEXCODE": "#7bd2db"
+  },
+  {
+  "Code": "7442",
+  "HEXCODE": "#a0dde2"
+  },
+  {
+  "Code": "7443",
+  "HEXCODE": "#c5e9e9"
+  },
+  {
+  "Code": "7444",
+  "HEXCODE": "#e0efec"
+  },
+  {
+  "Code": "7445",
+  "HEXCODE": "#255e65"
+  },
+  {
+  "Code": "7446",
+  "HEXCODE": "#318f97"
+  },
+  {
+  "Code": "7447",
+  "HEXCODE": "#56a9b1"
+  },
+  {
+  "Code": "7448",
+  "HEXCODE": "#7cbfc7"
+  },
+  {
+  "Code": "7449",
+  "HEXCODE": "#8dced2"
+  },
+  {
+  "Code": "7450",
+  "HEXCODE": "#a9dbdc"
+  },
+  {
+  "Code": "7451",
+  "HEXCODE": "#c7e5e5"
+  },
+  {
+  "Code": "7452",
+  "HEXCODE": "#d6eae8"
+  },
+  {
+  "Code": "7453",
+  "HEXCODE": "#10676e"
+  },
+  {
+  "Code": "7454",
+  "HEXCODE": "#28989c"
+  },
+  {
+  "Code": "7455",
+  "HEXCODE": "#53b0b5"
+  },
+  {
+  "Code": "7456",
+  "HEXCODE": "#7ac8cc"
+  },
+  {
+  "Code": "7457",
+  "HEXCODE": "#85d4d8"
+  },
+  {
+  "Code": "7458",
+  "HEXCODE": "#a5dbdd"
+  },
+  {
+  "Code": "7459",
+  "HEXCODE": "#c0e8e7"
+  },
+  {
+  "Code": "7460",
+  "HEXCODE": "#cff3f1"
+  },
+  {
+  "Code": "7461",
+  "HEXCODE": "#446061"
+  },
+  {
+  "Code": "7462",
+  "HEXCODE": "#5d8384"
+  },
+  {
+  "Code": "7463",
+  "HEXCODE": "#80a8a8"
+  },
+  {
+  "Code": "7464",
+  "HEXCODE": "#9bbdbe"
+  },
+  {
+  "Code": "7465",
+  "HEXCODE": "#accccb"
+  },
+  {
+  "Code": "7466",
+  "HEXCODE": "#bdd7d6"
+  },
+  {
+  "Code": "7467",
+  "HEXCODE": "#d6e8e8"
+  },
+  {
+  "Code": "7468",
+  "HEXCODE": "#dfeeeb"
+  },
+  {
+  "Code": "7469",
+  "HEXCODE": "#375a5e"
+  },
+  {
+  "Code": "7470",
+  "HEXCODE": "#447f83"
+  },
+  {
+  "Code": "7471",
+  "HEXCODE": "#69a1a2"
+  },
+  {
+  "Code": "7472",
+  "HEXCODE": "#82b5b6"
+  },
+  {
+  "Code": "7473",
+  "HEXCODE": "#99cbc8"
+  },
+  {
+  "Code": "7474",
+  "HEXCODE": "#bddcd7"
+  },
+  {
+  "Code": "7475",
+  "HEXCODE": "#d2ebe7"
+  },
+  {
+  "Code": "7476",
+  "HEXCODE": "#e5f5f2"
+  },
+  {
+  "Code": "7477",
+  "HEXCODE": "#2b5355"
+  },
+  {
+  "Code": "7478",
+  "HEXCODE": "#547b7a"
+  },
+  {
+  "Code": "7479",
+  "HEXCODE": "#739a99"
+  },
+  {
+  "Code": "7480",
+  "HEXCODE": "#8aaeac"
+  },
+  {
+  "Code": "7481",
+  "HEXCODE": "#a5cac3"
+  },
+  {
+  "Code": "7482",
+  "HEXCODE": "#b9d9d6"
+  },
+  {
+  "Code": "7483",
+  "HEXCODE": "#c5deda"
+  },
+  {
+  "Code": "7484",
+  "HEXCODE": "#eefdf6"
+  },
+  {
+  "Code": "7485",
+  "HEXCODE": "#215458"
+  },
+  {
+  "Code": "7486",
+  "HEXCODE": "#4a8782"
+  },
+  {
+  "Code": "7487",
+  "HEXCODE": "#629f9a"
+  },
+  {
+  "Code": "7488",
+  "HEXCODE": "#94c2bf"
+  },
+  {
+  "Code": "7489",
+  "HEXCODE": "#9fd2cd"
+  },
+  {
+  "Code": "7490",
+  "HEXCODE": "#bcdcd7"
+  },
+  {
+  "Code": "7491",
+  "HEXCODE": "#d7f0ec"
+  },
+  {
+  "Code": "7492",
+  "HEXCODE": "#e4efe9"
+  },
+  {
+  "Code": "7493",
+  "HEXCODE": "#34615c"
+  },
+  {
+  "Code": "7494",
+  "HEXCODE": "#51948b"
+  },
+  {
+  "Code": "7495",
+  "HEXCODE": "#72aba4"
+  },
+  {
+  "Code": "7496",
+  "HEXCODE": "#92c5be"
+  },
+  {
+  "Code": "7497",
+  "HEXCODE": "#a4d7d0"
+  },
+  {
+  "Code": "7498",
+  "HEXCODE": "#bee3dc"
+  },
+  {
+  "Code": "7499",
+  "HEXCODE": "#d0ebe6"
+  },
+  {
+  "Code": "7500",
+  "HEXCODE": "#dff3ea"
+  },
+  {
+  "Code": "7501",
+  "HEXCODE": "#00706e"
+  },
+  {
+  "Code": "7502",
+  "HEXCODE": "#00a698"
+  },
+  {
+  "Code": "7503",
+  "HEXCODE": "#36bfb5"
+  },
+  {
+  "Code": "7504",
+  "HEXCODE": "#6ecfc8"
+  },
+  {
+  "Code": "7505",
+  "HEXCODE": "#87ded5"
+  },
+  {
+  "Code": "7506",
+  "HEXCODE": "#a7e3d9"
+  },
+  {
+  "Code": "7507",
+  "HEXCODE": "#bff0ec"
+  },
+  {
+  "Code": "7508",
+  "HEXCODE": "#d2f2ed"
+  },
+  {
+  "Code": "7509",
+  "HEXCODE": "#006e61"
+  },
+  {
+  "Code": "7510",
+  "HEXCODE": "#00aa9d"
+  },
+  {
+  "Code": "7511",
+  "HEXCODE": "#33c5b8"
+  },
+  {
+  "Code": "7512",
+  "HEXCODE": "#65d1c4"
+  },
+  {
+  "Code": "7513",
+  "HEXCODE": "#85e3d5"
+  },
+  {
+  "Code": "7514",
+  "HEXCODE": "#acebe0"
+  },
+  {
+  "Code": "7515",
+  "HEXCODE": "#bef0e5"
+  },
+  {
+  "Code": "7516",
+  "HEXCODE": "#cfeee6"
+  },
+  {
+  "Code": "7517",
+  "HEXCODE": "#018c75"
+  },
+  {
+  "Code": "7518",
+  "HEXCODE": "#00b096"
+  },
+  {
+  "Code": "7519",
+  "HEXCODE": "#38c3a6"
+  },
+  {
+  "Code": "7520",
+  "HEXCODE": "#71d4c0"
+  },
+  {
+  "Code": "7521",
+  "HEXCODE": "#84dcc6"
+  },
+  {
+  "Code": "7522",
+  "HEXCODE": "#a5e8d7"
+  },
+  {
+  "Code": "7523",
+  "HEXCODE": "#c7f3e6"
+  },
+  {
+  "Code": "7524",
+  "HEXCODE": "#defdee"
+  },
+  {
+  "Code": "7525",
+  "HEXCODE": "#18655d"
+  },
+  {
+  "Code": "7526",
+  "HEXCODE": "#418f81"
+  },
+  {
+  "Code": "7527",
+  "HEXCODE": "#68b0a4"
+  },
+  {
+  "Code": "7528",
+  "HEXCODE": "#88c7be"
+  },
+  {
+  "Code": "7529",
+  "HEXCODE": "#a0dcd0"
+  },
+  {
+  "Code": "7530",
+  "HEXCODE": "#ade1d4"
+  },
+  {
+  "Code": "7531",
+  "HEXCODE": "#c5ebde"
+  },
+  {
+  "Code": "7532",
+  "HEXCODE": "#d6f0e7"
+  },
+  {
+  "Code": "7533",
+  "HEXCODE": "#1e6c5f"
+  },
+  {
+  "Code": "7534",
+  "HEXCODE": "#31a38c"
+  },
+  {
+  "Code": "7535",
+  "HEXCODE": "#55baaa"
+  },
+  {
+  "Code": "7536",
+  "HEXCODE": "#87d1c2"
+  },
+  {
+  "Code": "7537",
+  "HEXCODE": "#92d9c9"
+  },
+  {
+  "Code": "7538",
+  "HEXCODE": "#ace1d7"
+  },
+  {
+  "Code": "7539",
+  "HEXCODE": "#c3eddf"
+  },
+  {
+  "Code": "7540",
+  "HEXCODE": "#e4f5ed"
+  },
+  {
+  "Code": "7541",
+  "HEXCODE": "#286158"
+  },
+  {
+  "Code": "7542",
+  "HEXCODE": "#4c8773"
+  },
+  {
+  "Code": "7543",
+  "HEXCODE": "#6ca592"
+  },
+  {
+  "Code": "7544",
+  "HEXCODE": "#87baab"
+  },
+  {
+  "Code": "7545",
+  "HEXCODE": "#9ccfbe"
+  },
+  {
+  "Code": "7546",
+  "HEXCODE": "#aed9c8"
+  },
+  {
+  "Code": "7547",
+  "HEXCODE": "#c4e6d8"
+  },
+  {
+  "Code": "7548",
+  "HEXCODE": "#d9f0e6"
+  },
+  {
+  "Code": "7549",
+  "HEXCODE": "#1e735c"
+  },
+  {
+  "Code": "7550",
+  "HEXCODE": "#01a37e"
+  },
+  {
+  "Code": "7551",
+  "HEXCODE": "#6ac2aa"
+  },
+  {
+  "Code": "7552",
+  "HEXCODE": "#83d1b9"
+  },
+  {
+  "Code": "7553",
+  "HEXCODE": "#88dcc4"
+  },
+  {
+  "Code": "7554",
+  "HEXCODE": "#afe6d3"
+  },
+  {
+  "Code": "7555",
+  "HEXCODE": "#caeee0"
+  },
+  {
+  "Code": "7556",
+  "HEXCODE": "#e3f5e7"
+  },
+  {
+  "Code": "7557",
+  "HEXCODE": "#3a5e52"
+  },
+  {
+  "Code": "7558",
+  "HEXCODE": "#568c72"
+  },
+  {
+  "Code": "7559",
+  "HEXCODE": "#73a38b"
+  },
+  {
+  "Code": "7560",
+  "HEXCODE": "#90bda6"
+  },
+  {
+  "Code": "7561",
+  "HEXCODE": "#a5d1ba"
+  },
+  {
+  "Code": "7562",
+  "HEXCODE": "#b7e1cb"
+  },
+  {
+  "Code": "7563",
+  "HEXCODE": "#d1e8d8"
+  },
+  {
+  "Code": "7564",
+  "HEXCODE": "#daf0e3"
+  },
+  {
+  "Code": "7565",
+  "HEXCODE": "#0f9361"
+  },
+  {
+  "Code": "7566",
+  "HEXCODE": "#34b07c"
+  },
+  {
+  "Code": "7567",
+  "HEXCODE": "#5fc59d"
+  },
+  {
+  "Code": "7568",
+  "HEXCODE": "#8cdcb9"
+  },
+  {
+  "Code": "7569",
+  "HEXCODE": "#9ae3c5"
+  },
+  {
+  "Code": "7570",
+  "HEXCODE": "#b2e8ce"
+  },
+  {
+  "Code": "7571",
+  "HEXCODE": "#d3f5e5"
+  },
+  {
+  "Code": "7572",
+  "HEXCODE": "#e3f8e9"
+  },
+  {
+  "Code": "7573",
+  "HEXCODE": "#1c624a"
+  },
+  {
+  "Code": "7574",
+  "HEXCODE": "#568f6f"
+  },
+  {
+  "Code": "7575",
+  "HEXCODE": "#73ae90"
+  },
+  {
+  "Code": "7576",
+  "HEXCODE": "#98c5ae"
+  },
+  {
+  "Code": "7577",
+  "HEXCODE": "#a9d7bd"
+  },
+  {
+  "Code": "7578",
+  "HEXCODE": "#bde3ce"
+  },
+  {
+  "Code": "7579",
+  "HEXCODE": "#ddf5e5"
+  },
+  {
+  "Code": "7580",
+  "HEXCODE": "#e6faee"
+  },
+  {
+  "Code": "7581",
+  "HEXCODE": "#386b4a"
+  },
+  {
+  "Code": "7582",
+  "HEXCODE": "#669175"
+  },
+  {
+  "Code": "7583",
+  "HEXCODE": "#7ba68a"
+  },
+  {
+  "Code": "7584",
+  "HEXCODE": "#9bc1a8"
+  },
+  {
+  "Code": "7585",
+  "HEXCODE": "#acd7bb"
+  },
+  {
+  "Code": "7586",
+  "HEXCODE": "#c1e1cc"
+  },
+  {
+  "Code": "7587",
+  "HEXCODE": "#e2fbe8"
+  },
+  {
+  "Code": "7588",
+  "HEXCODE": "#e2fbe8"
+  },
+  {
+  "Code": "8283",
+  "HEXCODE": "#d4dcde"
+  },
+  {
+  "Code": "8284",
+  "HEXCODE": "#e5eae6"
+  },
+  {
+  "Code": "8285",
+  "HEXCODE": "#515151"
+  },
+  {
+  "Code": "8286",
+  "HEXCODE": "#666769"
+  },
+  {
+  "Code": "8287",
+  "HEXCODE": "#6f7374"
+  },
+  {
+  "Code": "8288",
+  "HEXCODE": "#8b8f92"
+  },
+  {
+  "Code": "8289",
+  "HEXCODE": "#a3a7a8"
+  },
+  {
+  "Code": "8290",
+  "HEXCODE": "#bec0bd"
+  },
+  {
+  "Code": "8291",
+  "HEXCODE": "#d1d1cf"
+  },
+  {
+  "Code": "8292",
+  "HEXCODE": "#eaebe6"
+  },
+  {
+  "Code": "8293",
+  "HEXCODE": "#534e4a"
+  },
+  {
+  "Code": "8294",
+  "HEXCODE": "#6a6967"
+  },
+  {
+  "Code": "8295",
+  "HEXCODE": "#8c8c8c"
+  },
+  {
+  "Code": "8296",
+  "HEXCODE": "#a5a5a5"
+  },
+  {
+  "Code": "8297",
+  "HEXCODE": "#bab9b7"
+  },
+  {
+  "Code": "8298",
+  "HEXCODE": "#c9c8c6"
+  },
+  {
+  "Code": "8299",
+  "HEXCODE": "#d6d5d1"
+  },
+  {
+  "Code": "8300",
+  "HEXCODE": "#e6e5e1"
+  },
+  {
+  "Code": "8301",
+  "HEXCODE": "#5c5857"
+  },
+  {
+  "Code": "8302",
+  "HEXCODE": "#6e6d6b"
+  },
+  {
+  "Code": "8303",
+  "HEXCODE": "#777674"
+  },
+  {
+  "Code": "8304",
+  "HEXCODE": "#8c8c8a"
+  },
+  {
+  "Code": "8305",
+  "HEXCODE": "#a7a7a5"
+  },
+  {
+  "Code": "8306",
+  "HEXCODE": "#bdbcb8"
+  },
+  {
+  "Code": "8307",
+  "HEXCODE": "#cacac8"
+  },
+  {
+  "Code": "8308",
+  "HEXCODE": "#d6d7d2"
+  },
+  {
+  "Code": "8309",
+  "HEXCODE": "#535756"
+  },
+  {
+  "Code": "8310",
+  "HEXCODE": "#686e6e"
+  },
+  {
+  "Code": "8311",
+  "HEXCODE": "#747d7a"
+  },
+  {
+  "Code": "8312",
+  "HEXCODE": "#868e90"
+  },
+  {
+  "Code": "8313",
+  "HEXCODE": "#a0a6a6"
+  },
+  {
+  "Code": "8314",
+  "HEXCODE": "#b5bab4"
+  },
+  {
+  "Code": "8315",
+  "HEXCODE": "#bfc5c1"
+  },
+  {
+  "Code": "8316",
+  "HEXCODE": "#dee3dd"
+  },
+  {
+  "Code": "8317",
+  "HEXCODE": "#555a56"
+  },
+  {
+  "Code": "8318",
+  "HEXCODE": "#696f6f"
+  },
+  {
+  "Code": "8319",
+  "HEXCODE": "#767c7a"
+  },
+  {
+  "Code": "8320",
+  "HEXCODE": "#85908c"
+  },
+  {
+  "Code": "8321",
+  "HEXCODE": "#9da6a3"
+  },
+  {
+  "Code": "8322",
+  "HEXCODE": "#c3c8c4"
+  },
+  {
+  "Code": "8323",
+  "HEXCODE": "#d2d4d1"
+  },
+  {
+  "Code": "8324",
+  "HEXCODE": "#e4e6e3"
+  },
+  {
+  "Code": "8325",
+  "HEXCODE": "#5a5b53"
+  },
+  {
+  "Code": "8326",
+  "HEXCODE": "#6f6e69"
+  },
+  {
+  "Code": "8327",
+  "HEXCODE": "#7a7b75"
+  },
+  {
+  "Code": "8328",
+  "HEXCODE": "#8c8f88"
+  },
+  {
+  "Code": "8329",
+  "HEXCODE": "#a0a39c"
+  },
+  {
+  "Code": "8330",
+  "HEXCODE": "#c0c0b6"
+  },
+  {
+  "Code": "8331",
+  "HEXCODE": "#ccccc4"
+  },
+  {
+  "Code": "8332",
+  "HEXCODE": "#e1e0db"
+  },
+  {
+  "Code": "8333",
+  "HEXCODE": "#4e5454"
+  },
+  {
+  "Code": "8334",
+  "HEXCODE": "#657373"
+  },
+  {
+  "Code": "8335",
+  "HEXCODE": "#798384"
+  },
+  {
+  "Code": "8336",
+  "HEXCODE": "#899798"
+  },
+  {
+  "Code": "8337",
+  "HEXCODE": "#a5afb0"
+  },
+  {
+  "Code": "8338",
+  "HEXCODE": "#bdc8c4"
+  },
+  {
+  "Code": "8339",
+  "HEXCODE": "#c6cfcc"
+  },
+  {
+  "Code": "8340",
+  "HEXCODE": "#d5dbd9"
+  },
+  {
+  "Code": "8341",
+  "HEXCODE": "#465b5c"
+  },
+  {
+  "Code": "8342",
+  "HEXCODE": "#697c78"
+  },
+  {
+  "Code": "8343",
+  "HEXCODE": "#899c9a"
+  },
+  {
+  "Code": "8344",
+  "HEXCODE": "#a9b8b5"
+  },
+  {
+  "Code": "8345",
+  "HEXCODE": "#b9cac4"
+  },
+  {
+  "Code": "8346",
+  "HEXCODE": "#cad9d4"
+  },
+  {
+  "Code": "8347",
+  "HEXCODE": "#e0e6e4"
+  },
+  {
+  "Code": "8348",
+  "HEXCODE": "#eef3ed"
+  },
+  {
+  "Code": "8349",
+  "HEXCODE": "#4f5951"
+  },
+  {
+  "Code": "8350",
+  "HEXCODE": "#6b7c72"
+  },
+  {
+  "Code": "8351",
+  "HEXCODE": "#76877d"
+  },
+  {
+  "Code": "8352",
+  "HEXCODE": "#8b9c92"
+  },
+  {
+  "Code": "8353",
+  "HEXCODE": "#a2b3ab"
+  },
+  {
+  "Code": "8354",
+  "HEXCODE": "#bcccc1"
+  },
+  {
+  "Code": "8355",
+  "HEXCODE": "#c7d7cd"
+  },
+  {
+  "Code": "8356",
+  "HEXCODE": "#d23939"
+  },
+  {
+  "Code": "8357",
+  "HEXCODE": "#4e614e"
+  },
+  {
+  "Code": "8358",
+  "HEXCODE": "#6a8171"
+  },
+  {
+  "Code": "8359",
+  "HEXCODE": "#829486"
+  },
+  {
+  "Code": "8360",
+  "HEXCODE": "#869d93"
+  },
+  {
+  "Code": "8361",
+  "HEXCODE": "#a2b4a8"
+  },
+  {
+  "Code": "8362",
+  "HEXCODE": "#c1d6c5"
+  },
+  {
+  "Code": "8363",
+  "HEXCODE": "#d3e1d4"
+  },
+  {
+  "Code": "8364",
+  "HEXCODE": "#e5eae3"
+  },
+  {
+  "Code": "8365",
+  "HEXCODE": "#52584a"
+  },
+  {
+  "Code": "8366",
+  "HEXCODE": "#737a72"
+  },
+  {
+  "Code": "8367",
+  "HEXCODE": "#848f81"
+  },
+  {
+  "Code": "8368",
+  "HEXCODE": "#8e9a90"
+  },
+  {
+  "Code": "8369",
+  "HEXCODE": "#a8b4a8"
+  },
+  {
+  "Code": "8370",
+  "HEXCODE": "#bfc9be"
+  },
+  {
+  "Code": "8371",
+  "HEXCODE": "#dae1d9"
+  },
+  {
+  "Code": "8372",
+  "HEXCODE": "#edf0e9"
+  },
+  {
+  "Code": "8373",
+  "HEXCODE": "#58614c"
+  },
+  {
+  "Code": "8374",
+  "HEXCODE": "#6d7a68"
+  },
+  {
+  "Code": "8375",
+  "HEXCODE": "#869483"
+  },
+  {
+  "Code": "8376",
+  "HEXCODE": "#a2aea0"
+  },
+  {
+  "Code": "8377",
+  "HEXCODE": "#bac7b5"
+  },
+  {
+  "Code": "8378",
+  "HEXCODE": "#c5d2c1"
+  },
+  {
+  "Code": "8379",
+  "HEXCODE": "#d7dfd4"
+  },
+  {
+  "Code": "8380",
+  "HEXCODE": "#e5eae3"
+  },
+  {
+  "Code": "8381",
+  "HEXCODE": "#67735d"
+  },
+  {
+  "Code": "8382",
+  "HEXCODE": "#7b8773"
+  },
+  {
+  "Code": "8383",
+  "HEXCODE": "#89927d"
+  },
+  {
+  "Code": "8384",
+  "HEXCODE": "#93a18a"
+  },
+  {
+  "Code": "8385",
+  "HEXCODE": "#aabda1"
+  },
+  {
+  "Code": "8386",
+  "HEXCODE": "#bbcdb5"
+  },
+  {
+  "Code": "8387",
+  "HEXCODE": "#cfe1c9"
+  },
+  {
+  "Code": "8388",
+  "HEXCODE": "#e4ebdb"
+  },
+  {
+  "Code": "8389",
+  "HEXCODE": "#686c55"
+  },
+  {
+  "Code": "8390",
+  "HEXCODE": "#778169"
+  },
+  {
+  "Code": "8391",
+  "HEXCODE": "#8c947f"
+  },
+  {
+  "Code": "8392",
+  "HEXCODE": "#93998b"
+  },
+  {
+  "Code": "8393",
+  "HEXCODE": "#afb3a2"
+  },
+  {
+  "Code": "8394",
+  "HEXCODE": "#c1cab7"
+  },
+  {
+  "Code": "8395",
+  "HEXCODE": "#d4ddcc"
+  },
+  {
+  "Code": "8396",
+  "HEXCODE": "#ebeee5"
+  },
+  {
+  "Code": "8397",
+  "HEXCODE": "#676954"
+  },
+  {
+  "Code": "8398",
+  "HEXCODE": "#777a69"
+  },
+  {
+  "Code": "8399",
+  "HEXCODE": "#939884"
+  },
+  {
+  "Code": "8400",
+  "HEXCODE": "#9da28e"
+  },
+  {
+  "Code": "8401",
+  "HEXCODE": "#b0b3a2"
+  },
+  {
+  "Code": "8402",
+  "HEXCODE": "#c3c6b1"
+  },
+  {
+  "Code": "8403",
+  "HEXCODE": "#d0d3c2"
+  },
+  {
+  "Code": "8404",
+  "HEXCODE": "#e2e4d7"
+  },
+  {
+  "Code": "8405",
+  "HEXCODE": "#6b6e59"
+  },
+  {
+  "Code": "8406",
+  "HEXCODE": "#828770"
+  },
+  {
+  "Code": "8407",
+  "HEXCODE": "#93997f"
+  },
+  {
+  "Code": "8408",
+  "HEXCODE": "#a6ab95"
+  },
+  {
+  "Code": "8409",
+  "HEXCODE": "#b2baa3"
+  },
+  {
+  "Code": "8410",
+  "HEXCODE": "#c8cdb6"
+  },
+  {
+  "Code": "8411",
+  "HEXCODE": "#d6dec7"
+  },
+  {
+  "Code": "8412",
+  "HEXCODE": "#eaecde"
+  },
+  {
+  "Code": "8413",
+  "HEXCODE": "#69704f"
+  },
+  {
+  "Code": "8414",
+  "HEXCODE": "#768566"
+  },
+  {
+  "Code": "8415",
+  "HEXCODE": "#879478"
+  },
+  {
+  "Code": "8416",
+  "HEXCODE": "#98a385"
+  },
+  {
+  "Code": "8417",
+  "HEXCODE": "#b0ba9f"
+  },
+  {
+  "Code": "8418",
+  "HEXCODE": "#c5d4b5"
+  },
+  {
+  "Code": "8419",
+  "HEXCODE": "#d4dec3"
+  },
+  {
+  "Code": "8420",
+  "HEXCODE": "#dee6cf"
+  },
+  {
+  "Code": "8421",
+  "HEXCODE": "#6e6a5e"
+  },
+  {
+  "Code": "8422",
+  "HEXCODE": "#787566"
+  },
+  {
+  "Code": "8423",
+  "HEXCODE": "#969286"
+  },
+  {
+  "Code": "8424",
+  "HEXCODE": "#a4a293"
+  },
+  {
+  "Code": "8425",
+  "HEXCODE": "#b1afa0"
+  },
+  {
+  "Code": "8426",
+  "HEXCODE": "#c5c2b1"
+  },
+  {
+  "Code": "8427",
+  "HEXCODE": "#dbd8c7"
+  },
+  {
+  "Code": "8428",
+  "HEXCODE": "#ebe7db"
+  },
+  {
+  "Code": "7589",
+  "HEXCODE": "#118f4f"
+  },
+  {
+  "Code": "7590",
+  "HEXCODE": "#36a86c"
+  },
+  {
+  "Code": "7591",
+  "HEXCODE": "#67c593"
+  },
+  {
+  "Code": "7592",
+  "HEXCODE": "#91d9b1"
+  },
+  {
+  "Code": "7593",
+  "HEXCODE": "#a1e2c0"
+  },
+  {
+  "Code": "7594",
+  "HEXCODE": "#abebc9"
+  },
+  {
+  "Code": "7595",
+  "HEXCODE": "#cef4df"
+  },
+  {
+  "Code": "7596",
+  "HEXCODE": "#e6f8ec"
+  },
+  {
+  "Code": "7597",
+  "HEXCODE": "#27734c"
+  },
+  {
+  "Code": "7598",
+  "HEXCODE": "#509e6e"
+  },
+  {
+  "Code": "7599",
+  "HEXCODE": "#70b890"
+  },
+  {
+  "Code": "7600",
+  "HEXCODE": "#91ccac"
+  },
+  {
+  "Code": "7601",
+  "HEXCODE": "#9ed9bd"
+  },
+  {
+  "Code": "7602",
+  "HEXCODE": "#b6e3cc"
+  },
+  {
+  "Code": "7603",
+  "HEXCODE": "#c7e8d5"
+  },
+  {
+  "Code": "7604",
+  "HEXCODE": "#def0e4"
+  },
+  {
+  "Code": "7605",
+  "HEXCODE": "#417b4b"
+  },
+  {
+  "Code": "7606",
+  "HEXCODE": "#5b9e68"
+  },
+  {
+  "Code": "7607",
+  "HEXCODE": "#76b387"
+  },
+  {
+  "Code": "7608",
+  "HEXCODE": "#8fcba5"
+  },
+  {
+  "Code": "7609",
+  "HEXCODE": "#a6dab6"
+  },
+  {
+  "Code": "7610",
+  "HEXCODE": "#bde4c9"
+  },
+  {
+  "Code": "7611",
+  "HEXCODE": "#d2ebd6"
+  },
+  {
+  "Code": "7612",
+  "HEXCODE": "#dfefe2"
+  },
+  {
+  "Code": "7613",
+  "HEXCODE": "#328f48"
+  },
+  {
+  "Code": "7614",
+  "HEXCODE": "#55b06b"
+  },
+  {
+  "Code": "7615",
+  "HEXCODE": "#76c58c"
+  },
+  {
+  "Code": "7616",
+  "HEXCODE": "#a1dcb0"
+  },
+  {
+  "Code": "7617",
+  "HEXCODE": "#abdfbb"
+  },
+  {
+  "Code": "7618",
+  "HEXCODE": "#bfe8ca"
+  },
+  {
+  "Code": "7619",
+  "HEXCODE": "#d2eed8"
+  },
+  {
+  "Code": "7620",
+  "HEXCODE": "#e8f2e7"
+  },
+  {
+  "Code": "7621",
+  "HEXCODE": "#587559"
+  },
+  {
+  "Code": "7622",
+  "HEXCODE": "#729473"
+  },
+  {
+  "Code": "7623",
+  "HEXCODE": "#8dae8f"
+  },
+  {
+  "Code": "7624",
+  "HEXCODE": "#a6c5a6"
+  },
+  {
+  "Code": "7625",
+  "HEXCODE": "#b4d7b7"
+  },
+  {
+  "Code": "7626",
+  "HEXCODE": "#d3ebd3"
+  },
+  {
+  "Code": "7627",
+  "HEXCODE": "#dff0de"
+  },
+  {
+  "Code": "7628",
+  "HEXCODE": "#e8f2e7"
+  },
+  {
+  "Code": "7629",
+  "HEXCODE": "#55744b"
+  },
+  {
+  "Code": "7630",
+  "HEXCODE": "#6e9569"
+  },
+  {
+  "Code": "7631",
+  "HEXCODE": "#83a67c"
+  },
+  {
+  "Code": "7632",
+  "HEXCODE": "#98ba95"
+  },
+  {
+  "Code": "7633",
+  "HEXCODE": "#acc9aa"
+  },
+  {
+  "Code": "7634",
+  "HEXCODE": "#afd1b0"
+  },
+  {
+  "Code": "7635",
+  "HEXCODE": "#cbe2c8"
+  },
+  {
+  "Code": "7636",
+  "HEXCODE": "#d8ebd8"
+  },
+  {
+  "Code": "7637",
+  "HEXCODE": "#608c5b"
+  },
+  {
+  "Code": "7638",
+  "HEXCODE": "#669d63"
+  },
+  {
+  "Code": "7639",
+  "HEXCODE": "#86af87"
+  },
+  {
+  "Code": "7640",
+  "HEXCODE": "#a6cca3"
+  },
+  {
+  "Code": "7641",
+  "HEXCODE": "#b1deb5"
+  },
+  {
+  "Code": "7642",
+  "HEXCODE": "#cef0cf"
+  },
+  {
+  "Code": "7643",
+  "HEXCODE": "#ddeedc"
+  },
+  {
+  "Code": "7644",
+  "HEXCODE": "#dfeedb"
+  },
+  {
+  "Code": "7645",
+  "HEXCODE": "#49803f"
+  },
+  {
+  "Code": "7646",
+  "HEXCODE": "#68a65b"
+  },
+  {
+  "Code": "7647",
+  "HEXCODE": "#88bf7c"
+  },
+  {
+  "Code": "7648",
+  "HEXCODE": "#a5d19e"
+  },
+  {
+  "Code": "7649",
+  "HEXCODE": "#b7e0b4"
+  },
+  {
+  "Code": "7650",
+  "HEXCODE": "#c6e6c1"
+  },
+  {
+  "Code": "7651",
+  "HEXCODE": "#d3eecb"
+  },
+  {
+  "Code": "7652",
+  "HEXCODE": "#f0fae1"
+  },
+  {
+  "Code": "7653",
+  "HEXCODE": "#4ba541"
+  },
+  {
+  "Code": "7654",
+  "HEXCODE": "#75c166"
+  },
+  {
+  "Code": "7655",
+  "HEXCODE": "#93cc87"
+  },
+  {
+  "Code": "7656",
+  "HEXCODE": "#aedea4"
+  },
+  {
+  "Code": "7657",
+  "HEXCODE": "#bfe6b7"
+  },
+  {
+  "Code": "7658",
+  "HEXCODE": "#caedc3"
+  },
+  {
+  "Code": "7659",
+  "HEXCODE": "#e4fad6"
+  },
+  {
+  "Code": "7660",
+  "HEXCODE": "#f2fae3"
+  },
+  {
+  "Code": "7661",
+  "HEXCODE": "#74bf26"
+  },
+  {
+  "Code": "7662",
+  "HEXCODE": "#99cc65"
+  },
+  {
+  "Code": "7663",
+  "HEXCODE": "#add886"
+  },
+  {
+  "Code": "7664",
+  "HEXCODE": "#bfe3a5"
+  },
+  {
+  "Code": "7665",
+  "HEXCODE": "#d2f8bb"
+  },
+  {
+  "Code": "7666",
+  "HEXCODE": "#e6f8d0"
+  },
+  {
+  "Code": "7667",
+  "HEXCODE": "#ebfbd7"
+  },
+  {
+  "Code": "7668",
+  "HEXCODE": "#f1f9e4"
+  },
+  {
+  "Code": "7669",
+  "HEXCODE": "#6c9e47"
+  },
+  {
+  "Code": "7670",
+  "HEXCODE": "#82ba61"
+  },
+  {
+  "Code": "7671",
+  "HEXCODE": "#9ecb86"
+  },
+  {
+  "Code": "7672",
+  "HEXCODE": "#bce4a8"
+  },
+  {
+  "Code": "7673",
+  "HEXCODE": "#cbebba"
+  },
+  {
+  "Code": "7674",
+  "HEXCODE": "#d3eec3"
+  },
+  {
+  "Code": "7675",
+  "HEXCODE": "#e9fad8"
+  },
+  {
+  "Code": "7676",
+  "HEXCODE": "#eaf3e0"
+  },
+  {
+  "Code": "7677",
+  "HEXCODE": "#69804c"
+  },
+  {
+  "Code": "7678",
+  "HEXCODE": "#7e9962"
+  },
+  {
+  "Code": "7679",
+  "HEXCODE": "#9db88b"
+  },
+  {
+  "Code": "7680",
+  "HEXCODE": "#bbd1ab"
+  },
+  {
+  "Code": "7681",
+  "HEXCODE": "#d8e6cd"
+  },
+  {
+  "Code": "7682",
+  "HEXCODE": "#dae6d0"
+  },
+  {
+  "Code": "7683",
+  "HEXCODE": "#e5eedb"
+  },
+  {
+  "Code": "7684",
+  "HEXCODE": "#f1f5e4"
+  },
+  {
+  "Code": "7685",
+  "HEXCODE": "#6e7853"
+  },
+  {
+  "Code": "7686",
+  "HEXCODE": "#89916a"
+  },
+  {
+  "Code": "7687",
+  "HEXCODE": "#919970"
+  },
+  {
+  "Code": "7688",
+  "HEXCODE": "#9da886"
+  },
+  {
+  "Code": "7689",
+  "HEXCODE": "#b3b898"
+  },
+  {
+  "Code": "7690",
+  "HEXCODE": "#d1dec2"
+  },
+  {
+  "Code": "7691",
+  "HEXCODE": "#dbe3cc"
+  },
+  {
+  "Code": "7692",
+  "HEXCODE": "#e7eede"
+  },
+  {
+  "Code": "7693",
+  "HEXCODE": "#6f9447"
+  },
+  {
+  "Code": "7694",
+  "HEXCODE": "#84a65a"
+  },
+  {
+  "Code": "7695",
+  "HEXCODE": "#a0bf7c"
+  },
+  {
+  "Code": "7696",
+  "HEXCODE": "#b8d49a"
+  },
+  {
+  "Code": "7697",
+  "HEXCODE": "#cee6b4"
+  },
+  {
+  "Code": "7698",
+  "HEXCODE": "#d6ebc0"
+  },
+  {
+  "Code": "7699",
+  "HEXCODE": "#e0efce"
+  },
+  {
+  "Code": "7700",
+  "HEXCODE": "#f1f5de"
+  },
+  {
+  "Code": "7701",
+  "HEXCODE": "#85bc18"
+  },
+  {
+  "Code": "7702",
+  "HEXCODE": "#8fbe30"
+  },
+  {
+  "Code": "7703",
+  "HEXCODE": "#a1cc47"
+  },
+  {
+  "Code": "7704",
+  "HEXCODE": "#bbd782"
+  },
+  {
+  "Code": "7705",
+  "HEXCODE": "#cee69c"
+  },
+  {
+  "Code": "7706",
+  "HEXCODE": "#e7f5c2"
+  },
+  {
+  "Code": "7707",
+  "HEXCODE": "#edf5d0"
+  },
+  {
+  "Code": "7708",
+  "HEXCODE": "#f1f5de"
+  },
+  {
+  "Code": "7709",
+  "HEXCODE": "#84b849"
+  },
+  {
+  "Code": "7710",
+  "HEXCODE": "#9fc766"
+  },
+  {
+  "Code": "7711",
+  "HEXCODE": "#b5d982"
+  },
+  {
+  "Code": "7712",
+  "HEXCODE": "#cdeba3"
+  },
+  {
+  "Code": "7713",
+  "HEXCODE": "#daf3b9"
+  },
+  {
+  "Code": "7714",
+  "HEXCODE": "#f1fdd5"
+  },
+  {
+  "Code": "7715",
+  "HEXCODE": "#f4f9e2"
+  },
+  {
+  "Code": "7716",
+  "HEXCODE": "#f2f4de"
+  },
+  {
+  "Code": "7717",
+  "HEXCODE": "#7c854c"
+  },
+  {
+  "Code": "7718",
+  "HEXCODE": "#929e60"
+  },
+  {
+  "Code": "7719",
+  "HEXCODE": "#abb883"
+  },
+  {
+  "Code": "7720",
+  "HEXCODE": "#c1cca1"
+  },
+  {
+  "Code": "7721",
+  "HEXCODE": "#c9d9ac"
+  },
+  {
+  "Code": "7722",
+  "HEXCODE": "#d5e1bb"
+  },
+  {
+  "Code": "7723",
+  "HEXCODE": "#f0f4d9"
+  },
+  {
+  "Code": "7724",
+  "HEXCODE": "#eaeed7"
+  },
+  {
+  "Code": "7725",
+  "HEXCODE": "#7b9f48"
+  },
+  {
+  "Code": "7726",
+  "HEXCODE": "#9db869"
+  },
+  {
+  "Code": "7727",
+  "HEXCODE": "#adc182"
+  },
+  {
+  "Code": "7728",
+  "HEXCODE": "#c0d497"
+  },
+  {
+  "Code": "7729",
+  "HEXCODE": "#cee1aa"
+  },
+  {
+  "Code": "7730",
+  "HEXCODE": "#dcebc2"
+  },
+  {
+  "Code": "7731",
+  "HEXCODE": "#e8f3d3"
+  },
+  {
+  "Code": "7732",
+  "HEXCODE": "#edf5dd"
+  },
+  {
+  "Code": "7733",
+  "HEXCODE": "#8cb31a"
+  },
+  {
+  "Code": "7734",
+  "HEXCODE": "#abca52"
+  },
+  {
+  "Code": "7735",
+  "HEXCODE": "#c3da82"
+  },
+  {
+  "Code": "7736",
+  "HEXCODE": "#cfe197"
+  },
+  {
+  "Code": "7737",
+  "HEXCODE": "#e3f0ba"
+  },
+  {
+  "Code": "7738",
+  "HEXCODE": "#e5f0c5"
+  },
+  {
+  "Code": "7739",
+  "HEXCODE": "#ebf3ce"
+  },
+  {
+  "Code": "7740",
+  "HEXCODE": "#eff5d9"
+  },
+  {
+  "Code": "7741",
+  "HEXCODE": "#aecc14"
+  },
+  {
+  "Code": "7742",
+  "HEXCODE": "#c7e15a"
+  },
+  {
+  "Code": "7743",
+  "HEXCODE": "#d3e68a"
+  },
+  {
+  "Code": "7744",
+  "HEXCODE": "#e5f0b6"
+  },
+  {
+  "Code": "7745",
+  "HEXCODE": "#eff5c9"
+  },
+  {
+  "Code": "7746",
+  "HEXCODE": "#f1f3cc"
+  },
+  {
+  "Code": "7747",
+  "HEXCODE": "#efefd3"
+  },
+  {
+  "Code": "7748",
+  "HEXCODE": "#f6f5e0"
+  },
+  {
+  "Code": "7749",
+  "HEXCODE": "#a7c728"
+  },
+  {
+  "Code": "7750",
+  "HEXCODE": "#b3ca56"
+  },
+  {
+  "Code": "7751",
+  "HEXCODE": "#c9dc82"
+  },
+  {
+  "Code": "7752",
+  "HEXCODE": "#d6e39e"
+  },
+  {
+  "Code": "7753",
+  "HEXCODE": "#e2ebb2"
+  },
+  {
+  "Code": "7754",
+  "HEXCODE": "#e9f0c6"
+  },
+  {
+  "Code": "7755",
+  "HEXCODE": "#f3f3d1"
+  },
+  {
+  "Code": "7756",
+  "HEXCODE": "#f6f8e0"
+  },
+  {
+  "Code": "7757",
+  "HEXCODE": "#b8d721"
+  },
+  {
+  "Code": "7758",
+  "HEXCODE": "#c1d154"
+  },
+  {
+  "Code": "7759",
+  "HEXCODE": "#c9d360"
+  },
+  {
+  "Code": "7760",
+  "HEXCODE": "#cedc7b"
+  },
+  {
+  "Code": "7761",
+  "HEXCODE": "#dce39d"
+  },
+  {
+  "Code": "7762",
+  "HEXCODE": "#e0e8ac"
+  },
+  {
+  "Code": "7763",
+  "HEXCODE": "#ebeeb7"
+  },
+  {
+  "Code": "7764",
+  "HEXCODE": "#f7fadd"
+  },
+  {
+  "Code": "7765",
+  "HEXCODE": "#9db425"
+  },
+  {
+  "Code": "7766",
+  "HEXCODE": "#abbd4f"
+  },
+  {
+  "Code": "7767",
+  "HEXCODE": "#c3cc7d"
+  },
+  {
+  "Code": "7768",
+  "HEXCODE": "#ccd795"
+  },
+  {
+  "Code": "7769",
+  "HEXCODE": "#dfe6b2"
+  },
+  {
+  "Code": "7770",
+  "HEXCODE": "#e4ebb5"
+  },
+  {
+  "Code": "7771",
+  "HEXCODE": "#f0f3d4"
+  },
+  {
+  "Code": "7772",
+  "HEXCODE": "#eef4d2"
+  },
+  {
+  "Code": "7773",
+  "HEXCODE": "#d3eb01"
+  },
+  {
+  "Code": "7774",
+  "HEXCODE": "#e1f74a"
+  },
+  {
+  "Code": "7775",
+  "HEXCODE": "#e4f863"
+  },
+  {
+  "Code": "7776",
+  "HEXCODE": "#e6fa81"
+  },
+  {
+  "Code": "7777",
+  "HEXCODE": "#e6fb96"
+  },
+  {
+  "Code": "7778",
+  "HEXCODE": "#f2fdb1"
+  },
+  {
+  "Code": "7779",
+  "HEXCODE": "#f7ffcc"
+  },
+  {
+  "Code": "7780",
+  "HEXCODE": "#faffd7"
+  },
+  {
+  "Code": "7781",
+  "HEXCODE": "#717042"
+  },
+  {
+  "Code": "7782",
+  "HEXCODE": "#86854f"
+  },
+  {
+  "Code": "7783",
+  "HEXCODE": "#9c9c6a"
+  },
+  {
+  "Code": "7784",
+  "HEXCODE": "#afae80"
+  },
+  {
+  "Code": "7785",
+  "HEXCODE": "#b6b887"
+  },
+  {
+  "Code": "7786",
+  "HEXCODE": "#c7d09b"
+  },
+  {
+  "Code": "7787",
+  "HEXCODE": "#edf3cd"
+  },
+  {
+  "Code": "7788",
+  "HEXCODE": "#f9fdda"
+  },
+  {
+  "Code": "7789",
+  "HEXCODE": "#757046"
+  },
+  {
+  "Code": "7790",
+  "HEXCODE": "#8b875a"
+  },
+  {
+  "Code": "7791",
+  "HEXCODE": "#9d9c5c"
+  },
+  {
+  "Code": "7792",
+  "HEXCODE": "#a7a376"
+  },
+  {
+  "Code": "7793",
+  "HEXCODE": "#b8b685"
+  },
+  {
+  "Code": "7794",
+  "HEXCODE": "#d1d49f"
+  },
+  {
+  "Code": "7795",
+  "HEXCODE": "#eef3cb"
+  },
+  {
+  "Code": "7796",
+  "HEXCODE": "#fdfdd9"
+  },
+  {
+  "Code": "7797",
+  "HEXCODE": "#8e943c"
+  },
+  {
+  "Code": "7798",
+  "HEXCODE": "#9da64b"
+  },
+  {
+  "Code": "7799",
+  "HEXCODE": "#bbbd74"
+  },
+  {
+  "Code": "7800",
+  "HEXCODE": "#c4c986"
+  },
+  {
+  "Code": "7801",
+  "HEXCODE": "#dde6a5"
+  },
+  {
+  "Code": "7802",
+  "HEXCODE": "#eff9bd"
+  },
+  {
+  "Code": "7803",
+  "HEXCODE": "#f4fbc8"
+  },
+  {
+  "Code": "7804",
+  "HEXCODE": "#feffd7"
+  },
+  {
+  "Code": "7805",
+  "HEXCODE": "#9a9949"
+  },
+  {
+  "Code": "7806",
+  "HEXCODE": "#9fa050"
+  },
+  {
+  "Code": "7807",
+  "HEXCODE": "#aeb359"
+  },
+  {
+  "Code": "7808",
+  "HEXCODE": "#c3c773"
+  },
+  {
+  "Code": "7809",
+  "HEXCODE": "#cfd188"
+  },
+  {
+  "Code": "7810",
+  "HEXCODE": "#eaf0aa"
+  },
+  {
+  "Code": "7811",
+  "HEXCODE": "#f3f3bd"
+  },
+  {
+  "Code": "7812",
+  "HEXCODE": "#fcfdd5"
+  },
+  {
+  "Code": "7813",
+  "HEXCODE": "#858049"
+  },
+  {
+  "Code": "7814",
+  "HEXCODE": "#918a56"
+  },
+  {
+  "Code": "7815",
+  "HEXCODE": "#a99e66"
+  },
+  {
+  "Code": "7816",
+  "HEXCODE": "#b8b27e"
+  },
+  {
+  "Code": "7817",
+  "HEXCODE": "#c7c191"
+  },
+  {
+  "Code": "7818",
+  "HEXCODE": "#d4cda1"
+  },
+  {
+  "Code": "7819",
+  "HEXCODE": "#e3deb4"
+  },
+  {
+  "Code": "7820",
+  "HEXCODE": "#fffee0"
+  },
+  {
+  "Code": "7821",
+  "HEXCODE": "#a3a331"
+  },
+  {
+  "Code": "7822",
+  "HEXCODE": "#c2bd55"
+  },
+  {
+  "Code": "7823",
+  "HEXCODE": "#dcd875"
+  },
+  {
+  "Code": "7824",
+  "HEXCODE": "#ddda8b"
+  },
+  {
+  "Code": "7825",
+  "HEXCODE": "#e0e098"
+  },
+  {
+  "Code": "7826",
+  "HEXCODE": "#f3eeb4"
+  },
+  {
+  "Code": "7827",
+  "HEXCODE": "#f3efc2"
+  },
+  {
+  "Code": "7828",
+  "HEXCODE": "#f4f4d0"
+  },
+  {
+  "Code": "7829",
+  "HEXCODE": "#c6cc20"
+  },
+  {
+  "Code": "7830",
+  "HEXCODE": "#f0f34a"
+  },
+  {
+  "Code": "7831",
+  "HEXCODE": "#f3f381"
+  },
+  {
+  "Code": "7832",
+  "HEXCODE": "#f5f59d"
+  },
+  {
+  "Code": "7833",
+  "HEXCODE": "#fdfdc1"
+  },
+  {
+  "Code": "7834",
+  "HEXCODE": "#fdfdcb"
+  },
+  {
+  "Code": "7835",
+  "HEXCODE": "#f8f7d8"
+  },
+  {
+  "Code": "7836",
+  "HEXCODE": "#fdfce8"
+  },
+  {
+  "Code": "7837",
+  "HEXCODE": "#a69840"
+  },
+  {
+  "Code": "7838",
+  "HEXCODE": "#beb25e"
+  },
+  {
+  "Code": "7839",
+  "HEXCODE": "#d5cd84"
+  },
+  {
+  "Code": "7840",
+  "HEXCODE": "#e3df9f"
+  },
+  {
+  "Code": "7841",
+  "HEXCODE": "#ebe5b5"
+  },
+  {
+  "Code": "7842",
+  "HEXCODE": "#f3efc9"
+  },
+  {
+  "Code": "7843",
+  "HEXCODE": "#f3f2d6"
+  },
+  {
+  "Code": "7844",
+  "HEXCODE": "#f3f3d9"
+  },
+  {
+  "Code": "7845",
+  "HEXCODE": "#807643"
+  },
+  {
+  "Code": "7846",
+  "HEXCODE": "#a39862"
+  },
+  {
+  "Code": "7847",
+  "HEXCODE": "#b5ab76"
+  },
+  {
+  "Code": "7848",
+  "HEXCODE": "#c1b98a"
+  },
+  {
+  "Code": "7849",
+  "HEXCODE": "#d1ca9e"
+  },
+  {
+  "Code": "7850",
+  "HEXCODE": "#e1daae"
+  },
+  {
+  "Code": "7851",
+  "HEXCODE": "#e7e3be"
+  },
+  {
+  "Code": "7852",
+  "HEXCODE": "#f4efdb"
+  },
+  {
+  "Code": "7853",
+  "HEXCODE": "#bdb137"
+  },
+  {
+  "Code": "7854",
+  "HEXCODE": "#d1c758"
+  },
+  {
+  "Code": "7855",
+  "HEXCODE": "#e0d97e"
+  },
+  {
+  "Code": "7856",
+  "HEXCODE": "#e8e298"
+  },
+  {
+  "Code": "7857",
+  "HEXCODE": "#f3edb1"
+  },
+  {
+  "Code": "7858",
+  "HEXCODE": "#f5f4c6"
+  },
+  {
+  "Code": "7859",
+  "HEXCODE": "#f5f5d3"
+  },
+  {
+  "Code": "7860",
+  "HEXCODE": "#faf9db"
+  },
+  {
+  "Code": "7861",
+  "HEXCODE": "#ffe226"
+  },
+  {
+  "Code": "7862",
+  "HEXCODE": "#ffe84c"
+  },
+  {
+  "Code": "7863",
+  "HEXCODE": "#fff879"
+  },
+  {
+  "Code": "7864",
+  "HEXCODE": "#ffff93"
+  },
+  {
+  "Code": "7865",
+  "HEXCODE": "#fafab4"
+  },
+  {
+  "Code": "7866",
+  "HEXCODE": "#f8f6c5"
+  },
+  {
+  "Code": "7867",
+  "HEXCODE": "#f8f8d4"
+  },
+  {
+  "Code": "7868",
+  "HEXCODE": "#f5f5db"
+  },
+  {
+  "Code": "7869",
+  "HEXCODE": "#ffd91c"
+  },
+  {
+  "Code": "7870",
+  "HEXCODE": "#ffdb49"
+  },
+  {
+  "Code": "7871",
+  "HEXCODE": "#ffe473"
+  },
+  {
+  "Code": "7872",
+  "HEXCODE": "#ffeb95"
+  },
+  {
+  "Code": "7873",
+  "HEXCODE": "#feeeb2"
+  },
+  {
+  "Code": "7874",
+  "HEXCODE": "#feffff"
+  },
+  {
+  "Code": "7875",
+  "HEXCODE": "#f8f3d3"
+  },
+  {
+  "Code": "7876",
+  "HEXCODE": "#faf8df"
+  },
+  {
+  "Code": "7877",
+  "HEXCODE": "#c2a736"
+  },
+  {
+  "Code": "7878",
+  "HEXCODE": "#d1b853"
+  },
+  {
+  "Code": "7879",
+  "HEXCODE": "#dbc25d"
+  },
+  {
+  "Code": "7880",
+  "HEXCODE": "#ecdb93"
+  },
+  {
+  "Code": "7881",
+  "HEXCODE": "#f6e8a7"
+  },
+  {
+  "Code": "7882",
+  "HEXCODE": "#f5ebb8"
+  },
+  {
+  "Code": "7883",
+  "HEXCODE": "#f8f5cc"
+  },
+  {
+  "Code": "7884",
+  "HEXCODE": "#f6f2d5"
+  },
+  {
+  "Code": "7885",
+  "HEXCODE": "#a98f45"
+  },
+  {
+  "Code": "7886",
+  "HEXCODE": "#bba059"
+  },
+  {
+  "Code": "7887",
+  "HEXCODE": "#c7af69"
+  },
+  {
+  "Code": "7888",
+  "HEXCODE": "#d1bc7d"
+  },
+  {
+  "Code": "7889",
+  "HEXCODE": "#dece9a"
+  },
+  {
+  "Code": "7890",
+  "HEXCODE": "#ecdca9"
+  },
+  {
+  "Code": "7891",
+  "HEXCODE": "#f0e4be"
+  },
+  {
+  "Code": "7892",
+  "HEXCODE": "#f5eed1"
+  },
+  {
+  "Code": "7893",
+  "HEXCODE": "#edc937"
+  },
+  {
+  "Code": "7894",
+  "HEXCODE": "#f4d556"
+  },
+  {
+  "Code": "7895",
+  "HEXCODE": "#fae17d"
+  },
+  {
+  "Code": "7896",
+  "HEXCODE": "#fdea8c"
+  },
+  {
+  "Code": "7897",
+  "HEXCODE": "#faefad"
+  },
+  {
+  "Code": "7898",
+  "HEXCODE": "#fbf2b9"
+  },
+  {
+  "Code": "7899",
+  "HEXCODE": "#f8f1c7"
+  },
+  {
+  "Code": "7900",
+  "HEXCODE": "#fbf6d8"
+  },
+  {
+  "Code": "7901",
+  "HEXCODE": "#e6c12b"
+  },
+  {
+  "Code": "7902",
+  "HEXCODE": "#f4d352"
+  },
+  {
+  "Code": "7903",
+  "HEXCODE": "#f8dd74"
+  },
+  {
+  "Code": "7904",
+  "HEXCODE": "#fbe697"
+  },
+  {
+  "Code": "7905",
+  "HEXCODE": "#fdefae"
+  },
+  {
+  "Code": "7906",
+  "HEXCODE": "#faf4c2"
+  },
+  {
+  "Code": "7907",
+  "HEXCODE": "#f8f2ce"
+  },
+  {
+  "Code": "7908",
+  "HEXCODE": "#fbf6d8"
+  },
+  {
+  "Code": "7909",
+  "HEXCODE": "#ffd811"
+  },
+  {
+  "Code": "7910",
+  "HEXCODE": "#ffe145"
+  },
+  {
+  "Code": "7911",
+  "HEXCODE": "#ffe76b"
+  },
+  {
+  "Code": "7912",
+  "HEXCODE": "#ffed8f"
+  },
+  {
+  "Code": "7913",
+  "HEXCODE": "#fff8a7"
+  },
+  {
+  "Code": "7914",
+  "HEXCODE": "#fdf8be"
+  },
+  {
+  "Code": "7915",
+  "HEXCODE": "#faf7ce"
+  },
+  {
+  "Code": "7916",
+  "HEXCODE": "#faf9db"
+  },
+  {
+  "Code": "7917",
+  "HEXCODE": "#f4bc27"
+  },
+  {
+  "Code": "7918",
+  "HEXCODE": "#f8c63f"
+  },
+  {
+  "Code": "7919",
+  "HEXCODE": "#fdda66"
+  },
+  {
+  "Code": "7920",
+  "HEXCODE": "#ffdf88"
+  },
+  {
+  "Code": "7921",
+  "HEXCODE": "#ffe7a1"
+  },
+  {
+  "Code": "7922",
+  "HEXCODE": "#fee9b2"
+  },
+  {
+  "Code": "7923",
+  "HEXCODE": "#faedc3"
+  },
+  {
+  "Code": "7924",
+  "HEXCODE": "#fbf0d2"
+  },
+  {
+  "Code": "7925",
+  "HEXCODE": "#d1a93a"
+  },
+  {
+  "Code": "7926",
+  "HEXCODE": "#e2bb54"
+  },
+  {
+  "Code": "7927",
+  "HEXCODE": "#ebcb74"
+  },
+  {
+  "Code": "7928",
+  "HEXCODE": "#f3db95"
+  },
+  {
+  "Code": "7929",
+  "HEXCODE": "#fae6ab"
+  },
+  {
+  "Code": "7930",
+  "HEXCODE": "#faecbd"
+  },
+  {
+  "Code": "7931",
+  "HEXCODE": "#f9efd4"
+  },
+  {
+  "Code": "7932",
+  "HEXCODE": "#fef5d8"
+  },
+  {
+  "Code": "7933",
+  "HEXCODE": "#c7943b"
+  },
+  {
+  "Code": "7934",
+  "HEXCODE": "#d1a753"
+  },
+  {
+  "Code": "7935",
+  "HEXCODE": "#e2bd76"
+  },
+  {
+  "Code": "7936",
+  "HEXCODE": "#e8c784"
+  },
+  {
+  "Code": "7937",
+  "HEXCODE": "#f6d8a2"
+  },
+  {
+  "Code": "7938",
+  "HEXCODE": "#f9e8bc"
+  },
+  {
+  "Code": "7939",
+  "HEXCODE": "#f8ecd2"
+  },
+  {
+  "Code": "7940",
+  "HEXCODE": "#faf7e6"
+  },
+  {
+  "Code": "7941",
+  "HEXCODE": "#ffcc00"
+  },
+  {
+  "Code": "7942",
+  "HEXCODE": "#ffd737"
+  },
+  {
+  "Code": "7943",
+  "HEXCODE": "#ffe061"
+  },
+  {
+  "Code": "7944",
+  "HEXCODE": "#ffe88a"
+  },
+  {
+  "Code": "7945",
+  "HEXCODE": "#ffeda1"
+  },
+  {
+  "Code": "7946",
+  "HEXCODE": "#fff0b5"
+  },
+  {
+  "Code": "7947",
+  "HEXCODE": "#faefc2"
+  },
+  {
+  "Code": "7948",
+  "HEXCODE": "#f5eed1"
+  },
+  {
+  "Code": "7949",
+  "HEXCODE": "#ffb441"
+  },
+  {
+  "Code": "7950",
+  "HEXCODE": "#ffb441"
+  },
+  {
+  "Code": "7951",
+  "HEXCODE": "#ffbd5c"
+  },
+  {
+  "Code": "7952",
+  "HEXCODE": "#ffda8c"
+  },
+  {
+  "Code": "7953",
+  "HEXCODE": "#ffe6a3"
+  },
+  {
+  "Code": "7954",
+  "HEXCODE": "#fff0b9"
+  },
+  {
+  "Code": "7955",
+  "HEXCODE": "#faebc2"
+  },
+  {
+  "Code": "7956",
+  "HEXCODE": "#fbf0d2"
+  },
+  {
+  "Code": "7957",
+  "HEXCODE": "#ffa10b"
+  },
+  {
+  "Code": "7958",
+  "HEXCODE": "#ffb041"
+  },
+  {
+  "Code": "7959",
+  "HEXCODE": "#ffbe6a"
+  },
+  {
+  "Code": "7960",
+  "HEXCODE": "#fece84"
+  },
+  {
+  "Code": "7961",
+  "HEXCODE": "#ffdda0"
+  },
+  {
+  "Code": "7962",
+  "HEXCODE": "#fce9bf"
+  },
+  {
+  "Code": "7963",
+  "HEXCODE": "#fbeece"
+  },
+  {
+  "Code": "7964",
+  "HEXCODE": "#f7efd8"
+  },
+  {
+  "Code": "7965",
+  "HEXCODE": "#c78234"
+  },
+  {
+  "Code": "7966",
+  "HEXCODE": "#e19c4f"
+  },
+  {
+  "Code": "7967",
+  "HEXCODE": "#f0bf7d"
+  },
+  {
+  "Code": "7968",
+  "HEXCODE": "#f8c88a"
+  },
+  {
+  "Code": "7969",
+  "HEXCODE": "#fdd9a5"
+  },
+  {
+  "Code": "7970",
+  "HEXCODE": "#fadfa8"
+  },
+  {
+  "Code": "7971",
+  "HEXCODE": "#fdedc9"
+  },
+  {
+  "Code": "7972",
+  "HEXCODE": "#fdf5e0"
+  },
+  {
+  "Code": "7973",
+  "HEXCODE": "#f58a2c"
+  },
+  {
+  "Code": "7974",
+  "HEXCODE": "#fda44a"
+  },
+  {
+  "Code": "7975",
+  "HEXCODE": "#ffb76d"
+  },
+  {
+  "Code": "7976",
+  "HEXCODE": "#ffd28f"
+  },
+  {
+  "Code": "7977",
+  "HEXCODE": "#fed690"
+  },
+  {
+  "Code": "7978",
+  "HEXCODE": "#fce3ba"
+  },
+  {
+  "Code": "7979",
+  "HEXCODE": "#fceecb"
+  },
+  {
+  "Code": "7980",
+  "HEXCODE": "#fef0d3"
+  },
+  {
+  "Code": "7981",
+  "HEXCODE": "#d18941"
+  },
+  {
+  "Code": "7982",
+  "HEXCODE": "#e19b55"
+  },
+  {
+  "Code": "7983",
+  "HEXCODE": "#e9ae74"
+  },
+  {
+  "Code": "7984",
+  "HEXCODE": "#f4c291"
+  },
+  {
+  "Code": "7985",
+  "HEXCODE": "#fcd2a2"
+  },
+  {
+  "Code": "7986",
+  "HEXCODE": "#f9dcb2"
+  },
+  {
+  "Code": "7987",
+  "HEXCODE": "#fde9d0"
+  },
+  {
+  "Code": "7988",
+  "HEXCODE": "#fff2df"
+  },
+  {
+  "Code": "7989",
+  "HEXCODE": "#e67839"
+  },
+  {
+  "Code": "7990",
+  "HEXCODE": "#f88c4b"
+  },
+  {
+  "Code": "7991",
+  "HEXCODE": "#fbab76"
+  },
+  {
+  "Code": "7992",
+  "HEXCODE": "#fdc296"
+  },
+  {
+  "Code": "7993",
+  "HEXCODE": "#fdd0a9"
+  },
+  {
+  "Code": "7994",
+  "HEXCODE": "#fddfbb"
+  },
+  {
+  "Code": "7995",
+  "HEXCODE": "#fae6cd"
+  },
+  {
+  "Code": "7996",
+  "HEXCODE": "#faefdd"
+  },
+  {
+  "Code": "7997",
+  "HEXCODE": "#cc6a29"
+  },
+  {
+  "Code": "7998",
+  "HEXCODE": "#e6915b"
+  },
+  {
+  "Code": "7999",
+  "HEXCODE": "#eba174"
+  },
+  {
+  "Code": "8000",
+  "HEXCODE": "#f5b994"
+  },
+  {
+  "Code": "8001",
+  "HEXCODE": "#fdd1ae"
+  },
+  {
+  "Code": "8002",
+  "HEXCODE": "#fee0c6"
+  },
+  {
+  "Code": "8003",
+  "HEXCODE": "#fdebd7"
+  },
+  {
+  "Code": "8004",
+  "HEXCODE": "#fef5e6"
+  },
+  {
+  "Code": "8005",
+  "HEXCODE": "#af5c3a"
+  },
+  {
+  "Code": "8006",
+  "HEXCODE": "#cb784e"
+  },
+  {
+  "Code": "8007",
+  "HEXCODE": "#e19770"
+  },
+  {
+  "Code": "8008",
+  "HEXCODE": "#eab291"
+  },
+  {
+  "Code": "8009",
+  "HEXCODE": "#f6caaf"
+  },
+  {
+  "Code": "8010",
+  "HEXCODE": "#fbd4b3"
+  },
+  {
+  "Code": "8011",
+  "HEXCODE": "#f8dcc4"
+  },
+  {
+  "Code": "8012",
+  "HEXCODE": "#fbe2ce"
+  },
+  {
+  "Code": "8013",
+  "HEXCODE": "#ae6343"
+  },
+  {
+  "Code": "8014",
+  "HEXCODE": "#b8754b"
+  },
+  {
+  "Code": "8015",
+  "HEXCODE": "#cc926d"
+  },
+  {
+  "Code": "8016",
+  "HEXCODE": "#d7a37e"
+  },
+  {
+  "Code": "8017",
+  "HEXCODE": "#eec09e"
+  },
+  {
+  "Code": "8018",
+  "HEXCODE": "#f3d0b2"
+  },
+  {
+  "Code": "8019",
+  "HEXCODE": "#f5dbc4"
+  },
+  {
+  "Code": "8020",
+  "HEXCODE": "#f6eade"
+  },
+  {
+  "Code": "8781",
+  "HEXCODE": "#f8f8ec"
+  },
+  {
+  "Code": "8782",
+  "HEXCODE": "#faf7e4"
+  },
+  {
+  "Code": "8783",
+  "HEXCODE": "#fef8ec"
+  },
+  {
+  "Code": "8784",
+  "HEXCODE": "#f8efde"
+  },
+  {
+  "Code": "8785",
+  "HEXCODE": "#e7d9bf"
+  },
+  {
+  "Code": "8786",
+  "HEXCODE": "#efe7d2"
+  },
+  {
+  "Code": "8787",
+  "HEXCODE": "#fdf7eb"
+  },
+  {
+  "Code": "8788",
+  "HEXCODE": "#fdf5e0"
+  },
+  {
+  "Code": "8789",
+  "HEXCODE": "#fdf4e5"
+  },
+  {
+  "Code": "8790",
+  "HEXCODE": "#f4e8da"
+  },
+  {
+  "Code": "8791",
+  "HEXCODE": "#fdfaeb"
+  },
+  {
+  "Code": "8792",
+  "HEXCODE": "#f9eddd"
+  },
+  {
+  "Code": "8793",
+  "HEXCODE": "#f9f6e5"
+  },
+  {
+  "Code": "8794",
+  "HEXCODE": "#fefbf4"
+  },
+  {
+  "Code": "8795",
+  "HEXCODE": "#fffdf1"
+  },
+  {
+  "Code": "8796",
+  "HEXCODE": "#fffbe8"
+  },
+  {
+  "Code": "8021",
+  "HEXCODE": "#e7643a"
+  },
+  {
+  "Code": "8022",
+  "HEXCODE": "#f58055"
+  },
+  {
+  "Code": "8023",
+  "HEXCODE": "#f69f81"
+  },
+  {
+  "Code": "8024",
+  "HEXCODE": "#fdb9a2"
+  },
+  {
+  "Code": "8025",
+  "HEXCODE": "#fdcfb7"
+  },
+  {
+  "Code": "8026",
+  "HEXCODE": "#fbd9c0"
+  },
+  {
+  "Code": "8027",
+  "HEXCODE": "#f9e6d5"
+  },
+  {
+  "Code": "8028",
+  "HEXCODE": "#fbefe1"
+  },
+  {
+  "Code": "8029",
+  "HEXCODE": "#bf4530"
+  },
+  {
+  "Code": "8030",
+  "HEXCODE": "#dc7763"
+  },
+  {
+  "Code": "8031",
+  "HEXCODE": "#ee9d8c"
+  },
+  {
+  "Code": "8032",
+  "HEXCODE": "#f7b4a3"
+  },
+  {
+  "Code": "8033",
+  "HEXCODE": "#fbc6b4"
+  },
+  {
+  "Code": "8034",
+  "HEXCODE": "#facec3"
+  },
+  {
+  "Code": "8035",
+  "HEXCODE": "#f9dbd0"
+  },
+  {
+  "Code": "8036",
+  "HEXCODE": "#fde7dc"
+  },
+  {
+  "Code": "8037",
+  "HEXCODE": "#de6548"
+  },
+  {
+  "Code": "8038",
+  "HEXCODE": "#ef8369"
+  },
+  {
+  "Code": "8039",
+  "HEXCODE": "#f6ab98"
+  },
+  {
+  "Code": "8040",
+  "HEXCODE": "#f8bba8"
+  },
+  {
+  "Code": "8041",
+  "HEXCODE": "#fdcab9"
+  },
+  {
+  "Code": "8042",
+  "HEXCODE": "#fad4c7"
+  },
+  {
+  "Code": "8043",
+  "HEXCODE": "#f9e1d5"
+  },
+  {
+  "Code": "8044",
+  "HEXCODE": "#f5ebe2"
+  },
+  {
+  "Code": "8045",
+  "HEXCODE": "#e25740"
+  },
+  {
+  "Code": "8046",
+  "HEXCODE": "#f07b69"
+  },
+  {
+  "Code": "8047",
+  "HEXCODE": "#f49488"
+  },
+  {
+  "Code": "8048",
+  "HEXCODE": "#f8ada7"
+  },
+  {
+  "Code": "8049",
+  "HEXCODE": "#fdc9be"
+  },
+  {
+  "Code": "8050",
+  "HEXCODE": "#fdcbc4"
+  },
+  {
+  "Code": "8051",
+  "HEXCODE": "#fbe2dd"
+  },
+  {
+  "Code": "8052",
+  "HEXCODE": "#fbeee6"
+  },
+  {
+  "Code": "8053",
+  "HEXCODE": "#c54f45"
+  },
+  {
+  "Code": "8054",
+  "HEXCODE": "#dc7b74"
+  },
+  {
+  "Code": "8055",
+  "HEXCODE": "#eb9894"
+  },
+  {
+  "Code": "8056",
+  "HEXCODE": "#f4b4b2"
+  },
+  {
+  "Code": "8057",
+  "HEXCODE": "#f4c7c4"
+  },
+  {
+  "Code": "8058",
+  "HEXCODE": "#facecb"
+  },
+  {
+  "Code": "8059",
+  "HEXCODE": "#fad9d4"
+  },
+  {
+  "Code": "8060",
+  "HEXCODE": "#f8e6e4"
+  },
+  {
+  "Code": "8061",
+  "HEXCODE": "#de4e36"
+  },
+  {
+  "Code": "8062",
+  "HEXCODE": "#ee7d77"
+  },
+  {
+  "Code": "8063",
+  "HEXCODE": "#ef9394"
+  },
+  {
+  "Code": "8064",
+  "HEXCODE": "#f4a6a6"
+  },
+  {
+  "Code": "8065",
+  "HEXCODE": "#f9c1c0"
+  },
+  {
+  "Code": "8066",
+  "HEXCODE": "#f8d0ce"
+  },
+  {
+  "Code": "8067",
+  "HEXCODE": "#f7d9d7"
+  },
+  {
+  "Code": "8068",
+  "HEXCODE": "#f9eeea"
+  },
+  {
+  "Code": "8069",
+  "HEXCODE": "#c33f30"
+  },
+  {
+  "Code": "8070",
+  "HEXCODE": "#cc6d6b"
+  },
+  {
+  "Code": "8071",
+  "HEXCODE": "#e69194"
+  },
+  {
+  "Code": "8072",
+  "HEXCODE": "#eaa2a5"
+  },
+  {
+  "Code": "8073",
+  "HEXCODE": "#f0bcc0"
+  },
+  {
+  "Code": "8074",
+  "HEXCODE": "#f6ccce"
+  },
+  {
+  "Code": "8075",
+  "HEXCODE": "#f9dcde"
+  },
+  {
+  "Code": "8076",
+  "HEXCODE": "#f9eeea"
+  },
+  {
+  "Code": "8077",
+  "HEXCODE": "#b85649"
+  },
+  {
+  "Code": "8078",
+  "HEXCODE": "#c76d6d"
+  },
+  {
+  "Code": "8079",
+  "HEXCODE": "#d88d91"
+  },
+  {
+  "Code": "8080",
+  "HEXCODE": "#e5a7aa"
+  },
+  {
+  "Code": "8081",
+  "HEXCODE": "#f0b9bc"
+  },
+  {
+  "Code": "8082",
+  "HEXCODE": "#f8c6c9"
+  },
+  {
+  "Code": "8083",
+  "HEXCODE": "#fadadb"
+  },
+  {
+  "Code": "8084",
+  "HEXCODE": "#fcede8"
+  },
+  {
+  "Code": "8085",
+  "HEXCODE": "#ba251f"
+  },
+  {
+  "Code": "8086",
+  "HEXCODE": "#d97784"
+  },
+  {
+  "Code": "8087",
+  "HEXCODE": "#e896a4"
+  },
+  {
+  "Code": "8088",
+  "HEXCODE": "#f0acbb"
+  },
+  {
+  "Code": "8089",
+  "HEXCODE": "#f6bcc8"
+  },
+  {
+  "Code": "8090",
+  "HEXCODE": "#f8cdd4"
+  },
+  {
+  "Code": "8091",
+  "HEXCODE": "#fddde2"
+  },
+  {
+  "Code": "8092",
+  "HEXCODE": "#fae6e8"
+  },
+  {
+  "Code": "8429",
+  "HEXCODE": "#5e5a4f"
+  },
+  {
+  "Code": "8430",
+  "HEXCODE": "#79756c"
+  },
+  {
+  "Code": "8431",
+  "HEXCODE": "#7f7b70"
+  },
+  {
+  "Code": "8432",
+  "HEXCODE": "#928f86"
+  },
+  {
+  "Code": "8433",
+  "HEXCODE": "#aca9a2"
+  },
+  {
+  "Code": "8434",
+  "HEXCODE": "#c4bdb3"
+  },
+  {
+  "Code": "8435",
+  "HEXCODE": "#d6d2c9"
+  },
+  {
+  "Code": "8436",
+  "HEXCODE": "#e8e5dc"
+  },
+  {
+  "Code": "8437",
+  "HEXCODE": "#675b4d"
+  },
+  {
+  "Code": "8438",
+  "HEXCODE": "#655b51"
+  },
+  {
+  "Code": "8439",
+  "HEXCODE": "#8a8178"
+  },
+  {
+  "Code": "8440",
+  "HEXCODE": "#9c958b"
+  },
+  {
+  "Code": "8441",
+  "HEXCODE": "#b6aea3"
+  },
+  {
+  "Code": "8442",
+  "HEXCODE": "#d6cfbf"
+  },
+  {
+  "Code": "8443",
+  "HEXCODE": "#e0dace"
+  },
+  {
+  "Code": "8444",
+  "HEXCODE": "#f3efe3"
+  },
+  {
+  "Code": "8445",
+  "HEXCODE": "#6f5f52"
+  },
+  {
+  "Code": "8446",
+  "HEXCODE": "#807061"
+  },
+  {
+  "Code": "8447",
+  "HEXCODE": "#908070"
+  },
+  {
+  "Code": "8448",
+  "HEXCODE": "#a19386"
+  },
+  {
+  "Code": "8449",
+  "HEXCODE": "#b4a69b"
+  },
+  {
+  "Code": "8450",
+  "HEXCODE": "#d3cabb"
+  },
+  {
+  "Code": "8451",
+  "HEXCODE": "#dcd2c6"
+  },
+  {
+  "Code": "8452",
+  "HEXCODE": "#e9e1d4"
+  },
+  {
+  "Code": "8453",
+  "HEXCODE": "#786956"
+  },
+  {
+  "Code": "8454",
+  "HEXCODE": "#877a67"
+  },
+  {
+  "Code": "8455",
+  "HEXCODE": "#a09382"
+  },
+  {
+  "Code": "8456",
+  "HEXCODE": "#b6aa9a"
+  },
+  {
+  "Code": "8457",
+  "HEXCODE": "#ccbfac"
+  },
+  {
+  "Code": "8458",
+  "HEXCODE": "#d2c7b5"
+  },
+  {
+  "Code": "8459",
+  "HEXCODE": "#e1daca"
+  },
+  {
+  "Code": "8460",
+  "HEXCODE": "#e9e1d4"
+  },
+  {
+  "Code": "8461",
+  "HEXCODE": "#756a54"
+  },
+  {
+  "Code": "8462",
+  "HEXCODE": "#7d7664"
+  },
+  {
+  "Code": "8463",
+  "HEXCODE": "#908571"
+  },
+  {
+  "Code": "8464",
+  "HEXCODE": "#998f85"
+  },
+  {
+  "Code": "8465",
+  "HEXCODE": "#b8b1a1"
+  },
+  {
+  "Code": "8466",
+  "HEXCODE": "#cbc3b6"
+  },
+  {
+  "Code": "8467",
+  "HEXCODE": "#d7d1c5"
+  },
+  {
+  "Code": "8468",
+  "HEXCODE": "#e1dbcf"
+  },
+  {
+  "Code": "8469",
+  "HEXCODE": "#665f4f"
+  },
+  {
+  "Code": "8470",
+  "HEXCODE": "#7a7168"
+  },
+  {
+  "Code": "8471",
+  "HEXCODE": "#8a8074"
+  },
+  {
+  "Code": "8472",
+  "HEXCODE": "#aea69b"
+  },
+  {
+  "Code": "8473",
+  "HEXCODE": "#ccc5b5"
+  },
+  {
+  "Code": "8474",
+  "HEXCODE": "#d3ccc2"
+  },
+  {
+  "Code": "8475",
+  "HEXCODE": "#ded5cc"
+  },
+  {
+  "Code": "8476",
+  "HEXCODE": "#f3efe6"
+  },
+  {
+  "Code": "8477",
+  "HEXCODE": "#807350"
+  },
+  {
+  "Code": "8478",
+  "HEXCODE": "#8c8666"
+  },
+  {
+  "Code": "8479",
+  "HEXCODE": "#9c946f"
+  },
+  {
+  "Code": "8480",
+  "HEXCODE": "#a8a383"
+  },
+  {
+  "Code": "8481",
+  "HEXCODE": "#d9d3b3"
+  },
+  {
+  "Code": "8482",
+  "HEXCODE": "#dcd5b9"
+  },
+  {
+  "Code": "8483",
+  "HEXCODE": "#f4eddb"
+  },
+  {
+  "Code": "8484",
+  "HEXCODE": "#f9f7ea"
+  },
+  {
+  "Code": "8485",
+  "HEXCODE": "#847757"
+  },
+  {
+  "Code": "8486",
+  "HEXCODE": "#948661"
+  },
+  {
+  "Code": "8487",
+  "HEXCODE": "#a0926b"
+  },
+  {
+  "Code": "8488",
+  "HEXCODE": "#a39b76"
+  },
+  {
+  "Code": "8489",
+  "HEXCODE": "#c2bda0"
+  },
+  {
+  "Code": "8490",
+  "HEXCODE": "#d7cfab"
+  },
+  {
+  "Code": "8491",
+  "HEXCODE": "#e2ddc7"
+  },
+  {
+  "Code": "8492",
+  "HEXCODE": "#f3f1da"
+  },
+  {
+  "Code": "8493",
+  "HEXCODE": "#736149"
+  },
+  {
+  "Code": "8494",
+  "HEXCODE": "#9b8a70"
+  },
+  {
+  "Code": "8495",
+  "HEXCODE": "#ab9a80"
+  },
+  {
+  "Code": "8496",
+  "HEXCODE": "#b8ac94"
+  },
+  {
+  "Code": "8497",
+  "HEXCODE": "#c6bea9"
+  },
+  {
+  "Code": "8498",
+  "HEXCODE": "#e7dfca"
+  },
+  {
+  "Code": "8499",
+  "HEXCODE": "#e8dfce"
+  },
+  {
+  "Code": "8500",
+  "HEXCODE": "#f5f1e8"
+  },
+  {
+  "Code": "8501",
+  "HEXCODE": "#9e8952"
+  },
+  {
+  "Code": "8502",
+  "HEXCODE": "#b09a5e"
+  },
+  {
+  "Code": "8503",
+  "HEXCODE": "#baa570"
+  },
+  {
+  "Code": "8504",
+  "HEXCODE": "#c2b082"
+  },
+  {
+  "Code": "8505",
+  "HEXCODE": "#d5c395"
+  },
+  {
+  "Code": "8506",
+  "HEXCODE": "#e1d2a7"
+  },
+  {
+  "Code": "8507",
+  "HEXCODE": "#efe4c8"
+  },
+  {
+  "Code": "8508",
+  "HEXCODE": "#f5edd6"
+  },
+  {
+  "Code": "8509",
+  "HEXCODE": "#917850"
+  },
+  {
+  "Code": "8510",
+  "HEXCODE": "#a99068"
+  },
+  {
+  "Code": "8511",
+  "HEXCODE": "#bba279"
+  },
+  {
+  "Code": "8512",
+  "HEXCODE": "#c5ad89"
+  },
+  {
+  "Code": "8513",
+  "HEXCODE": "#d9c5a2"
+  },
+  {
+  "Code": "8514",
+  "HEXCODE": "#e5d7b4"
+  },
+  {
+  "Code": "8515",
+  "HEXCODE": "#f4ead1"
+  },
+  {
+  "Code": "8516",
+  "HEXCODE": "#f6ebd9"
+  },
+  {
+  "Code": "8517",
+  "HEXCODE": "#a5804b"
+  },
+  {
+  "Code": "8518",
+  "HEXCODE": "#bb9662"
+  },
+  {
+  "Code": "8519",
+  "HEXCODE": "#c5a56c"
+  },
+  {
+  "Code": "8520",
+  "HEXCODE": "#d1b180"
+  },
+  {
+  "Code": "8521",
+  "HEXCODE": "#dec29b"
+  },
+  {
+  "Code": "8522",
+  "HEXCODE": "#f0d7ae"
+  },
+  {
+  "Code": "8523",
+  "HEXCODE": "#f3e2c4"
+  },
+  {
+  "Code": "8524",
+  "HEXCODE": "#f9eed2"
+  },
+  {
+  "Code": "8525",
+  "HEXCODE": "#9c7a54"
+  },
+  {
+  "Code": "8526",
+  "HEXCODE": "#ad8f69"
+  },
+  {
+  "Code": "8527",
+  "HEXCODE": "#ba9e76"
+  },
+  {
+  "Code": "8528",
+  "HEXCODE": "#c2a885"
+  },
+  {
+  "Code": "8529",
+  "HEXCODE": "#d6c2a1"
+  },
+  {
+  "Code": "8530",
+  "HEXCODE": "#e3d3b1"
+  },
+  {
+  "Code": "8531",
+  "HEXCODE": "#ebddc3"
+  },
+  {
+  "Code": "8532",
+  "HEXCODE": "#f5ead4"
+  },
+  {
+  "Code": "8533",
+  "HEXCODE": "#947244"
+  },
+  {
+  "Code": "8534",
+  "HEXCODE": "#a07c58"
+  },
+  {
+  "Code": "8535",
+  "HEXCODE": "#af8d68"
+  },
+  {
+  "Code": "8536",
+  "HEXCODE": "#ccb08b"
+  },
+  {
+  "Code": "8537",
+  "HEXCODE": "#d7b899"
+  },
+  {
+  "Code": "8538",
+  "HEXCODE": "#e6ceaa"
+  },
+  {
+  "Code": "8539",
+  "HEXCODE": "#f4e0c7"
+  },
+  {
+  "Code": "8540",
+  "HEXCODE": "#f6e7d4"
+  },
+  {
+  "Code": "8541",
+  "HEXCODE": "#8c6f4d"
+  },
+  {
+  "Code": "8542",
+  "HEXCODE": "#927555"
+  },
+  {
+  "Code": "8543",
+  "HEXCODE": "#9f815f"
+  },
+  {
+  "Code": "8544",
+  "HEXCODE": "#b3987b"
+  },
+  {
+  "Code": "8545",
+  "HEXCODE": "#c2a98b"
+  },
+  {
+  "Code": "8546",
+  "HEXCODE": "#d8c0a4"
+  },
+  {
+  "Code": "8547",
+  "HEXCODE": "#e7d3b8"
+  },
+  {
+  "Code": "8548",
+  "HEXCODE": "#f1e2cf"
+  },
+  {
+  "Code": "8549",
+  "HEXCODE": "#7a5e48"
+  },
+  {
+  "Code": "8550",
+  "HEXCODE": "#8a6c52"
+  },
+  {
+  "Code": "8551",
+  "HEXCODE": "#a3876f"
+  },
+  {
+  "Code": "8552",
+  "HEXCODE": "#c1a991"
+  },
+  {
+  "Code": "8553",
+  "HEXCODE": "#d5bda5"
+  },
+  {
+  "Code": "8554",
+  "HEXCODE": "#d9c3ae"
+  },
+  {
+  "Code": "8555",
+  "HEXCODE": "#e7d2bf"
+  },
+  {
+  "Code": "8556",
+  "HEXCODE": "#f5e4d4"
+  },
+  {
+  "Code": "8557",
+  "HEXCODE": "#a87444"
+  },
+  {
+  "Code": "8558",
+  "HEXCODE": "#ad8057"
+  },
+  {
+  "Code": "8559",
+  "HEXCODE": "#d1aa81"
+  },
+  {
+  "Code": "8560",
+  "HEXCODE": "#e1bf99"
+  },
+  {
+  "Code": "8561",
+  "HEXCODE": "#ebcfa7"
+  },
+  {
+  "Code": "8562",
+  "HEXCODE": "#f3dbb9"
+  },
+  {
+  "Code": "8563",
+  "HEXCODE": "#f5e4c8"
+  },
+  {
+  "Code": "8564",
+  "HEXCODE": "#faebd6"
+  },
+  {
+  "Code": "8565",
+  "HEXCODE": "#896545"
+  },
+  {
+  "Code": "8566",
+  "HEXCODE": "#a17f5c"
+  },
+  {
+  "Code": "8567",
+  "HEXCODE": "#b38c6b"
+  },
+  {
+  "Code": "8568",
+  "HEXCODE": "#be9d7e"
+  },
+  {
+  "Code": "8569",
+  "HEXCODE": "#d2b49c"
+  },
+  {
+  "Code": "8570",
+  "HEXCODE": "#e3c9b0"
+  },
+  {
+  "Code": "8571",
+  "HEXCODE": "#ebd3bb"
+  },
+  {
+  "Code": "8572",
+  "HEXCODE": "#f8ecde"
+  },
+  {
+  "Code": "8573",
+  "HEXCODE": "#916a4d"
+  },
+  {
+  "Code": "8574",
+  "HEXCODE": "#9c795d"
+  },
+  {
+  "Code": "8575",
+  "HEXCODE": "#a27d62"
+  },
+  {
+  "Code": "8576",
+  "HEXCODE": "#b79977"
+  },
+  {
+  "Code": "8577",
+  "HEXCODE": "#ccb297"
+  },
+  {
+  "Code": "8578",
+  "HEXCODE": "#e1c6a9"
+  },
+  {
+  "Code": "8579",
+  "HEXCODE": "#e9d4b7"
+  },
+  {
+  "Code": "8580",
+  "HEXCODE": "#f8e7d7"
+  },
+  {
+  "Code": "8581",
+  "HEXCODE": "#805741"
+  },
+  {
+  "Code": "8582",
+  "HEXCODE": "#9f735a"
+  },
+  {
+  "Code": "8583",
+  "HEXCODE": "#af8368"
+  },
+  {
+  "Code": "8584",
+  "HEXCODE": "#b39178"
+  },
+  {
+  "Code": "8585",
+  "HEXCODE": "#cba990"
+  },
+  {
+  "Code": "8586",
+  "HEXCODE": "#dcbf9f"
+  },
+  {
+  "Code": "8587",
+  "HEXCODE": "#ecd4ba"
+  },
+  {
+  "Code": "8588",
+  "HEXCODE": "#fbe9dd"
+  },
+  {
+  "Code": "8589",
+  "HEXCODE": "#a6653f"
+  },
+  {
+  "Code": "8590",
+  "HEXCODE": "#b97c50"
+  },
+  {
+  "Code": "8591",
+  "HEXCODE": "#d1986d"
+  },
+  {
+  "Code": "8592",
+  "HEXCODE": "#e7b995"
+  },
+  {
+  "Code": "8593",
+  "HEXCODE": "#f0c8a4"
+  },
+  {
+  "Code": "8594",
+  "HEXCODE": "#f7d3af"
+  },
+  {
+  "Code": "8595",
+  "HEXCODE": "#fadbbc"
+  },
+  {
+  "Code": "8596",
+  "HEXCODE": "#fbead8"
+  }
+  ]

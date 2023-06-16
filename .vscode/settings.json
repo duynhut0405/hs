@@ -1,0 +1,5 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.renderWhitespace": "all",
+  "prettier.printWidth": 250,
+}
